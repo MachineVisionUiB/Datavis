@@ -1,6 +1,32 @@
 # Define levels / factors.
 # This can be used to specify fixed vocabularies for the different columns. 
 
+# BRANCHING THIS UNTIL WE HAVE NEW DOWNLOADS.
+
+# Updated with changed taxonomy terms that were edited in database Jan 2, 2022.
+# These will be the correct column names and factors when we have new exports.
+# The following changes were made:
+# RaceEthnicity <- Race/Ethicity 
+# TECHNOLOGIES
+# AI <- AI (General Purpose Artificial Intelligence)
+# Drones <- Drones (UAV)
+# Ocular Implant <- Optical/ocular implant
+# MicroscopeOrTelescope <- Microscope/Telescope
+# TOPICS
+# Robot <- Robot/android
+# RACEETHNICITY
+# Complex <- Multiple/Complex
+# Unknown <- Unknown/Not applicable
+# GENDER
+# Non-binaryOrOther <- Non-binary/Other
+# Unknown <- Unknown/Not applicable
+# SPECIES
+# Unknown <- Unknown/Not applicable
+# AGE
+# Unknown <- Unknown/Not applicable
+# SEXUALITY
+# Unknown <- Unknown/Not applicable
+
 Genres <- c("Narrative", "Art", "Game")
 
 Technologies <- c("Body scans", "Holograms", "Surveillance cameras", 
@@ -35,18 +61,18 @@ Entities <- c("Corporation", "Creator", "Environment", "Government",
               "Humans in general", "Image", "Law enforcement", "Military", 
               "Object", "User")
 
-RaceOrEthnicity <- c("Asian", "Black", "White", "Person of colour",
-                     "Immigrant", "Indigenous", "Multiple/Complex",
-                     "Unknown/Not applicable")
+RaceEthnicity <- c("Asian", "Black", "White", "Person of colour",
+                     "Immigrant", "Indigenous", "Complex",
+                     "Unknown")
 
-Gender <- c("Female", "Male", "Non-binary/Other", "Trans",
-            "Unknown/Not applicable")
+Gender <- c("Female", "Male", "Non-binaryOrOther", "Trans",
+            "Unknown")
 
 Species <- c("Animal", "Cyborg", "Fictional Species", 
-             "Human", "Machine", "Unknown/Not applicable")
+             "Human", "Machine", "Unknown")
 
 Age <- c("Child", "Young adult", "Adult", "Elderly", 
-         "Unknown/Not applicable")
+         "Unknown")
 
 Sexuality <- c("Homosexual", "Heterosexual", "Bi-sexual", 
-               "Other", "Unknown/Not applicable")
+               "Other", "Unknown")
