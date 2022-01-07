@@ -4,16 +4,15 @@
 Genres <- c("Narrative", "Art", "Game")
 
 Technologies <- c("Body scans", "Holograms", "Surveillance cameras", 
-                  "AI (General Purpose Artificial Intelligence)", 
-                  "Drones (UAV)", "Facial recognition", "Image generation", 
+                  "AI", "Drones", "Facial recognition", "Image generation", 
                   "Non-Visible Spectrum", "Virtual reality", 
                   "Augmented reality", "Biometrics", "Camera", "Cameraphone", 
                   "Emotion recognition", "Satellite images",
-                  "Microscope/Telescope", "Object recognition",
-                  "Motion tracking", "UGV", "Optical/ocular implant",
+                  "MicroscopeOrTelescope", "Object recognition",
+                  "Motion tracking", "UGV", "Ocular implant",
                   "Machine learning", "Webcams", "3D scans", "Filtering",
                   "Deepfake", "Interactive panoramas")
-# Deleted Analogue from Technologies. Check that we're really doing that.
+# Deleted Analogue from Technologies. Changed a few of the words.
 # Also, should we shorten names? At least remove parenthesis after AI?
 
 Topics <- c("AI", "Animals", "Automation", "Autonomous vehicles", "City",
