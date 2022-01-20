@@ -11,7 +11,7 @@ library(tidyverse)
 # Import characters file (Characters.csv)
 # define column types and factors
 Characters <- read_csv(
-  "./Data/characters_long.csv",
+  "./data/raw/characters_long.csv",
   col_types = cols(
     CharacterID = col_integer(),
     Character = col_character(),
