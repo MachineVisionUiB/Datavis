@@ -59,8 +59,8 @@ WorkID,WorkTitle,Genre
 162,Daemon,Narrative
 2599,"A Scanner Darkly",Narrative
 2599,"A Scanner Darkly",Movie
-504,"Ayo Technology","Music video"
 504,"Ayo Technology",Narrative
+504,"Ayo Technology","Music video"
 454,"Iron Man",Movie
 454,"Iron Man",Narrative
 936,"House of Cards","Music video"
@@ -272,8 +272,8 @@ WorkID,WorkTitle,Genre
 2356,"Thor: Ragnarok",Narrative
 831,Anon,Narrative
 831,Anon,Movie
-611,"Better Than Us",Narrative
 611,"Better Than Us","TV series or episode"
+611,"Better Than Us",Narrative
 1722,"Black Panther (2018 movie)",Movie
 1722,"Black Panther (2018 movie)",Narrative
 6,"Breathe: A Ghost Story",Narrative
@@ -340,8 +340,8 @@ WorkID,WorkTitle,Genre
 1612,"A Song for a New Day",Novel
 2665,"And Shall Machines Surrender",Narrative
 2665,"And Shall Machines Surrender",Novel
-608,Beforeigners,Narrative
 608,Beforeigners,"TV series or episode"
+608,Beforeigners,Narrative
 368,"Cam Boy",Narrative
 368,"Cam Boy","Music video"
 1001,Exhalation,"Short story"
