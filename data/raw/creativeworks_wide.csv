@@ -1,4 +1,4 @@
-WorkID,WorkTitle,Year,Country,Genre,TechRef,TechUsed,Topic,Sentiment,Situation,SituationID,Characters,CharactersID
+WorkID,WorkTitle,Year,Country,Genre,TechRef,TechUsed,Topic,Sentiment,Situation,SituationID,Character,CharacterID
 3194,comeback,,Turkey,Art,,Filtering,"Nudity, Social Media","Exciting, Flawed","comeback (rejected by Instagram)",3195,,
 164,"Trette Menn",1891,Norway,"Narrative, Novel",,,"Romantic relationship","Exciting, Helpful","Trette menn (Skjermbrett)",2866,,
 82,"The Machine Stops",1909,"United Kingdom","Narrative, Short story","Facial recognition, Object recognition, Surveillance cameras",,"Climate Change, Dystopian, Horror, Robots/androids, Surveillance","Helpful, Neutral","The Machine Stops (Vashti sees Kuni)",268,"Vashti, Kuni","987, 988"
