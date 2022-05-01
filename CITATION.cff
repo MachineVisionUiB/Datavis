@@ -51,7 +51,7 @@ identifiers:
     value: 10.18710/2G0XKN
 repository-code: 'https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/2G0XKN'
 repository: >-
-  https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/2G0XKN
+  https://doi.org/10.18710/2G0XKN
 abstract: >-
   This dataset captures cultural attitudes towards
   machine vision technologies as they are expressed
