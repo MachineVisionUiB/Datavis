@@ -2,7 +2,7 @@
 ## in Artworks, Games and Narratives
 ##
 # Scripts for handling the data in R. Scripts written by Jill Walker Rettberg.
-# March 18, 2022.
+# March 18, 2022. 
 # 
 
 # The dataset can be found at: --------------------------------------------
