@@ -1,0 +1,2267 @@
+SituationID,Situation,Colours,AestheticCharacteristics,MachinePOV
+1660,"Data-Masks (Series) (reverse engineering facial recognition)",White,Metallic,False
+1903,"FACELESS (making a CCTV film)",NA,Glitchy,False
+1903,"FACELESS (making a CCTV film)",NA,"birds eye view",False
+1903,"FACELESS (making a CCTV film)",NA,Pixelated,False
+1903,"FACELESS (making a CCTV film)",NA,Low-quality,False
+3092,"Gruppebilde Bergen 2020 (assembling a dataset to generate portraits)","Black and white",Portraits,False
+3092,"Gruppebilde Bergen 2020 (assembling a dataset to generate portraits)",Multicolored,Portraits,False
+2247,"Sharing locations: YONGSAN & HUMPHREY GARRISON (obfuscating satellite images)",NA,Aerial,False
+1691,"Sustaining Gazes (measuring the gaze)",Violet,Scientific,False
+1691,"Sustaining Gazes (measuring the gaze)",Violet,Abstract,False
+1691,"Sustaining Gazes (measuring the gaze)",Blue,Scientific,False
+1691,"Sustaining Gazes (measuring the gaze)",Blue,Abstract,False
+1691,"Sustaining Gazes (measuring the gaze)",Red,Scientific,False
+1691,"Sustaining Gazes (measuring the gaze)",Red,Abstract,False
+1691,"Sustaining Gazes (measuring the gaze)",Yellow,Scientific,False
+1691,"Sustaining Gazes (measuring the gaze)",Yellow,Abstract,False
+3148,"The Human Detector (avoiding detection)",White,Graphic,False
+3148,"The Human Detector (avoiding detection)",White,Minimalistic,False
+3148,"The Human Detector (avoiding detection)",Blue,Graphic,False
+3148,"The Human Detector (avoiding detection)",Blue,Minimalistic,False
+3148,"The Human Detector (avoiding detection)",Black,Graphic,False
+3148,"The Human Detector (avoiding detection)",Black,Minimalistic,False
+3148,"The Human Detector (avoiding detection)",Red,Graphic,False
+3148,"The Human Detector (avoiding detection)",Red,Minimalistic,False
+1762,"(e)motion (aware of micro expressions)",Black,"High Contrast",False
+1762,"(e)motion (aware of micro expressions)",Black,Saturated,False
+1762,"(e)motion (aware of micro expressions)",Black,Scientific,False
+1762,"(e)motion (aware of micro expressions)",Yellow,"High Contrast",False
+1762,"(e)motion (aware of micro expressions)",Yellow,Saturated,False
+1762,"(e)motion (aware of micro expressions)",Yellow,Scientific,False
+1762,"(e)motion (aware of micro expressions)",Red,"High Contrast",False
+1762,"(e)motion (aware of micro expressions)",Red,Saturated,False
+1762,"(e)motion (aware of micro expressions)",Red,Scientific,False
+2565,"(In)Security Camera (insecure security camera)",White,Surprising,False
+2565,"(In)Security Camera (insecure security camera)",White,Anthropomorphic,False
+2565,"(In)Security Camera (insecure security camera)",Black,Surprising,False
+2565,"(In)Security Camera (insecure security camera)",Black,Anthropomorphic,False
+1995,"... som duften av en drøm... (Elders are wearing 3V-helmets when they are in care)",NA,NA,False
+1993,"... som duften av en drøm... (Eye scanning)",NA,NA,False
+1897,"... som duften av en drøm... (Nature captured by VV cameras)",NA,NA,False
+1996,"... som duften av en drøm... (The reader is identified by a lifting drone in order to be carried by it)",NA,NA,False
+1994,"... som duften av en drøm... (The reader is wearing 3V-glasses)",NA,NA,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Blue,Geometric,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Blue,Collage,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Blue,Movment,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Blue,Generic,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Blue,Synthetic,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",White,Geometric,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",White,Collage,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",White,Movment,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",White,Generic,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",White,Synthetic,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Black,Geometric,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Black,Collage,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Black,Movment,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Black,Generic,False
+322,"10.000 Moving Cities – Same but Different (Social Media Cities in Virtual Space)",Black,Synthetic,False
+1653,"15 minutes of biometric fame (maching faces to celeberties)",NA,Portraits,False
+1653,"15 minutes of biometric fame (maching faces to celeberties)",NA,Metallic,False
+1785,"17 Cities (hacking into wireless security camera feeds)",NA,"Hacker aesthetics",False
+2370,"2.0 (Hologram reveals aura)",Blue,NA,True
+2367,"2.0 (Interactive hologram)",Blue,Transparent,False
+2368,"2.0 (Nila bypasses ethical guidelines to hack locked door)",Blue,Informational,True
+2366,"2.0 (Nila scans for electromagnetic radiation)",Blue,Informational,True
+2289,"2001: A Space Odyssey (film) (HAL learns of the pilots intentions)",Black,Intrusive,False
+2289,"2001: A Space Odyssey (film) (HAL learns of the pilots intentions)",White,Intrusive,False
+2289,"2001: A Space Odyssey (film) (HAL learns of the pilots intentions)",Orange,Intrusive,False
+2289,"2001: A Space Odyssey (film) (HAL learns of the pilots intentions)",Red,Intrusive,False
+2287,"2001: A Space Odyssey (film) (HAL turns off life support for crew in stasis units)",NA,NA,True
+2275,"2001: A Space Odyssey (film) (Remote image and audio conversation between Earth and the moon)",Blue,NA,False
+2286,"2001: A Space Odyssey (novel) (Looking back home through a telescope)",NA,NA,False
+2281,"2001: A Space Odyssey (novel) (Observation cameras)",NA,NA,False
+2282,"2001: A Space Odyssey (novel) (Probe recording non-visible spectrum data)",NA,NA,False
+2284,"2001: A Space Odyssey (novel)(Biosensor displays)",NA,NA,False
+2283,"2001: A Space Odyssey (novel)(HAL 9000's many camera-eyes)",NA,NA,False
+2288,"2001: A Space Odyssey (novel)(Video communication with Mission Control)",NA,NA,False
+1939,"2033: La Ilusión de un Futuro Mejor (Biometric to identify and anonymise)",Black,Target,True
+1939,"2033: La Ilusión de un Futuro Mejor (Biometric to identify and anonymise)","Green tint",Target,True
+1938,"2033: La Ilusión de un Futuro Mejor (Hunting)",Yellow,Target,False
+1938,"2033: La Ilusión de un Futuro Mejor (Hunting)",Yellow,Targeting,False
+1938,"2033: La Ilusión de un Futuro Mejor (Hunting)",Black,Target,False
+1938,"2033: La Ilusión de un Futuro Mejor (Hunting)",Black,Targeting,False
+1936,"2033: La Ilusión de un Futuro Mejor (Monitor consumption of Pectanol)",White,Target,True
+1936,"2033: La Ilusión de un Futuro Mejor (Monitor consumption of Pectanol)",Red,Target,True
+1936,"2033: La Ilusión de un Futuro Mejor (Monitor consumption of Pectanol)",Purple,Target,True
+1933,"2033: La Ilusión de un Futuro Mejor (Provide doses of Pectanol)",Grey,Futuristic,False
+1933,"2033: La Ilusión de un Futuro Mejor (Provide doses of Pectanol)",Grey,Minimalistic,False
+1933,"2033: La Ilusión de un Futuro Mejor (Provide doses of Pectanol)","Green tint",Futuristic,False
+1933,"2033: La Ilusión de un Futuro Mejor (Provide doses of Pectanol)","Green tint",Minimalistic,False
+2922,"2033: La Ilusión de un Futuro Mejor (Tricking retina scanner)",Red,Futuristic,False
+2922,"2033: La Ilusión de un Futuro Mejor (Tricking retina scanner)",Green,Futuristic,False
+2922,"2033: La Ilusión de un Futuro Mejor (Tricking retina scanner)",Blue,Futuristic,False
+2204,"3% (Emotion Recognition in Interviews)",White,Overlay,False
+2207,"3% (Facial Recognition in Surveillance Footage)",NA,NA,False
+2205,"3% (Surveillance Cameras in Streets)",NA,NA,False
+2821,"3x3x6 (Audiences participating and being surveilled)",NA,Scientific,False
+2821,"3x3x6 (Audiences participating and being surveilled)",NA,Distorted,False
+295,"79530 Self Portraits (GAN transforming errors)",brown,Smudgy,False
+295,"79530 Self Portraits (GAN transforming errors)",brown,Fleshy,False
+295,"79530 Self Portraits (GAN transforming errors)",brown,Uncanny,False
+295,"79530 Self Portraits (GAN transforming errors)",brown,Morphing,False
+295,"79530 Self Portraits (GAN transforming errors)",brown,Blobby,False
+295,"79530 Self Portraits (GAN transforming errors)",Red,Smudgy,False
+295,"79530 Self Portraits (GAN transforming errors)",Red,Fleshy,False
+295,"79530 Self Portraits (GAN transforming errors)",Red,Uncanny,False
+295,"79530 Self Portraits (GAN transforming errors)",Red,Morphing,False
+295,"79530 Self Portraits (GAN transforming errors)",Red,Blobby,False
+295,"79530 Self Portraits (GAN transforming errors)",Black,Smudgy,False
+295,"79530 Self Portraits (GAN transforming errors)",Black,Fleshy,False
+295,"79530 Self Portraits (GAN transforming errors)",Black,Uncanny,False
+295,"79530 Self Portraits (GAN transforming errors)",Black,Morphing,False
+295,"79530 Self Portraits (GAN transforming errors)",Black,Blobby,False
+295,"79530 Self Portraits (GAN transforming errors)",Skincolor,Smudgy,False
+295,"79530 Self Portraits (GAN transforming errors)",Skincolor,Fleshy,False
+295,"79530 Self Portraits (GAN transforming errors)",Skincolor,Uncanny,False
+295,"79530 Self Portraits (GAN transforming errors)",Skincolor,Morphing,False
+295,"79530 Self Portraits (GAN transforming errors)",Skincolor,Blobby,False
+1012,">observer_ (Augmented visions)",NA,Dark,True
+1012,">observer_ (Augmented visions)",NA,"High Contrast",True
+1013,">observer_ (Holographic projections)",Blue,Luminous,False
+3249,">observer_ (Neural police analysing mind VR)",NA,Surreal,False
+3249,">observer_ (Neural police analysing mind VR)",NA,Swirly,False
+1644,"A Closed and Common Orbit (AI gets a body kit)",NA,NA,True
+1645,"A Closed and Common Orbit (Sidra gets petbots)",NA,NA,False
+2675,"A Date in 2025 (Daniel dating Amber)",Blue,Simple,False
+2675,"A Date in 2025 (Daniel dating Amber)",Blue,Clear,False
+2675,"A Date in 2025 (Daniel dating Amber)",Blue,Glitchy,False
+2675,"A Date in 2025 (Daniel dating Amber)",White,Simple,False
+2675,"A Date in 2025 (Daniel dating Amber)",White,Clear,False
+2675,"A Date in 2025 (Daniel dating Amber)",White,Glitchy,False
+3228,"A Disappeared Movement (Participants avoid surveillance cameras)",Orange,Scientific,False
+3228,"A Disappeared Movement (Participants avoid surveillance cameras)",Orange,Urban,False
+1157,"A Hipster Bar (hipster recognition)",Violet,Startup,False
+1157,"A Hipster Bar (hipster recognition)",Pink,Startup,False
+2383,"A Memory Called Empire (Cloudhooks)",NA,NA,False
+2386,"A Memory Called Empire (Holographs)",Gold,NA,False
+2602,"A Scanner Darkly (Bob is Identified)",Red,Rectangular,True
+2605,"A Scanner Darkly (Fred is Surveilling Bob)",NA,Fast-forward,True
+2601,"A Scanner Darkly (Scramble Suit)",NA,Shifting,False
+2601,"A Scanner Darkly (Scramble Suit)",NA,Vague,False
+2601,"A Scanner Darkly (Scramble Suit)",NA,Blurred,False
+1633,"A Song for a New Day (facial recognition for payment)",NA,NA,False
+1635,"A Song for a New Day (homogenous VR avatars)",NA,Glossy,False
+1631,"A Song for a New Day (VR bar)",NA,NA,False
+1632,"A Song for a New Day (VR rock concert)",NA,NA,False
+494,"A View to a Kill (Bond`s identity revealed)",NA,Pixelated,False
+2800,"Agency (Eunice's drones)",NA,NA,False
+2799,"Agency (Night vision)",Green,NA,False
+2799,"Agency (Night vision)",dark,NA,False
+1492,"AI Amok (Hundred Eyes tracks Kosuke)",NA,NA,True
+1490,"AI Amok (Nozomi analyzes world population)",Red,Clean,True
+1490,"AI Amok (Nozomi analyzes world population)",Red,Scientific,True
+1490,"AI Amok (Nozomi analyzes world population)",Red,Authoritative,True
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Black,Metallic,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Black,Mechanical,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Black,Authoritative,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",White,Metallic,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",White,Mechanical,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",White,Authoritative,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Red,Metallic,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Red,Mechanical,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Red,Authoritative,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Blue,Metallic,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Blue,Mechanical,False
+3211,"AI Facial Profiling, Levels of Paranoia (classifying threat)",Blue,Authoritative,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",brown,Blobby,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",brown,Organic,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",brown,Smudgy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",brown,Fleshy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",brown,Uncanny,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Red,Blobby,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Red,Organic,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Red,Smudgy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Red,Fleshy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Red,Uncanny,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Ocher,Blobby,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Ocher,Organic,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Ocher,Smudgy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Ocher,Fleshy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Ocher,Uncanny,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Black,Blobby,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Black,Organic,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Black,Smudgy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Black,Fleshy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",Black,Uncanny,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",White,Blobby,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",White,Organic,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",White,Smudgy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",White,Fleshy,False
+725,"AI Generated Nude Portraits (GAN creating portraits)",White,Uncanny,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Pink,Screenshots,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Pink,Presentation,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Pink,Confidence,False
+658,"AI, Ain't I A Woman (Facial Recognition)",White,Screenshots,False
+658,"AI, Ain't I A Woman (Facial Recognition)",White,Presentation,False
+658,"AI, Ain't I A Woman (Facial Recognition)",White,Confidence,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Sepia,Screenshots,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Sepia,Presentation,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Sepia,Confidence,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Black,Screenshots,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Black,Presentation,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Black,Confidence,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Gray,Screenshots,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Gray,Presentation,False
+658,"AI, Ain't I A Woman (Facial Recognition)",Gray,Confidence,False
+1472,"AI: The Somnium Files (AI X-ray vision)",Blue,Dark,True
+1472,"AI: The Somnium Files (AI X-ray vision)",Blue,Framed,True
+564,"Alien: Blackout (Escaping the alien)",Gray,Grainy,True
+564,"Alien: Blackout (Escaping the alien)",Gray,Dark,True
+2305,"Alita: Battle Angel (Body scan analyzing the body and brain)",Blue,NA,False
+2304,"Alita: Battle Angel (Object recognition used to identify scrap)",Blue,laser,False
+335,"Alone (Augmented Reality)",NA,NA,False
+334,"Alone (Surveillance cameras)","Black and white",Grainy,False
+333,"Alone (Webcams)","Black and white",Glitchy,False
+333,"Alone (Webcams)","Black and white","Hacker aesthetics",False
+2243,"America is Bleeding (Streaming surveillance footage)",NA,"control room",False
+2243,"America is Bleeding (Streaming surveillance footage)",NA,Mosiac,False
+2697,"ANA (Robot decieves human)",Yellow,Grid,True
+2697,"ANA (Robot decieves human)",White,Grid,True
+2697,"ANA (Robot decieves human)",Red,Grid,True
+2697,"ANA (Robot decieves human)",Gray,Grid,True
+246,"Ancillary Justice (AI)",NA,NA,False
+2667,"And Shall Machines Surrender (Computer-generated surroundings)",Purple,Fluid,False
+2667,"And Shall Machines Surrender (Computer-generated surroundings)",Purple,Violent,False
+2667,"And Shall Machines Surrender (Computer-generated surroundings)",Purple,Organic,False
+2667,"And Shall Machines Surrender (Computer-generated surroundings)",White,Fluid,False
+2667,"And Shall Machines Surrender (Computer-generated surroundings)",White,Violent,False
+2667,"And Shall Machines Surrender (Computer-generated surroundings)",White,Organic,False
+2666,"And Shall Machines Surrender (Optical implants)",NA,Informational,False
+2402,"Android Kunjappan Version 5.25 (Android analyses soil substance)",Blue,NA,True
+2401,"Android Kunjappan Version 5.25 (Android scans and gives advice)",Blue,NA,True
+2537,"Animal Classifier (classifying images of animals)",NA,Magical,False
+2537,"Animal Classifier (classifying images of animals)",NA,Alchemy,False
+2537,"Animal Classifier (classifying images of animals)",NA,Collection,False
+2966,"ANON (Augmented Reality Identifying and Classifying)",White,Overlay,False
+835,"Anon (Naked lesbians murdered)",Warm,"Soft porn",False
+837,"Anon (Sal deceives surveillance)",Black,NA,False
+1549,"ANONYMOUS: Anonymity scarf (hiding from facial recognition)",White,Photorealistic,False
+1549,"ANONYMOUS: Anonymity scarf (hiding from facial recognition)",White,Fashionable,False
+1549,"ANONYMOUS: Anonymity scarf (hiding from facial recognition)",Skincolor,Photorealistic,False
+1549,"ANONYMOUS: Anonymity scarf (hiding from facial recognition)",Skincolor,Fashionable,False
+1549,"ANONYMOUS: Anonymity scarf (hiding from facial recognition)",Peach,Photorealistic,False
+1549,"ANONYMOUS: Anonymity scarf (hiding from facial recognition)",Peach,Fashionable,False
+2567,"Antibodies (recognzing faces)","Black and white",Grid,False
+2567,"Antibodies (recognzing faces)","Black and white",Collage,False
+2567,"Antibodies (recognzing faces)",White,Grid,False
+2567,"Antibodies (recognzing faces)",White,Collage,False
+2760,"Any Vision (Magnifying poem text)","Black and white",Industrial,False
+2760,"Any Vision (Magnifying poem text)","Black and white",Scientific,False
+2859,"Arc of a Scythe (Hiding from Thunderhead)",NA,NA,False
+2865,"Arc of a Scythe (New AI is giddy with power)",NA,NA,False
+2861,"Arc of a Scythe (Thunderhead watches everyone)",NA,NA,False
+2862,"Arc of a Scythe (Thunderhead's pain)",NA,NA,False
+1884,"Arrival (Satellite feed of China)",Blue,Grid,False
+1884,"Arrival (Satellite feed of China)",Blue,Informational,False
+3183,"Artificial Remnants 2.0 (generating new specimens of insects)",NA,3D,False
+3183,"Artificial Remnants 2.0 (generating new specimens of insects)",NA,Organic,False
+914,"as.phyx.i.a (dancing)",Black,Stark,False
+914,"as.phyx.i.a (dancing)",Black,Fluid,False
+914,"as.phyx.i.a (dancing)",Black,Web,False
+914,"as.phyx.i.a (dancing)",Black,Glitchy,False
+914,"as.phyx.i.a (dancing)",White,Stark,False
+914,"as.phyx.i.a (dancing)",White,Fluid,False
+914,"as.phyx.i.a (dancing)",White,Web,False
+914,"as.phyx.i.a (dancing)",White,Glitchy,False
+3233,"Assassin's Creed IV: Black Flag (Hacking surveillance camera)",NA,NA,True
+1686,"Assassin's Creed IV: Black Flag (Hologram cannot be in a body)",Blue,NA,False
+2614,"Assassin's Creed IV: Black Flag (The Animus)",NA,Photorealistic,True
+2983,"Assembly Line (Compensating AMT labor)","Black and white",Sculpture,False
+2983,"Assembly Line (Compensating AMT labor)","Black and white",3D,False
+2983,"Assembly Line (Compensating AMT labor)","Black and white",Abstract,False
+746,"Astral Chain (IRIS tool)",NA,Neon,True
+1212,"Asunder (environmental managing)",NA,Scientific,False
+1212,"Asunder (environmental managing)",NA,Aerial,False
+591,"Asymmetric Love (Surveillance chandelier)",Black,Symbolic,False
+591,"Asymmetric Love (Surveillance chandelier)",Black,Hardware,False
+591,"Asymmetric Love (Surveillance chandelier)",Black,Technical,False
+591,"Asymmetric Love (Surveillance chandelier)",White,Symbolic,False
+591,"Asymmetric Love (Surveillance chandelier)",White,Hardware,False
+591,"Asymmetric Love (Surveillance chandelier)",White,Technical,False
+591,"Asymmetric Love (Surveillance chandelier)",Gray,Symbolic,False
+591,"Asymmetric Love (Surveillance chandelier)",Gray,Hardware,False
+591,"Asymmetric Love (Surveillance chandelier)",Gray,Technical,False
+3128,"Attack Surface (Assumption of constant surveillance)",NA,NA,False
+3127,"Attack Surface (Dazzle makeup)",NA,NA,False
+3126,"Attack Surface (Drone brings wedding gift)",NA,NA,False
+3138,"Attack Surface (Drones surveilling protest)",NA,NA,False
+3140,"Autonomous (Paladin hacks the sprinklers)",NA,NA,True
+3142,"Autonomous (Paladin in love)",NA,NA,False
+3143,"Autonomous (Paladin loses facial recognition)",NA,NA,True
+300,"Autonomous Trap 001 (Trapping a Self-Driving Car)",Grey,Pagan,False
+300,"Autonomous Trap 001 (Trapping a Self-Driving Car)",Grey,Slow,False
+300,"Autonomous Trap 001 (Trapping a Self-Driving Car)",Grey,Mountains,False
+300,"Autonomous Trap 001 (Trapping a Self-Driving Car)",Washed-Out,Pagan,False
+300,"Autonomous Trap 001 (Trapping a Self-Driving Car)",Washed-Out,Slow,False
+300,"Autonomous Trap 001 (Trapping a Self-Driving Car)",Washed-Out,Mountains,False
+2102,"Avengers: Endgame (AR inside of robotic suits)",NA,Filtered,False
+2134,"Avengers: Endgame (Avengers use AR interfaces)",Blue,Transparent,False
+2103,"Avengers: Endgame (Iron Man uses infrafred vision)",Red,Infrared,True
+2103,"Avengers: Endgame (Iron Man uses infrafred vision)",Yellow,Infrared,True
+2103,"Avengers: Endgame (Iron Man uses infrafred vision)",Blue,Infrared,True
+2133,"Avengers: Endgame (Nebula projects hologram of future self)",Blue,NA,False
+2098,"Avengers: Infinity War (AR inside of robotic suits)",NA,NA,False
+2099,"Avengers: Infinity War (AR to remove Infinity Stone from Avenger)",Yellow,Transparent,False
+2099,"Avengers: Infinity War (AR to remove Infinity Stone from Avenger)",Yellow,Organic,False
+2096,"Avengers: Infinity War (Holographic conversation with government officials)",Blue,NA,False
+2100,"Avengers: Infinity War (Nebula forced to display hologram)",Blue,NA,False
+315,"Awake (Drone getting shot)",NA,Birdseyeview,False
+315,"Awake (Drone getting shot)",NA,Blurred,False
+315,"Awake (Drone getting shot)",NA,Fractured,False
+317,"Awake (Drones documenting oppression)",NA,Birdseyeview,False
+503,"Ayo Technology (50 Cent spying using telescope)",Green,Military,True
+503,"Ayo Technology (50 Cent spying using telescope)",Green,Rifleview,True
+503,"Ayo Technology (50 Cent spying using telescope)",Green,Birdseyeview,True
+505,"Ayo Technology (Timbaland spies on women)",Green,Grainy,False
+505,"Ayo Technology (Timbaland spies on women)",Green,nightvision,False
+505,"Ayo Technology (Timbaland spies on women)",Red,Grainy,False
+505,"Ayo Technology (Timbaland spies on women)",Red,nightvision,False
+716,"B.I.T. Plane (Drone investigating)",Black,Grainy,False
+716,"B.I.T. Plane (Drone investigating)",Black,Birdseyeview,False
+716,"B.I.T. Plane (Drone investigating)",Black,Glitchy,False
+716,"B.I.T. Plane (Drone investigating)",White,Grainy,False
+716,"B.I.T. Plane (Drone investigating)",White,Birdseyeview,False
+716,"B.I.T. Plane (Drone investigating)",White,Glitchy,False
+2766,"Batman: Arkham Knight (Investigate mutilated body)",Monochrome,Zooming,True
+2766,"Batman: Arkham Knight (Investigate mutilated body)",Monochrome,Informational,True
+1482,"Batman: Arkham Knight (Reconstruct biometric access)",NA,NA,False
+2769,"Batman: Arkham Knight (Scan drone to locate weak points)",Blue,Grid,True
+3035,"Before Your Eyes (Blinking through memories)",NA,NA,False
+607,"Beforeigners (drone kills Navn)",Green,Target,False
+607,"Beforeigners (drone kills Navn)",Green,Overlay,False
+607,"Beforeigners (drone kills Navn)",Green,Animation,False
+607,"Beforeigners (drone kills Navn)",Green,Pulsating,False
+2230,"Behind our irises (Company upgrade 1)",NA,NA,False
+2223,"Behind our irises (Keaboka deactivates nanobots)",NA,NA,False
+1614,"Behold these Glorious Times! (producing training data)",NA,Overwhelming,False
+398,"Beholder (Landlord monitoring tenants)",NA,Dark,False
+390,"Belief Systems (Shopping for kettle with face)",Blue,Cold,False
+390,"Belief Systems (Shopping for kettle with face)",Blue,Clinical,False
+390,"Belief Systems (Shopping for kettle with face)",Blue,Streamlined,False
+2360,"Best friend (Arthur buys new ""best friend"" eyedrops)",NA,NA,False
+2361,"Best friend (Arthur gets button cut out and stolen)",NA,NA,False
+2350,"Best Friend (Karaoke and broken eyedrops)",NA,NA,False
+930,"Better Off Ted (Failing dark skin)",NA,"Fisheye lens",True
+850,"Better Than Us (AR displays)",NA,Bright,False
+850,"Better Than Us (AR displays)",NA,Transparent,False
+851,"Better Than Us (Drone parking ticket)",White,Blurry,False
+851,"Better Than Us (Drone parking ticket)",White,Focused,False
+2917,"Better Than Us (Ex-wife spies on husband's parenting)",NA,Multiplied,True
+2915,"Better Than Us (Sales pitch using hologram)",Blue,Transparent,False
+877,"Big Brother Is Shaping You (Biometrics)",NA,NA,False
+878,"Big Brother Is Shaping You (Facial recognition unlocking phone)",NA,NA,False
+2005,"Big Hero 6 (AI robot scanning someone to check their vitals)",Teal,Circle,True
+2009,"Big Hero 6 (Baymax scans a whole city)",Green,Simple,True
+2009,"Big Hero 6 (Baymax scans a whole city)",Pink,Simple,True
+2007,"Big Hero 6 (Documenting the villain)",NA,NA,False
+2008,"Big Hero 6 (Hiro using hologram to design things)",Green,NA,False
+2008,"Big Hero 6 (Hiro using hologram to design things)",Blue,NA,False
+659,"Bill Hader Channels Tom Cruise (Deepfake)",NA,Smooth,False
+659,"Bill Hader Channels Tom Cruise (Deepfake)",NA,Television,False
+659,"Bill Hader Channels Tom Cruise (Deepfake)",NA,Morphing,False
+487,"Black Mirror: Rachel, Jack and Ashley too (Ashley is a hologram)",Blue,Shiny,False
+487,"Black Mirror: Rachel, Jack and Ashley too (Ashley is a hologram)",Blue,Big,False
+487,"Black Mirror: Rachel, Jack and Ashley too (Ashley is a hologram)",Blue,Transparent,False
+487,"Black Mirror: Rachel, Jack and Ashley too (Ashley is a hologram)",Pink,Shiny,False
+487,"Black Mirror: Rachel, Jack and Ashley too (Ashley is a hologram)",Pink,Big,False
+487,"Black Mirror: Rachel, Jack and Ashley too (Ashley is a hologram)",Pink,Transparent,False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",Pink,"Just Dance",False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",Pink,Silhouettes,False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",Pink,Bright,False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",Blue,"Just Dance",False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",Blue,Silhouettes,False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",Blue,Bright,False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",White,"Just Dance",False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",White,Silhouettes,False
+481,"Black Mirror: Rachel, Jack and Ashley too (Ashley teaches Rachel to Dance)",White,Bright,False
+486,"Black Mirror: Rachel, Jack and Ashley too (Rachel getting a makeover)",Green,Lines,False
+485,"Black Mirror: Rachel, Jack and Ashley too (Scanning Ashley`s Brain)",Green,Medical,False
+485,"Black Mirror: Rachel, Jack and Ashley too (Scanning Ashley`s Brain)",Red,Medical,False
+556,"Black Mirror: Shut Up and Dance (Kenny is blackmailed)",NA,desaturated,False
+556,"Black Mirror: Shut Up and Dance (Kenny is blackmailed)",NA,bleak,False
+556,"Black Mirror: Shut Up and Dance (Kenny is blackmailed)",NA,"birds eye view",False
+475,"Black Mirror: Striking Vipers (Karl and Danny have VR sex)",NA,"Fighting Graphics",False
+475,"Black Mirror: Striking Vipers (Karl and Danny have VR sex)",NA,"Exotic Settings",False
+475,"Black Mirror: Striking Vipers (Karl and Danny have VR sex)",NA,"Vibrant Colors",False
+554,"Black Mirror: The Entire History of You (Seeing past selves having sex)",Beige,Bland,False
+555,"Black Mirror: White Christmas (Blocking people IRL)",Monochrome,Static,True
+555,"Black Mirror: White Christmas (Blocking people IRL)",Monochrome,Silhouettes,True
+1728,"Black Panther (Fake holographic forests)",Blue,Futuristic,False
+1721,"Black Panther (Holographic communication with kimoyo beads)",Vintage,Polaroid,False
+1729,"Black Panther (Remote piloting)",NA,NA,False
+1731,"Black Panther (Scanning Ross's spine)",Blue,NA,False
+3134,"Black Widow (Taskmaster's HUD display)",Red,NA,True
+3134,"Black Widow (Taskmaster's HUD display)",Green,NA,True
+2010,"Blade Runner 2049 (3D/X-ray scan of found chest)",Blue,Scientific,False
+2010,"Blade Runner 2049 (3D/X-ray scan of found chest)",Blue,Medical,False
+2026,"Blade Runner 2049 (Artificial memories)",NA,Technical,False
+1912,"Blade Runner 2049 (Companionship/Romance with an AI)",NA,Futuristic,False
+1912,"Blade Runner 2049 (Companionship/Romance with an AI)",NA,Holograph,False
+1912,"Blade Runner 2049 (Companionship/Romance with an AI)",NA,Glitchy,False
+2025,"Blade Runner 2049 (Dr. Ana in a virtual lush forest)",Green,Natural,False
+1911,"Blade Runner 2049 (Drone scan)",White,Dystopian,False
+1911,"Blade Runner 2049 (Drone scan)",White,Scientific,False
+1911,"Blade Runner 2049 (Drone scan)",Blue,Dystopian,False
+1911,"Blade Runner 2049 (Drone scan)",Blue,Scientific,False
+1911,"Blade Runner 2049 (Drone scan)",Black,Dystopian,False
+1911,"Blade Runner 2049 (Drone scan)",Black,Scientific,False
+2027,"Blade Runner 2049 (Drone search)",Orange,Desert-like,True
+2027,"Blade Runner 2049 (Drone search)",brown,Desert-like,True
+2015,"Blade Runner 2049 (Giant holograms)",NA,Futuristic,False
+2015,"Blade Runner 2049 (Giant holograms)",NA,Glowing,False
+2019,"Blade Runner 2049 (Joi ""syncs"" with a human woman)",NA,Overlay,False
+2019,"Blade Runner 2049 (Joi ""syncs"" with a human woman)",NA,Glitchy,False
+2028,"Blade Runner 2049 (Luv uses a dead woman's face to access data)",Blue,Aerial,False
+2028,"Blade Runner 2049 (Luv uses a dead woman's face to access data)",Blue,Grid,False
+2028,"Blade Runner 2049 (Luv uses a dead woman's face to access data)",White,Aerial,False
+2028,"Blade Runner 2049 (Luv uses a dead woman's face to access data)",White,Grid,False
+2013,"Blade Runner 2049 (Mr. Wallace's drone vision)",Black,Minimalistic,False
+2013,"Blade Runner 2049 (Mr. Wallace's drone vision)",Black,Futuristic,False
+2023,"Blade Runner 2049 (Remote drone attack by Luv)",NA,bleak,False
+2687,"BlinkyTM (Failing robot cooks son)",Red,NA,False
+337,"Body Devices (Zoomed-in skin areas)",Skincolor,Close-up,False
+337,"Body Devices (Zoomed-in skin areas)",Skincolor,Blurry,False
+3046,"Borderlands 3 (Digi-Clone distracts, damages and teleports)",Blue,Glossy,False
+3241,"Borderlands 3 (SNTL drone)",NA,NA,False
+2491,"Bouvetøya 2052 (A fake hologram of Wu Lo is updating the contestants)",Green,Weak,False
+2491,"Bouvetøya 2052 (A fake hologram of Wu Lo is updating the contestants)",Green,Lag,False
+2491,"Bouvetøya 2052 (A fake hologram of Wu Lo is updating the contestants)",Miscoloured,Weak,False
+2491,"Bouvetøya 2052 (A fake hologram of Wu Lo is updating the contestants)",Miscoloured,Lag,False
+2480,"Bouvetøya 2052 (Grol and Armin are using holograms to look at the Bouvet Island)",NA,Small,False
+2484,"Bouvetøya 2052 (Julian is looking at and adjusting holograms)",NA,3D,False
+1533,"Brave New World (2020 TV series) (Playful AR)",NA,NA,False
+3268,"Brave New World (optical implant memory holograms)",Multicolored,dream-like,False
+3267,"Brave New World (optical implant overwhelm)",White,Clean,False
+301,"Breathe (Use of reader's camera)",Grey,Dark,False
+301,"Breathe (Use of reader's camera)",Grey,Blurred,False
+301,"Breathe (Use of reader's camera)",Grey,Mystic,False
+1758,"Brooklyn Nine-Nine: The Fugitive Part 1 (DHS surveillance van)",Monochrome,NA,False
+1759,"Brooklyn Nine-Nine: The Fugitive Part 1 (Drone shows the score)",NA,NA,False
+1757,"Brooklyn Nine-Nine: The Fugitive Part 1 (Thermal imaging shows ovulation)",NA,Neon,True
+2882,"Call of Duty 4: Modern Warfare (""Too easy"" with night vision goggles)",Green,NA,True
+2883,"Call of Duty 4: Modern Warfare (Satellite image reconnaissance)",Sepia,Informational,True
+2883,"Call of Duty 4: Modern Warfare (Satellite image reconnaissance)",Sepia,Target,True
+3238,"Call of Duty 4: Modern Warfare (Sniper rifle 900m zoom)",NA,Crosshair,True
+3238,"Call of Duty 4: Modern Warfare (Sniper rifle 900m zoom)",NA,Circle,True
+2885,"Call of Duty 4: Modern Warfare (The Death from Above mission)",Monochrome,Smudged,True
+2885,"Call of Duty 4: Modern Warfare (The Death from Above mission)",Monochrome,Distanced,True
+2885,"Call of Duty 4: Modern Warfare (The Death from Above mission)",Monochrome,Disorienting,True
+2884,"Call of Duty 4: Modern Warfare (Track and identify bodies through walls)",Monochrome,Silhouettes,True
+1086,"Cam (Machine duplicates Lola)",NA,Chatroom,False
+1086,"Cam (Machine duplicates Lola)",NA,Emojis,False
+367,"Cam Boy (Sex worker being watched)",Red,Styled,False
+367,"Cam Boy (Sex worker being watched)",Red,Flashy,False
+367,"Cam Boy (Sex worker being watched)",Red,Dark,False
+367,"Cam Boy (Sex worker being watched)",Black,Styled,False
+367,"Cam Boy (Sex worker being watched)",Black,Flashy,False
+367,"Cam Boy (Sex worker being watched)",Black,Dark,False
+2152,"Captain America: The Winter soldier (Fury gets ambushed)",NA,NA,False
+2151,"Captain America: The Winter soldier (Hologram meeting)",NA,hologram,False
+2570,"Capture (Using facial recognition to identify policemen)",NA,Grid,False
+2570,"Capture (Using facial recognition to identify policemen)",NA,Collection,False
+2570,"Capture (Using facial recognition to identify policemen)",NA,Portraits,False
+2570,"Capture (Using facial recognition to identify policemen)",NA,"Street art",False
+2553,"Cat or Human (misinterpreting cats and humans)",NA,Grid,False
+2553,"Cat or Human (misinterpreting cats and humans)",NA,Collection,False
+1787,"CCTV: A Trail of Images (hacking into CCTV's)",NA,DIY,False
+1787,"CCTV: A Trail of Images (hacking into CCTV's)",NA,"Hacker aesthetics",False
+2657,"Change Return (Man tricks service drone)",White,Smiley,False
+2657,"Change Return (Man tricks service drone)",Green,Smiley,False
+451,"Cheese (Women smiling)",Green,Bar,False
+451,"Cheese (Women smiling)",Green,Rectangular,False
+451,"Cheese (Women smiling)",Green,Blue,False
+451,"Cheese (Women smiling)",Green,Static,False
+451,"Cheese (Women smiling)",Green,Portraits,False
+978,"China Mountain Zhang (Building recognises faces)",NA,NA,False
+2892,"Clandestine (Hacker POV)",Blue,Pixelated,False
+2892,"Clandestine (Hacker POV)",Monochrome,Pixelated,False
+2936,"Classification.01 (classifying similarity)",White,Neon,False
+2936,"Classification.01 (classifying similarity)",White,Minimalistic,False
+1565,"Cloud Index (generating preditctions)",Blue,Aerial,False
+1565,"Cloud Index (generating preditctions)",Blue,Scientific,False
+1565,"Cloud Index (generating preditctions)",Green,Aerial,False
+1565,"Cloud Index (generating preditctions)",Green,Scientific,False
+1565,"Cloud Index (generating preditctions)","Black and white",Aerial,False
+1565,"Cloud Index (generating preditctions)","Black and white",Scientific,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Pink,Contrast,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Pink,Layered,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Pink,Colorful,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Pink,Monochrome,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Pink,Graphic,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Blue,Contrast,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Blue,Layered,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Blue,Colorful,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Blue,Monochrome,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Blue,Graphic,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",White,Contrast,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",White,Layered,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",White,Colorful,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",White,Monochrome,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",White,Graphic,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Black,Contrast,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Black,Layered,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Black,Colorful,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Black,Monochrome,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Black,Graphic,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Yellow,Contrast,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Yellow,Layered,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Yellow,Colorful,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Yellow,Monochrome,False
+429,"CMYK Deep Face Dude (Flawed Facial Recognition)",Yellow,Graphic,False
+744,"Come Out To LA (Robinator scans Tom)",Red,Grid,False
+744,"Come Out To LA (Robinator scans Tom)",Red,"High Contrast",False
+744,"Come Out To LA (Robinator scans Tom)",Red,Informational,False
+744,"Come Out To LA (Robinator scans Tom)",White,Grid,False
+744,"Come Out To LA (Robinator scans Tom)",White,"High Contrast",False
+744,"Come Out To LA (Robinator scans Tom)",White,Informational,False
+3195,"comeback (rejected by Instagram)",Pink,Illustration,False
+3195,"comeback (rejected by Instagram)",Pink,Morphing,False
+3195,"comeback (rejected by Instagram)",Pink,Looping,False
+2248,"Common Daemoniator (generating faces)",Black,Alchemy,False
+2248,"Common Daemoniator (generating faces)",Black,Mystic,False
+2248,"Common Daemoniator (generating faces)",Pink,Alchemy,False
+2248,"Common Daemoniator (generating faces)",Pink,Mystic,False
+2248,"Common Daemoniator (generating faces)",White,Alchemy,False
+2248,"Common Daemoniator (generating faces)",White,Mystic,False
+2781,"Compis (Leo stumbles)",NA,NA,False
+2783,"Compis (The coolness algorithm)",NA,NA,False
+1921,"Contra a Cegueira da Ordem Estabelecida (simulating cutting of users eye)","Black and white",black-and-white,False
+1921,"Contra a Cegueira da Ordem Estabelecida (simulating cutting of users eye)","Black and white",Simulacra,False
+1021,"Coronavirus Drone Video (Coronavirus drone)",NA,Viral,False
+2381,"Cosmodrama (Monkey brain tests)",NA,NA,False
+2377,"Cosmodrama (Woman of the waves appears on screen)",Blue,dream-like,False
+2377,"Cosmodrama (Woman of the waves appears on screen)",Blue,ethereal,False
+2377,"Cosmodrama (Woman of the waves appears on screen)","Green tint",dream-like,False
+2377,"Cosmodrama (Woman of the waves appears on screen)","Green tint",ethereal,False
+2377,"Cosmodrama (Woman of the waves appears on screen)",Monochrome,dream-like,False
+2377,"Cosmodrama (Woman of the waves appears on screen)",Monochrome,ethereal,False
+693,"Cowboy Bebop: Jamming With Edward (Ed Hacks Satelite)",Purple,veiny,False
+693,"Cowboy Bebop: Jamming With Edward (Ed Hacks Satelite)",Purple,Grainy,False
+693,"Cowboy Bebop: Jamming With Edward (Ed Hacks Satelite)",Purple,Digits,False
+693,"Cowboy Bebop: Jamming With Edward (Ed Hacks Satelite)",Purple,Pulsating,False
+379,"CV Dazzle (Hiding Identity in Stylish Ways)",NA,Stylish,False
+379,"CV Dazzle (Hiding Identity in Stylish Ways)",NA,Colorful,False
+379,"CV Dazzle (Hiding Identity in Stylish Ways)",NA,Fabulous,False
+379,"CV Dazzle (Hiding Identity in Stylish Ways)",NA,"Avant Garde",False
+2472,"Cyberpunk 2077 (Cyberware malfunction and upgrade)",Red,Framed,True
+2472,"Cyberpunk 2077 (Cyberware malfunction and upgrade)",Red,Technical,True
+3104,"Cyberpunk 2077 (Inside the DeepNet)",Pink,Pixelated,True
+3104,"Cyberpunk 2077 (Inside the DeepNet)",Pink,Grainy,True
+3104,"Cyberpunk 2077 (Inside the DeepNet)",Blue,Pixelated,True
+3104,"Cyberpunk 2077 (Inside the DeepNet)",Blue,Grainy,True
+2492,"Cyberpunk 2077 (Life coach checks troubling biometrics)",NA,Cyberpunk,False
+3106,"Cyberpunk 2077 (Silverhand's hologram)",Blue,Lines,False
+2506,"Cyberpunk 2077 (V tests Braindance)",NA,Pixelated,True
+2506,"Cyberpunk 2077 (V tests Braindance)",NA,Dark,True
+2874,"Daemon (Facial recognition and biometrics",NA,NA,False
+2871,"Daemon (fMRI lie detector)",Rainbow,Medical,False
+2871,"Daemon (fMRI lie detector)",Blue,Medical,False
+2872,"Daemon (Third eye)",NA,NA,False
+1923,"Data Feelings (The Happy App)(Measuring feelings)",NA,Collage,False
+1923,"Data Feelings (The Happy App)(Measuring feelings)",NA,Time-laps,False
+2128,"Deadpool 2 (Hologram)",Orange,Pixelated,False
+2128,"Deadpool 2 (Hologram)",Orange,Glitchy,False
+2128,"Deadpool 2 (Hologram)",Yellow,Pixelated,False
+2128,"Deadpool 2 (Hologram)",Yellow,Glitchy,False
+1815,"Deadpool 2 (Ocular implant AR)",Orange,hologram,False
+1806,"Deadpool 2 (Surveillance cameras)","Green tint",NA,False
+1806,"Deadpool 2 (Surveillance cameras)",Blue,NA,False
+2129,"Deadpool 2 (Weapon information in AR)",Orange,Pixelated,False
+2129,"Deadpool 2 (Weapon information in AR)",Yellow,Pixelated,False
+762,"Death Stranding (Holograms)",Blue,Grainy,False
+762,"Death Stranding (Holograms)",Green,Grainy,False
+763,"Death Stranding (Odradek scanner)",NA,NA,False
+965,"Death Stranding (PCC 3D printer)",Blue,Pixelated,False
+1518,"Deconstructing Representation (training a GAN)",NA,Mosiac,False
+1028,"Deep Dark Fears (Reflection recording Fran)",Yellow,Cartoon,False
+1028,"Deep Dark Fears (Reflection recording Fran)",Red,Cartoon,False
+3207,"Deep Down Tidal (bias image search)",NA,Desktop-documentary,False
+3207,"Deep Down Tidal (bias image search)",NA,net.art,False
+3207,"Deep Down Tidal (bias image search)",NA,Collage,False
+323,"DELIVERY FOR MR. ASSANGE (Webcam Post)",Black,Discontinuous,True
+323,"DELIVERY FOR MR. ASSANGE (Webcam Post)",Black,Interrupted,True
+323,"DELIVERY FOR MR. ASSANGE (Webcam Post)",Black,Cropped,True
+323,"DELIVERY FOR MR. ASSANGE (Webcam Post)",Black,Snapshot,True
+3044,"Demonstrate (controlling a robotic webcamera)",Black,Aerial,False
+3044,"Demonstrate (controlling a robotic webcamera)",Black,"Fisheye lens",False
+3044,"Demonstrate (controlling a robotic webcamera)",White,Aerial,False
+3044,"Demonstrate (controlling a robotic webcamera)",White,"Fisheye lens",False
+1792,"Den Lengste Reisen (Genetic code scan in subway)",NA,NA,False
+1647,"Den Lengste Reisen (Stealing prosthetic eye to unlock door)",Gray,NA,False
+2041,"Desiluciones ópticas (remembering the oppressed)","Black and white",Portraits,False
+304,"Detroit: Become Human (Analyzing crime scenes)",Blue,Dark,True
+304,"Detroit: Become Human (Analyzing crime scenes)",Gray,Dark,True
+3234,"Detroit: Become Human (Hacking elevator camera to avoid guards)",dark,Flickering,True
+1209,"Detroit: Become Human (Markus failed vision)",Black,Chiaroscuro,False
+1209,"Detroit: Become Human (Markus failed vision)",Black,Glitchy,False
+1209,"Detroit: Become Human (Markus failed vision)",Black,distortion,False
+1209,"Detroit: Become Human (Markus failed vision)",Red,Chiaroscuro,False
+1209,"Detroit: Become Human (Markus failed vision)",Red,Glitchy,False
+1209,"Detroit: Become Human (Markus failed vision)",Red,distortion,False
+1209,"Detroit: Become Human (Markus failed vision)",Blue,Chiaroscuro,False
+1209,"Detroit: Become Human (Markus failed vision)",Blue,Glitchy,False
+1209,"Detroit: Become Human (Markus failed vision)",Blue,distortion,False
+3245,"Deus Ex: Human Revolution (Avoiding security cameras)",NA,NA,False
+3244,"Deus Ex: Human Revolution (CASIE implant conversation analyses)",NA,NA,False
+2856,"Deus Ex: Human Revolution (Holographic interfaces)",Yellow,translucent,False
+2852,"Deus Ex: Human Revolution (Retinal display not working)",Yellow,Faded,True
+2853,"Deus Ex: Human Revolution (Retinal prosthesis)",Yellow,Minimalistic,True
+525,"deus X mchn (Haunted surveillance cameras)",NA,"high-angle shot",False
+525,"deus X mchn (Haunted surveillance cameras)",NA,Framed,False
+2535,"DIGITAL PAREIDOLIA: A Personal Index Of Facebook’s Erroneous Portraits (misinterpreting objects as faces)",NA,"Organizational map",False
+2535,"DIGITAL PAREIDOLIA: A Personal Index Of Facebook’s Erroneous Portraits (misinterpreting objects as faces)",NA,Collection,False
+2533,"Digital skin (changing skin)",Skincolor,Glitchy,False
+2533,"Digital skin (changing skin)",Skincolor,Distorted,False
+2533,"Digital skin (changing skin)",Skincolor,3D,False
+2533,"Digital skin (changing skin)",Blue,Glitchy,False
+2533,"Digital skin (changing skin)",Blue,Distorted,False
+2533,"Digital skin (changing skin)",Blue,3D,False
+395,"Dirty Computer (Augmented reality)",Orange,Transparent,False
+395,"Dirty Computer (Augmented reality)",Blue,Transparent,False
+395,"Dirty Computer (Augmented reality)",Green,Transparent,False
+3089,"Dirty Computer (Classified Dirty)",Yellow,Overlay,False
+3089,"Dirty Computer (Classified Dirty)",Yellow,Scientific,False
+3089,"Dirty Computer (Classified Dirty)",White,Overlay,False
+3089,"Dirty Computer (Classified Dirty)",White,Scientific,False
+3089,"Dirty Computer (Classified Dirty)",Red,Overlay,False
+3089,"Dirty Computer (Classified Dirty)",Red,Scientific,False
+579,"Dirty Computer (Drone identity check)",Red,"Road movie",False
+579,"Dirty Computer (Drone identity check)",Red,laser,False
+579,"Dirty Computer (Drone identity check)",Red,"deep voice",False
+579,"Dirty Computer (Drone identity check)",Red,sass,False
+579,"Dirty Computer (Drone identity check)",Red,Glitchy,False
+579,"Dirty Computer (Drone identity check)",brown,"Road movie",False
+579,"Dirty Computer (Drone identity check)",brown,laser,False
+579,"Dirty Computer (Drone identity check)",brown,"deep voice",False
+579,"Dirty Computer (Drone identity check)",brown,sass,False
+579,"Dirty Computer (Drone identity check)",brown,Glitchy,False
+579,"Dirty Computer (Drone identity check)",Pink,"Road movie",False
+579,"Dirty Computer (Drone identity check)",Pink,laser,False
+579,"Dirty Computer (Drone identity check)",Pink,"deep voice",False
+579,"Dirty Computer (Drone identity check)",Pink,sass,False
+579,"Dirty Computer (Drone identity check)",Pink,Glitchy,False
+1519,"Dirty Data (training with dirty data)",NA,Smudged,False
+1519,"Dirty Data (training with dirty data)",NA,Morphing,False
+1519,"Dirty Data (training with dirty data)",NA,Morbid,False
+1519,"Dirty Data (training with dirty data)",NA,Mosiac,False
+1519,"Dirty Data (training with dirty data)",NA,Glitchy,False
+727,"Dissonant Imagery (brain images)",Saturated,Scientific,False
+727,"Dissonant Imagery (brain images)",Saturated,Medical,False
+328,"Do Not Feed the Monkeys (Surveillance monitoring)",NA,"Vibrant Colors",False
+328,"Do Not Feed the Monkeys (Surveillance monitoring)",NA,Cartoon,False
+3006,"Don't Look (Controlling flashlight with eye tracking)",Monochrome,Dark,False
+2585,"DOOR and BOX (discriminating door)",White,Simple,False
+2585,"DOOR and BOX (discriminating door)",White,Prototype,False
+2582,"DOOR and BOX (discriminating gum dispenser)",Multicolored,Simple,False
+2582,"DOOR and BOX (discriminating gum dispenser)",Multicolored,Prototype,False
+2582,"DOOR and BOX (discriminating gum dispenser)",Multicolored,plastic,False
+1006,"Dr. Who: Series 7 (Dalek vision)",White,Grid,True
+424,"Drawing Operations (Robot collaborates on painting)",Blue,Mechanical,False
+424,"Drawing Operations (Robot collaborates on painting)",Black,Mechanical,False
+336,"Drone Selfies (Drones)",NA,Cute,False
+336,"Drone Selfies (Drones)",NA,Homey,False
+336,"Drone Selfies (Drones)",NA,Soft,False
+924,"Drones Don't Kill People (Drone assasination)",NA,NA,False
+923,"Drones Don't Kill People (Drone surveillance)",NA,NA,False
+1018,"Duke Nukem 3D (Holoduke)",NA,Transparent,False
+1018,"Duke Nukem 3D (Holoduke)",NA,Pixelated,False
+1019,"Duke Nukem 3D (Night vision goggles)",Yellow,Overexposed,True
+1217,"DullDream (applying the dull effect)",Gray,Simple,False
+1217,"DullDream (applying the dull effect)",Gray,net.art,False
+1217,"DullDream (applying the dull effect)",White,Simple,False
+1217,"DullDream (applying the dull effect)",White,net.art,False
+1217,"DullDream (applying the dull effect)",Blue,Simple,False
+1217,"DullDream (applying the dull effect)",Blue,net.art,False
+2630,"Dystopia (Cyborg hacks drones)",Red,laser,False
+2630,"Dystopia (Cyborg hacks drones)",Green,laser,False
+1838,"Død og oppstandelse (facial recognition in grocery store)",Green,NA,False
+1835,"Død og oppstandelse (Oda shows herself as a hologram)",Peach,Glowing,False
+1835,"Død og oppstandelse (Oda shows herself as a hologram)",Peach,Transparent,False
+1835,"Død og oppstandelse (Oda shows herself as a hologram)",Peach,Staccato,False
+577,"Earthware: driverless car seeing a deer for the first time 2 (Selfdriving car sees a deer)",Red,Grainy,True
+577,"Earthware: driverless car seeing a deer for the first time 2 (Selfdriving car sees a deer)",Yellow,Grainy,True
+577,"Earthware: driverless car seeing a deer for the first time 2 (Selfdriving car sees a deer)",Gray,Grainy,True
+529,"Echo (Replacing Face)",Black,Glitchy,False
+529,"Echo (Replacing Face)",Black,Overexposed,False
+529,"Echo (Replacing Face)",White,Glitchy,False
+529,"Echo (Replacing Face)",White,Overexposed,False
+529,"Echo (Replacing Face)",Pink,Glitchy,False
+529,"Echo (Replacing Face)",Pink,Overexposed,False
+2004,"Edge of Tomorrow (Helmet camera tracks and recognises aliens)",Orange,Target,True
+2004,"Edge of Tomorrow (Helmet camera tracks and recognises aliens)",Yellow,Target,True
+2002,"Edge of Tomorrow (Holograms of aliens)",Blue,Dotted,False
+3253,"Emily Eternal (Interface chip)",NA,Photorealistic,False
+3258,"Emily Eternal (Jason ignores Emily)",NA,NA,False
+3256,"Emily Eternal (Simulation of world)",NA,NA,False
+1688,"Emotion Hero (controlling the face)",Blue,Pixelated,False
+1688,"Emotion Hero (controlling the face)",Blue,Sarcastic,False
+303,"Encounters (Animals documented in infrared)",Black,"Night vision",False
+303,"Encounters (Animals documented in infrared)",Black,"High Contrast",False
+303,"Encounters (Animals documented in infrared)",White,"Night vision",False
+303,"Encounters (Animals documented in infrared)",White,"High Contrast",False
+303,"Encounters (Animals documented in infrared)",Gray,"Night vision",False
+303,"Encounters (Animals documented in infrared)",Gray,"High Contrast",False
+1152,"environment built for absence (reconstruction)",White,3D,False
+1152,"environment built for absence (reconstruction)",White,Gloomy,False
+1152,"environment built for absence (reconstruction)",White,bleak,False
+1152,"environment built for absence (reconstruction)",Black,3D,False
+1152,"environment built for absence (reconstruction)",Black,Gloomy,False
+1152,"environment built for absence (reconstruction)",Black,bleak,False
+1152,"environment built for absence (reconstruction)",Gray,3D,False
+1152,"environment built for absence (reconstruction)",Gray,Gloomy,False
+1152,"environment built for absence (reconstruction)",Gray,bleak,False
+1152,"environment built for absence (reconstruction)",brown,3D,False
+1152,"environment built for absence (reconstruction)",brown,Gloomy,False
+1152,"environment built for absence (reconstruction)",brown,bleak,False
+1932,"Espécies de espaços II (Spiders blocking the view of surveillance cameras)","Black and white",Collection,False
+1144,"Excellent (Surveillance man watching child)","Black and white","Street art",False
+1144,"Excellent (Surveillance man watching child)","Black and white",graffiti,False
+1144,"Excellent (Surveillance man watching child)",Yellow,"Street art",False
+1144,"Excellent (Surveillance man watching child)",Yellow,graffiti,False
+1144,"Excellent (Surveillance man watching child)",Green,"Street art",False
+1144,"Excellent (Surveillance man watching child)",Green,graffiti,False
+1000,"Exhalation (Viewing own brain through microscope)",NA,Fragmented,False
+985,"eXistenZ (game tricking participants)",NA,Fleshy,False
+985,"eXistenZ (game tricking participants)",NA,Organic,False
+257,"eXistenZ (Virtual reality)",NA,NA,False
+1913,"Expanded Eye (mimicing insect vision)","Black and white",Transparent,False
+1913,"Expanded Eye (mimicing insect vision)","Black and white",Futuristic,False
+1913,"Expanded Eye (mimicing insect vision)","Black and white",Scientific,False
+1913,"Expanded Eye (mimicing insect vision)",Blue,Transparent,False
+1913,"Expanded Eye (mimicing insect vision)",Blue,Futuristic,False
+1913,"Expanded Eye (mimicing insect vision)",Blue,Scientific,False
+1186,"eXperience112 (Operating ship's security cameras)",Gray,Dark,False
+1186,"eXperience112 (Operating ship's security cameras)",Gray,Infrared,False
+1186,"eXperience112 (Operating ship's security cameras)",Gray,Multiplied,False
+1186,"eXperience112 (Operating ship's security cameras)",Green,Dark,False
+1186,"eXperience112 (Operating ship's security cameras)",Green,Infrared,False
+1186,"eXperience112 (Operating ship's security cameras)",Green,Multiplied,False
+352,"Eye (Streetview)",NA,Glitchy,False
+1563,"Face Cages (wearing a biometric cage)",NA,Metallic,False
+1563,"Face Cages (wearing a biometric cage)",NA,Geometric,False
+1563,"Face Cages (wearing a biometric cage)",NA,Cold,False
+707,"Face Your Feelings (Mimicking emotions)",Green,Pixelated,False
+707,"Face Your Feelings (Mimicking emotions)",Gray,Pixelated,False
+1763,"Face-to-facebook (classifying images from facebook)",NA,Portraits,False
+550,"Facial Features Not Recognized (Facial recognition)",NA,Feminine,False
+761,"Facial Recognition (plastic surgery)",NA,Fashionable,False
+311,"Facial Weaponization Suite (Tricking Surveillance Cameras)",Pink,Masked,False
+311,"Facial Weaponization Suite (Tricking Surveillance Cameras)",Pink,Distorted,False
+311,"Facial Weaponization Suite (Tricking Surveillance Cameras)",Pink,Blobby,False
+311,"Facial Weaponization Suite (Tricking Surveillance Cameras)",Pink,plastic,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Gray,Smudgy,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Gray,Creepy,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Gray,Charcoal,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Gray,Ink,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",White,Smudgy,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",White,Creepy,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",White,Charcoal,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",White,Ink,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Black,Smudgy,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Black,Creepy,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Black,Charcoal,False
+986,"Fall of the House of Usher (Machine reinterpreting visuals)",Black,Ink,False
+2406,"Fall; or, Dodge in Hell (Face Recognition)",NA,NA,False
+2405,"Fall; or, Dodge in Hell (Shared AR interfaces using glasses)",NA,NA,False
+1841,"Fall; or, Dodge in Hell (VEIL)",NA,Flashing,False
+1122,"Final Fantasy VIIR (Corporation surveillance network)",Red,Reticle,True
+1122,"Final Fantasy VIIR (Corporation surveillance network)",White,Reticle,True
+1129,"Final Fantasy VIIR (Hologram)",Blue,NA,False
+1120,"Final Fantasy VIIR (Identity scan on train)",NA,NA,False
+1128,"Final Fantasy VIIR (VR training grounds)",Blue,NA,False
+812,"Final Space (Gary scanned as trash)",Green,Flashing,False
+812,"Final Space (Gary scanned as trash)",Green,Industrial,False
+812,"Final Space (Gary scanned as trash)",Red,Flashing,False
+812,"Final Space (Gary scanned as trash)",Red,Industrial,False
+809,"Final Space (Hue scans tattoo)",Blue,Clean,False
+809,"Final Space (Hue scans tattoo)",Blue,Zooming,False
+809,"Final Space (Hue scans tattoo)",Gold,Clean,False
+809,"Final Space (Hue scans tattoo)",Gold,Zooming,False
+815,"Final Space (Quinn copies Gary)",Green,Pixelated,False
+815,"Final Space (Quinn copies Gary)",Green,Glitchy,False
+815,"Final Space (Quinn copies Gary)",Green,Grid,False
+1636,"Finis Terra (machine learning for environmental management)",Black,Patterns,False
+1636,"Finis Terra (machine learning for environmental management)",Black,Aerial,False
+1636,"Finis Terra (machine learning for environmental management)",White,Patterns,False
+1636,"Finis Terra (machine learning for environmental management)",White,Aerial,False
+1636,"Finis Terra (machine learning for environmental management)",Pink,Patterns,False
+1636,"Finis Terra (machine learning for environmental management)",Pink,Aerial,False
+1636,"Finis Terra (machine learning for environmental management)",Violet,Patterns,False
+1636,"Finis Terra (machine learning for environmental management)",Violet,Aerial,False
+582,"Five Nights at Freddy's (Surveilling animatrons at night)",Black,Grainy,True
+582,"Five Nights at Freddy's (Surveilling animatrons at night)",Black,Dark,True
+582,"Five Nights at Freddy's (Surveilling animatrons at night)",Black,Creepy,True
+582,"Five Nights at Freddy's (Surveilling animatrons at night)",Gray,Grainy,True
+582,"Five Nights at Freddy's (Surveilling animatrons at night)",Gray,Dark,True
+582,"Five Nights at Freddy's (Surveilling animatrons at night)",Gray,Creepy,True
+2549,"Flåklypa Grand Prix (Reodor sees through smoke)",Green,Pixelated,True
+2551,"Flower (recognizing distorted flowers)",NA,Distorted,False
+2551,"Flower (recognizing distorted flowers)",NA,Glitchy,False
+2551,"Flower (recognizing distorted flowers)",NA,Morphing,False
+2092,"For Want of a Nail (Cordelia modifies her hologram consciously)",NA,NA,False
+2093,"For Want of a Nail (Fingerprint recognition)",NA,NA,False
+2091,"For Want of a Nail (The AI has cameras for eyes and hologram for body)",NA,Cyberpunk,False
+2091,"For Want of a Nail (The AI has cameras for eyes and hologram for body)",NA,Holograph,False
+2094,"For Want of a Nail (The AI's main task is to watch and record)",NA,NA,False
+2089,"For Want of a Nail (VR-glasses as a tool)",NA,Cyberpunk,False
+2090,"For Want of a Nail (VR-glasses in communication)",NA,NA,False
+2715,"Freaks (Chloe Remotely Rescues Mom)",Green,Grid,True
+2715,"Freaks (Chloe Remotely Rescues Mom)",Green,Birdseyeview,True
+2716,"Freaks (Drone Bombs Chloe`s house)",Gray,Targeting,True
+2716,"Freaks (Drone Bombs Chloe`s house)",Gray,Grainy,True
+2716,"Freaks (Drone Bombs Chloe`s house)",Gray,Birdseyeview,True
+629,"Futurama: War is the H-word (Zapp Brannigan spies on Leela)",Red,Rectangular,False
+629,"Futurama: War is the H-word (Zapp Brannigan spies on Leela)",Green,Rectangular,False
+3153,"Future Tense: AI from the margins (oppressive AI)",NA,Desktop-documentary,False
+1151,"Geocinema (Framing territories)",brown,Streetview,False
+1151,"Geocinema (Framing territories)",brown,Stretched,False
+1151,"Geocinema (Framing territories)",brown,Perspective,False
+1151,"Geocinema (Framing territories)",brown,Roadmovie,False
+1151,"Geocinema (Framing territories)",White,Streetview,False
+1151,"Geocinema (Framing territories)",White,Stretched,False
+1151,"Geocinema (Framing territories)",White,Perspective,False
+1151,"Geocinema (Framing territories)",White,Roadmovie,False
+1151,"Geocinema (Framing territories)",Green,Streetview,False
+1151,"Geocinema (Framing territories)",Green,Stretched,False
+1151,"Geocinema (Framing territories)",Green,Perspective,False
+1151,"Geocinema (Framing territories)",Green,Roadmovie,False
+1151,"Geocinema (Framing territories)",Gray,Streetview,False
+1151,"Geocinema (Framing territories)",Gray,Stretched,False
+1151,"Geocinema (Framing territories)",Gray,Perspective,False
+1151,"Geocinema (Framing territories)",Gray,Roadmovie,False
+1139,"Geocinema (Registering Solar)",Rosa,Symbolic,False
+1139,"Geocinema (Registering Solar)",Rosa,Scientific,False
+1139,"Geocinema (Registering Solar)",Violet,Symbolic,False
+1139,"Geocinema (Registering Solar)",Violet,Scientific,False
+1139,"Geocinema (Registering Solar)",Peach,Symbolic,False
+1139,"Geocinema (Registering Solar)",Peach,Scientific,False
+3093,"Get Even (Phone for extended vision and analysis)",Blue,Dark,False
+3093,"Get Even (Phone for extended vision and analysis)",Blue,Grid,False
+3093,"Get Even (Phone for extended vision and analysis)",Grey,Dark,False
+3093,"Get Even (Phone for extended vision and analysis)",Grey,Grid,False
+3095,"Get Even (Remembering the past with VR headset)",NA,Dark,True
+3095,"Get Even (Remembering the past with VR headset)",NA,Gritty,True
+2315,"Ghost in the Shell (3D scan using ocular glasses displaying the scan as a hologram)",Blue,Pixelated,True
+2315,"Ghost in the Shell (3D scan using ocular glasses displaying the scan as a hologram)",Blue,hologram,True
+2315,"Ghost in the Shell (3D scan using ocular glasses displaying the scan as a hologram)",Orange,Pixelated,True
+2315,"Ghost in the Shell (3D scan using ocular glasses displaying the scan as a hologram)",Orange,hologram,True
+2322,"Ghost in the Shell (Controlling a robot through a hologram)",Gold,Pixelated,False
+2322,"Ghost in the Shell (Controlling a robot through a hologram)",Gold,Glitchy,False
+2317,"Ghost in the Shell (Ocular implant)",Blue,Glitchy,True
+2317,"Ghost in the Shell (Ocular implant)",Orange,Glitchy,True
+2320,"Ghost in the Shell (Robot using object recognition)",Green,Glitchy,True
+2320,"Ghost in the Shell (Robot using object recognition)",Green,Pixelated,True
+2320,"Ghost in the Shell (Robot using object recognition)",Red,Glitchy,True
+2320,"Ghost in the Shell (Robot using object recognition)",Red,Pixelated,True
+703,"Glad Girls (Rob using binoculars)",Pink,Morphing,False
+703,"Glad Girls (Rob using binoculars)",Pink,Mosiac,False
+703,"Glad Girls (Rob using binoculars)",Pink,Psychedelic,False
+703,"Glad Girls (Rob using binoculars)",Pink,Wavy,False
+703,"Glad Girls (Rob using binoculars)",Pink,Pop-Art,False
+1593,"Glow (manipulating and generating new faces)",NA,Filtering,False
+1058,"Gluttonous Snake (Playing by smiling)",Yellow,Emojis,False
+1058,"Gluttonous Snake (Playing by smiling)",White,Emojis,False
+2638,"Gnomon (forensic investigation of Diana Hunter)",NA,NA,False
+2637,"Gnomon (Inspector Neith looks into the camera)",NA,NA,False
+370,"Gojira (Band filmed in infrared)",Monochrome,Flashing,False
+370,"Gojira (Band filmed in infrared)",Monochrome,Inverted,False
+370,"Gojira (Band filmed in infrared)",Monochrome,Glowing,False
+370,"Gojira (Band filmed in infrared)",Monochrome,Gory,False
+865,"Goliath (Billy dodging drone)",NA,NA,False
+842,"Goliath (Cooperman spying on employers)",Red,Birdseyeview,False
+872,"Good boys (Max spies using drone)",NA,Birdseyeview,False
+872,"Good boys (Max spies using drone)",NA,Dots,False
+1445,"Goodnight, Melancholy (Nocko meets Lindy)",Black,NA,False
+2771,"Gradient Ascent (self-driving car)","Black and white",Filtered,False
+2771,"Gradient Ascent (self-driving car)","Black and white",Scientific,False
+2771,"Gradient Ascent (self-driving car)","Black and white",Grainy,False
+2771,"Gradient Ascent (self-driving car)",Blue,Filtered,False
+2771,"Gradient Ascent (self-driving car)",Blue,Scientific,False
+2771,"Gradient Ascent (self-driving car)",Blue,Grainy,False
+2615,"Grand Theft Auto V (Casing jewellry store for robbery)",NA,Lined,True
+3097,"Grand Theft Auto V (Identification camera in helicopter)",NA,Crosshair,True
+3097,"Grand Theft Auto V (Identification camera in helicopter)",NA,"High Contrast",True
+2309,"Gravity (telescope showing Earth's surface)",NA,NA,False
+422,"Grief (Rapper filmed in infrared)",Black,Eerie,False
+422,"Grief (Rapper filmed in infrared)",Black,"High Contrast",False
+422,"Grief (Rapper filmed in infrared)",Black,Dark,False
+422,"Grief (Rapper filmed in infrared)",Gray,Eerie,False
+422,"Grief (Rapper filmed in infrared)",Gray,"High Contrast",False
+422,"Grief (Rapper filmed in infrared)",Gray,Dark,False
+422,"Grief (Rapper filmed in infrared)",White,Eerie,False
+422,"Grief (Rapper filmed in infrared)",White,"High Contrast",False
+422,"Grief (Rapper filmed in infrared)",White,Dark,False
+1888,"Guardians of the Galaxy vol. 1 (Holographic structures of the past)",Red,Dark,False
+1888,"Guardians of the Galaxy vol. 1 (Holographic structures of the past)",Blue,Dark,False
+1890,"Guardians of the Galaxy vol. 1 (Identifying targets with bounties)",NA,Digital,True
+1886,"Guardians of the Galaxy vol. 2 (Digital rifle scope)",NA,Digital,True
+1822,"Guardians of the Galaxy vol. 2 (Drone attack)",Gold,Colorful,True
+1180,"H.I.T (developing an image recognition algorithm)",NA,"Game show",False
+754,"Hacker (Controlling drone)",NA,8-bit,False
+754,"Hacker (Controlling drone)",NA,Pixelated,False
+3115,"Half-Life 2 (City drone briefly blinding protagonist)",White,Flash,False
+3116,"Half-Life 2 (Disabling security camera vision)",NA,NA,False
+1522,"Halo: Combat Evolved (AI hologram saving life)",Blue,NA,False
+984,"Hardcore Henry (Henry kills Akan)",NA,Glitchy,False
+984,"Hardcore Henry (Henry kills Akan)",NA,Fragmented,False
+547,"Has Anyone Else Used ExpressionCaptioner? (Emotion recognition)",NA,memes,False
+3088,"Have a Nice Day (Yellow Eye uses X-ray glasses and smashes cameras)",Green,DIY,True
+348,"Heartbreak Warfare (John being augmented)",Saturated,Small,False
+348,"Heartbreak Warfare (John being augmented)",Saturated,"High Contrast",False
+348,"Heartbreak Warfare (John being augmented)",Saturated,Animated,False
+348,"Heartbreak Warfare (John being augmented)",Saturated,"Bad Resolution",False
+3110,"Heavy Rain (ARI evidence detecting system)",NA,NA,True
+359,"Hell No (Filtering)",NA,Colorful,False
+359,"Hell No (Filtering)",NA,Animated,False
+359,"Hell No (Filtering)",NA,Distorted,False
+359,"Hell No (Filtering)",NA,Fake,False
+2850,"Heroes of the Storm (Hologram mimics and fights)",Blue,NA,False
+2950,"High-Rise Diver (Hitomi can't track Riva)",NA,NA,False
+2949,"High-Rise Diver (Hitomi watches Riva)",NA,NA,False
+2431,"His Dark Materials (Lyra communicates with Dust)",Blue,Dusty,False
+2431,"His Dark Materials (Lyra communicates with Dust)",Blue,Fragmented,False
+2431,"His Dark Materials (Lyra communicates with Dust)",Blue,Flowing,False
+2242,"Holo / Olho / Eye (Holopoems series)(watching a holopoem)",Green,hologram,False
+2242,"Holo / Olho / Eye (Holopoems series)(watching a holopoem)",Green,Luminous,False
+1991,"HoloDecon (hacking cameraphones for alternative perceptions)",NA,DIY,False
+3236,"Horizon Zero Dawn (Faulty Identiscan)",Red,Grainy,False
+278,"Horizon Zero Dawn (Focus technology)",Blue,Grid,False
+278,"Horizon Zero Dawn (Focus technology)",Blue,Transparent,False
+278,"Horizon Zero Dawn (Focus technology)",Blue,Neon,False
+278,"Horizon Zero Dawn (Focus technology)",Purple,Grid,False
+278,"Horizon Zero Dawn (Focus technology)",Purple,Transparent,False
+278,"Horizon Zero Dawn (Focus technology)",Purple,Neon,False
+3235,"Horizon Zero Dawn (Identiscan)",Red,Grainy,False
+935,"House of Cards (Scanned Thom singing)",Blue,Flaky,True
+935,"House of Cards (Scanned Thom singing)",Blue,Dotted,True
+935,"House of Cards (Scanned Thom singing)",Blue,Fragmented,True
+935,"House of Cards (Scanned Thom singing)",Green,Flaky,True
+935,"House of Cards (Scanned Thom singing)",Green,Dotted,True
+935,"House of Cards (Scanned Thom singing)",Green,Fragmented,True
+935,"House of Cards (Scanned Thom singing)",Red,Flaky,True
+935,"House of Cards (Scanned Thom singing)",Red,Dotted,True
+935,"House of Cards (Scanned Thom singing)",Red,Fragmented,True
+935,"House of Cards (Scanned Thom singing)",Orange,Flaky,True
+935,"House of Cards (Scanned Thom singing)",Orange,Dotted,True
+935,"House of Cards (Scanned Thom singing)",Orange,Fragmented,True
+1224,"House of Earth and Blood (Truth-showing hidden cameras)",NA,NA,False
+1578,"How do you see me? (exploring facial recognition)","Black and white",black-and-white,True
+1578,"How do you see me? (exploring facial recognition)","Black and white",Abstract,True
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",Black,Collage,False
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",Black,Sarcastic,False
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",White,Collage,False
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",White,Sarcastic,False
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",brown,Collage,False
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",brown,Sarcastic,False
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",Green,Collage,False
+1585,"How Not to Be Seen: A Fucking Didactic Educational .MOV File (to hide become a pixel)",Green,Sarcastic,False
+1156,"How to be More or Less Human (Undressing)",NA,NA,False
+3176,"HOW TO EDIT YOUR SELFIES (overlaying filters)",NA,Distorted,False
+3176,"HOW TO EDIT YOUR SELFIES (overlaying filters)",NA,Fragmented,False
+3176,"HOW TO EDIT YOUR SELFIES (overlaying filters)",NA,Portraits,False
+3176,"HOW TO EDIT YOUR SELFIES (overlaying filters)",NA,Grid,False
+3176,"HOW TO EDIT YOUR SELFIES (overlaying filters)",NA,Screenshots,False
+2237,"How to Sell Drugs Online (Fast) (Cycling Through AR Landscape)",Pink,NA,False
+2237,"How to Sell Drugs Online (Fast) (Cycling Through AR Landscape)",Yellow,NA,False
+2240,"How to Sell Drugs Online (Fast) (Filtering in School Hallway)",NA,NA,False
+2679,"Hyper Reality (Juliana`s account gets hacked)",Green,Transparent,False
+2679,"Hyper Reality (Juliana`s account gets hacked)",Green,Layered,False
+2679,"Hyper Reality (Juliana`s account gets hacked)",Green,Colorful,False
+2679,"Hyper Reality (Juliana`s account gets hacked)",Multicolored,Transparent,False
+2679,"Hyper Reality (Juliana`s account gets hacked)",Multicolored,Layered,False
+2679,"Hyper Reality (Juliana`s account gets hacked)",Multicolored,Colorful,False
+2679,"Hyper Reality (Juliana`s account gets hacked)","Bright colors",Transparent,False
+2679,"Hyper Reality (Juliana`s account gets hacked)","Bright colors",Layered,False
+2679,"Hyper Reality (Juliana`s account gets hacked)","Bright colors",Colorful,False
+1553,"HyperFace (camouflage to avoid facial recognition)",Pink,Pixelated,False
+1553,"HyperFace (camouflage to avoid facial recognition)",Pink,Patterns,False
+1553,"HyperFace (camouflage to avoid facial recognition)",Rosa,Pixelated,False
+1553,"HyperFace (camouflage to avoid facial recognition)",Rosa,Patterns,False
+1553,"HyperFace (camouflage to avoid facial recognition)",Black,Pixelated,False
+1553,"HyperFace (camouflage to avoid facial recognition)",Black,Patterns,False
+1553,"HyperFace (camouflage to avoid facial recognition)",White,Pixelated,False
+1553,"HyperFace (camouflage to avoid facial recognition)",White,Patterns,False
+552,"I Created an AI to Make Procedurally Generated Movies, But They're Horrifying (AI)",Red,Glitchy,False
+552,"I Created an AI to Make Procedurally Generated Movies, But They're Horrifying (AI)",Red,3D,False
+552,"I Created an AI to Make Procedurally Generated Movies, But They're Horrifying (AI)",Red,Morbid,False
+307,"I Spy with my Machine Eye (Drone reflects over actions)",NA,"birds eye view",True
+307,"I Spy with my Machine Eye (Drone reflects over actions)",NA,Aerial,True
+307,"I Spy with my Machine Eye (Drone reflects over actions)",NA,Poetic,True
+551,"I'm going to die, and probably soon, because of what I saw through an unsecured webcam one night (Webcams)",NA,Gory,False
+699,"I'm Just Gettin' Blowed (Devin filming himself)",NA,Birdseyeview,True
+670,"I'm on Observation Duty (Monitoring house)",Monochrome,Grainy,True
+1976,"Iceberg (expanding to the unconscious )",NA,Aerial,False
+1976,"Iceberg (expanding to the unconscious )",NA,Military,False
+1616,"ImageNet Roulette (classifying people)",Green,Scientific,False
+2888,"In Other Waters (Topographical scans)",Teal,Contoured,True
+2888,"In Other Waters (Topographical scans)",Yellow,Contoured,True
+450,"In the Robot Skies: A Drone Love Story (Drone surveilling council residents)",Red,square,False
+450,"In the Robot Skies: A Drone Love Story (Drone surveilling council residents)",Red,Targeting,False
+450,"In the Robot Skies: A Drone Love Story (Drone surveilling council residents)",White,square,False
+450,"In the Robot Skies: A Drone Love Story (Drone surveilling council residents)",White,Targeting,False
+449,"In the Robot Skies: A Drone Love Story (Private Drone exchanging)",Red,square,False
+449,"In the Robot Skies: A Drone Love Story (Private Drone exchanging)",Red,Targeting,False
+449,"In the Robot Skies: A Drone Love Story (Private Drone exchanging)",White,square,False
+449,"In the Robot Skies: A Drone Love Story (Private Drone exchanging)",White,Targeting,False
+820,"Incoming (Thermal imaging of refugees)","Black and white",Blurred,False
+820,"Incoming (Thermal imaging of refugees)","Black and white",Slow,False
+820,"Incoming (Thermal imaging of refugees)","Black and white",Meditative,False
+820,"Incoming (Thermal imaging of refugees)","Black and white",Distanced,False
+820,"Incoming (Thermal imaging of refugees)","Black and white",Sad,False
+2053,"Incredibles 2 (Controlling through hypno-goggles)",Blue,"hypnotic pattern",False
+2053,"Incredibles 2 (Controlling through hypno-goggles)",Blue,buzz,False
+2053,"Incredibles 2 (Controlling through hypno-goggles)",fluorescent,"hypnotic pattern",False
+2053,"Incredibles 2 (Controlling through hypno-goggles)",fluorescent,buzz,False
+2057,"Incredibles 2 (Jack-Jack enters Edna's test room)",NA,NA,False
+2055,"Incredibles 2 (Screenslaver hypnotizing through screens).","Black and white","hypnotizing pattern",False
+2055,"Incredibles 2 (Screenslaver hypnotizing through screens).",Blue,"hypnotizing pattern",False
+2137,"Incredibles 2 (Tracking Jack-Jack and anticipating changes)",NA,NA,False
+657,"Infinite Detail (AR art and ads)",Rainbow,Overwhelming,False
+657,"Infinite Detail (AR art and ads)",Rainbow,wild,False
+657,"Infinite Detail (AR art and ads)",Rainbow,fanciful,False
+657,"Infinite Detail (AR art and ads)",Rainbow,vivid,False
+654,"Infinite Detail (Black Lives Matter protest with AR and drones)",NA,Busy,False
+654,"Infinite Detail (Black Lives Matter protest with AR and drones)",NA,fast,False
+654,"Infinite Detail (Black Lives Matter protest with AR and drones)",NA,Chaotic,False
+1639,"Infinite Detail (Selfie while being held up in the airport)",NA,NA,False
+824,"Infra (Defiant soldiers)",Pink,Surreal,False
+824,"Infra (Defiant soldiers)",Pink,Colourful,False
+824,"Infra (Defiant soldiers)",Pink,Bright,False
+824,"Infra (Defiant soldiers)",Pink,Surprising,False
+427,"Interface (Soldiers killing)",Gray,Blurry,False
+427,"Interface (Soldiers killing)",Gray,"Night vision",False
+427,"Interface (Soldiers killing)",Gray,Targeting,False
+427,"Interface (Soldiers killing)",Gray,"High Contrast",False
+427,"Interface (Soldiers killing)",Gray,"high-angle shot",False
+427,"Interface (Soldiers killing)",White,Blurry,False
+427,"Interface (Soldiers killing)",White,"Night vision",False
+427,"Interface (Soldiers killing)",White,Targeting,False
+427,"Interface (Soldiers killing)",White,"High Contrast",False
+427,"Interface (Soldiers killing)",White,"high-angle shot",False
+427,"Interface (Soldiers killing)",Green,Blurry,False
+427,"Interface (Soldiers killing)",Green,"Night vision",False
+427,"Interface (Soldiers killing)",Green,Targeting,False
+427,"Interface (Soldiers killing)",Green,"High Contrast",False
+427,"Interface (Soldiers killing)",Green,"high-angle shot",False
+3199,"INTERHUMAN (latent walks)","Black and white",Portraits,False
+3199,"INTERHUMAN (latent walks)","Black and white",Morphing,False
+2823,"Invincible (Robot's multiple screen interface)",Green,Blurred,True
+2822,"Invincible (Robot's vision finds weakness)",Green,NA,True
+2824,"Invincible (Spying on superhero family)",Blue,Dark,False
+2824,"Invincible (Spying on superhero family)",Blue,Grainy,False
+1985,"Invisíveis (revealing invisible figures)","Black and white",black-and-white,False
+1985,"Invisíveis (revealing invisible figures)","Black and white",bleak,False
+383,"Iris (Multiple Camera Views)","Black and white",Distorted,False
+383,"Iris (Multiple Camera Views)","Black and white",square,False
+383,"Iris (Multiple Camera Views)","Black and white",Juxtaposed,False
+383,"Iris (Multiple Camera Views)","Black and white",Grid,False
+456,"Iron Man (AR alarm clock)",Blue,Glossy,False
+456,"Iron Man (AR alarm clock)",Blue,Panorama,False
+456,"Iron Man (AR alarm clock)",Blue,Zoom,False
+456,"Iron Man (AR alarm clock)",Blue,Opulence,False
+457,"Iron Man (Augmented Reality_a)",NA,NA,False
+458,"Iron Man (Combat scene - AR identifies civilians)",Red,Dusty,False
+458,"Iron Man (Combat scene - AR identifies civilians)",Red,Gritty,False
+458,"Iron Man (Combat scene - AR identifies civilians)",Red,Speed,False
+458,"Iron Man (Combat scene - AR identifies civilians)",Gray,Dusty,False
+458,"Iron Man (Combat scene - AR identifies civilians)",Gray,Gritty,False
+458,"Iron Man (Combat scene - AR identifies civilians)",Gray,Speed,False
+2531,"Isle of Dogs (Drone captures Atari)",Green,NA,True
+688,"I`m Alan Partridge: Basic Alan (Alan steals cone)",Black,"birds eye view",False
+688,"I`m Alan Partridge: Basic Alan (Alan steals cone)",Black,Night,False
+688,"I`m Alan Partridge: Basic Alan (Alan steals cone)",Black,Monochrome,False
+688,"I`m Alan Partridge: Basic Alan (Alan steals cone)",Gray,"birds eye view",False
+688,"I`m Alan Partridge: Basic Alan (Alan steals cone)",Gray,Night,False
+688,"I`m Alan Partridge: Basic Alan (Alan steals cone)",Gray,Monochrome,False
+530,"Jller (Identifying and organizing)",White,Ascetic,False
+530,"Jller (Identifying and organizing)",White,Industrial,False
+530,"Jller (Identifying and organizing)",White,Clinical,False
+530,"Jller (Identifying and organizing)",White,Meditative,False
+530,"Jller (Identifying and organizing)",brown,Ascetic,False
+530,"Jller (Identifying and organizing)",brown,Industrial,False
+530,"Jller (Identifying and organizing)",brown,Clinical,False
+530,"Jller (Identifying and organizing)",brown,Meditative,False
+530,"Jller (Identifying and organizing)",Gray,Ascetic,False
+530,"Jller (Identifying and organizing)",Gray,Industrial,False
+530,"Jller (Identifying and organizing)",Gray,Clinical,False
+530,"Jller (Identifying and organizing)",Gray,Meditative,False
+1113,"Johnny Mnemonic (Body scan in Passport Control)",Green,Bright,False
+1113,"Johnny Mnemonic (Body scan in Passport Control)",Green,X-Ray,False
+1113,"Johnny Mnemonic (Body scan in Passport Control)",Red,Bright,False
+1113,"Johnny Mnemonic (Body scan in Passport Control)",Red,X-Ray,False
+1115,"Johnny Mnemonic (Hologram of deceased daughter)",Blue,Circle,False
+1116,"Johnny Mnemonic (Johnny Enters Internet)",Blue,Bright,False
+1116,"Johnny Mnemonic (Johnny Enters Internet)",Blue,Cyberspace,False
+1116,"Johnny Mnemonic (Johnny Enters Internet)",Blue,Digital,False
+1116,"Johnny Mnemonic (Johnny Enters Internet)",Green,Bright,False
+1116,"Johnny Mnemonic (Johnny Enters Internet)",Green,Cyberspace,False
+1116,"Johnny Mnemonic (Johnny Enters Internet)",Green,Digital,False
+1112,"Johnny Mnemonic (Tricked by Deepfake)",Blue,Grid,False
+1112,"Johnny Mnemonic (Tricked by Deepfake)",Blue,Bright,False
+1112,"Johnny Mnemonic (Tricked by Deepfake)",Blue,Shining,False
+2203,"Jupiter Ascending (Hologram)",NA,NA,False
+2199,"Jupiter Ascending (Ocular Scan)",White,Overlay,False
+2199,"Jupiter Ascending (Ocular Scan)",Blue,Overlay,False
+2199,"Jupiter Ascending (Ocular Scan)",Rosa,Overlay,False
+298,"Just Dance 2019 (Dancing registered by motion tracking)",NA,Bright,False
+3215,"Klara and the Sun (Klara sees the world as partitioned)",NA,Boxes,False
+252,"La Region Nationale (Robot filming environment)",NA,Upside-down,False
+252,"La Region Nationale (Robot filming environment)",NA,Sideways,False
+252,"La Region Nationale (Robot filming environment)",NA,Tilted,False
+252,"La Region Nationale (Robot filming environment)",NA,Futuristic,False
+2569,"Lacework (Traversing a machine learning dataset)",NA,dream-like,False
+2569,"Lacework (Traversing a machine learning dataset)",NA,Slow-motion,False
+2569,"Lacework (Traversing a machine learning dataset)",NA,Smudged,False
+1714,"Lagoon (President is broadcast to all screens)",NA,NA,False
+446,"Lauren (Lauren replacing AI)",NA,Wide-angle,False
+1075,"Learning to See: Gloomy Sunday (Machine learns to see)",NA,Morphing,True
+1075,"Learning to See: Gloomy Sunday (Machine learns to see)",NA,Shifting,True
+1075,"Learning to See: Gloomy Sunday (Machine learns to see)",NA,Smudged,True
+320,"Lessons on Leaving Your Body (Drones)",NA,Documentary,False
+320,"Lessons on Leaving Your Body (Drones)",NA,DIY,False
+1651,"Level of Confidence (matching faces)","Black and white",Portraits,False
+1783,"Life: A User’s Manual (broadcasting CCTV footage)",NA,Mobile,False
+1783,"Life: A User’s Manual (broadcasting CCTV footage)",NA,DIY,False
+1783,"Life: A User’s Manual (broadcasting CCTV footage)",NA,"Hacker aesthetics",False
+1527,"Lifeline (Security cameras)",NA,Minimalistic,True
+2867,"Little Brother (Gait Recognition Cameras in Schools)",NA,NA,False
+2869,"Little Brother (Marcus looks for surveillance cameras)",NA,DIY,False
+1208,"Little Eyes (Disconnecting)",NA,NA,False
+1204,"Little Eyes (Kidnapping)",NA,NA,False
+1203,"Little Eyes (Torturing Kentuki)",fluorescent,Porn,False
+2358,"Logan (Gabriela records with her cellphone camera)",NA,NA,True
+2069,"Los anillos de la serpiente (triggering a intimate spectacle)",NA,Sculpture,False
+2069,"Los anillos de la serpiente (triggering a intimate spectacle)",NA,Immersive,False
+2069,"Los anillos de la serpiente (triggering a intimate spectacle)",NA,"Projection Mapping",False
+340,"Lost Faith (Bob is followed by drone)",Monochrome,Glitchy,False
+340,"Lost Faith (Bob is followed by drone)",Monochrome,Informational,False
+340,"Lost Faith (Bob is followed by drone)",Purple,Glitchy,False
+340,"Lost Faith (Bob is followed by drone)",Purple,Informational,False
+2508,"Love, Death and Robots (Holographic fight host)",Multicolored,Glitchy,False
+2498,"Love, Death and Robots (Robot checks location)",Green,Grid,False
+2498,"Love, Death and Robots (Robot checks location)",Green,laser,False
+2503,"Love, Death and Robots (Robot checks scans environment)",NA,Overlay,True
+2503,"Love, Death and Robots (Robot checks scans environment)",NA,Infrared,True
+2503,"Love, Death and Robots (Robot checks scans environment)",NA,Dark,True
+2503,"Love, Death and Robots (Robot checks scans environment)",NA,Contrast,True
+2502,"Love, Death and Robots (Robot takes photos)",Red,Zooming,True
+2502,"Love, Death and Robots (Robot takes photos)",Red,Simple,True
+2512,"Love, Death and Robots (Sentient plane sees everything)",Green,Military,True
+2505,"Love, Death and Robots (Suzy coordinates via hologram)",Green,NA,False
+1772,"LoveStar (ubiquitous surveillance)",NA,NA,False
+1774,"LoveStar (Visual nerve hooked to porn)",NA,NA,False
+428,"Machine Vision (Camera replacing eyes)",NA,Distorted,False
+428,"Machine Vision (Camera replacing eyes)",NA,Wide-angle,False
+428,"Machine Vision (Camera replacing eyes)",NA,Spherical,False
+428,"Machine Vision (Camera replacing eyes)",NA,Reflecting,False
+3122,"Machinehood (Classifying people)",White,Dotted,False
+3122,"Machinehood (Classifying people)",Red,Dotted,False
+3122,"Machinehood (Classifying people)",Green,Dotted,False
+3122,"Machinehood (Classifying people)",Gray,Dotted,False
+3121,"Machinehood (Lenses/optical implants)",NA,NA,False
+3120,"Machinehood (microdrones)",NA,NA,False
+436,"Machines Like Me (AI)",NA,NA,False
+2969,"Madoc: A Mystery (Retinograph)",NA,NA,False
+1166,"Man with a Movie Camera (Animated movie camera)","Black and white",Animation,False
+1166,"Man with a Movie Camera (Animated movie camera)","Black and white",Funny,False
+1169,"Man with a Movie Camera (Kino-eye)","Black and white","double exposure",False
+1169,"Man with a Movie Camera (Kino-eye)","Black and white",Fades,False
+1066,"Manhunt (Replaying murders on CCTV)",NA,Glitchy,True
+1066,"Manhunt (Replaying murders on CCTV)",NA,Noisy,True
+2989,"Mask.ID (one photo two identities)",NA,NA,False
+3179,"Masked Reality (generating masks)","Bright colors",Saturated,False
+3179,"Masked Reality (generating masks)","Bright colors",Smudged,False
+3179,"Masked Reality (generating masks)","Bright colors",Overlay,False
+3179,"Masked Reality (generating masks)","Bright colors",Masked,False
+3179,"Masked Reality (generating masks)","Bright colors","Cultural heritage",False
+3077,"Mass Effect: Andromeda (Alien mimics hologram of human)",Red,Lined,False
+3077,"Mass Effect: Andromeda (Alien mimics hologram of human)",Red,Flickering,False
+3075,"Mass Effect: Andromeda (Omni-tool scanner)",Orange,Lined,False
+3075,"Mass Effect: Andromeda (Omni-tool scanner)",Orange,Transparent,False
+3076,"Mass Effect: Andromeda (Virtual intelligence hologram assistant)",Blue,Transparent,False
+258,"MegaPixels: Faces (Matching faces)",Green,Sharp,False
+258,"MegaPixels: Faces (Matching faces)",Green,"High Contrast",False
+258,"MegaPixels: Faces (Matching faces)",Green,Archive,False
+1917,"MEMEMEME#selfie (smartphone making selfie of it self)",NA,Mechanical,False
+1917,"MEMEMEME#selfie (smartphone making selfie of it self)",NA,Portraits,False
+1659,"Memoirs of the Blind (capturing eyes closed)","Black and white",Portraits,False
+1857,"Memories of the Alhambra (first time re-entering Alhambra)",Blue,Overlay,True
+1857,"Memories of the Alhambra (first time re-entering Alhambra)",Blue,Transparent,True
+1857,"Memories of the Alhambra (first time re-entering Alhambra)",White,Overlay,True
+1857,"Memories of the Alhambra (first time re-entering Alhambra)",White,Transparent,True
+1857,"Memories of the Alhambra (first time re-entering Alhambra)",Orange,Overlay,True
+1857,"Memories of the Alhambra (first time re-entering Alhambra)",Orange,Transparent,True
+1858,"Memories of the Alhambra (Guiding to the first weapon)",Blue,Overlay,True
+1858,"Memories of the Alhambra (Guiding to the first weapon)",Blue,Transparent,True
+1858,"Memories of the Alhambra (Guiding to the first weapon)",White,Overlay,True
+1858,"Memories of the Alhambra (Guiding to the first weapon)",White,Transparent,True
+1858,"Memories of the Alhambra (Guiding to the first weapon)",Orange,Overlay,True
+1858,"Memories of the Alhambra (Guiding to the first weapon)",Orange,Transparent,True
+1909,"Memories of the Alhambra (interaction with an AI)","Green tint",Soft,False
+1909,"Memories of the Alhambra (interaction with an AI)","Green tint",Overexposed,False
+1909,"Memories of the Alhambra (interaction with an AI)",Pink,Soft,False
+1909,"Memories of the Alhambra (interaction with an AI)",Pink,Overexposed,False
+1173,"Ministry of Broadcast (Live-streamed competition in Arena)",NA,8-bit,False
+602,"Minority Report (eyedentiscans)",Blue,NA,True
+602,"Minority Report (eyedentiscans)",White,NA,True
+267,"Minority Report (Gestural interface)",NA,NA,False
+601,"Minority Report (Holograms of Anderton's dead child)",NA,NA,False
+2967,"Minority Report (Personalized ads)",NA,Overexposed,False
+2967,"Minority Report (Personalized ads)",NA,Overwhelming,False
+2967,"Minority Report (Personalized ads)",NA,hologram,False
+844,"Minority Report (Scanning bagged eyeball)",Blue,NA,False
+844,"Minority Report (Scanning bagged eyeball)",Gray,NA,False
+603,"Minority Report (VR)",NA,NA,False
+3018,"Molecular Informatics-morphogenic substance via eye tracking (the gaze creating the space)","Black and white",Geometric,False
+1943,"Mono no Aware (Video Feed)",NA,Calm,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Blue,Smooth,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Blue,Smudged,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Blue,Mosiac,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Red,Smooth,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Red,Smudged,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Red,Mosiac,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",White,Smooth,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",White,Smudged,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",White,Mosiac,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Pink,Smooth,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Pink,Smudged,False
+528,"Mosaic Virus and Myriad (Generating new images of tulips)",Pink,Mosiac,False
+3219,"Moth & Whisper & Whisper (Ubiquitous Surveillance)",Red,Propaganda,False
+3219,"Moth & Whisper & Whisper (Ubiquitous Surveillance)",Black,Propaganda,False
+3218,"Moth & Whisper (Weaver Suit)",NA,NA,False
+972,"Moxyland (Toby`s recording jacket)",Black,Tactile,False
+972,"Moxyland (Toby`s recording jacket)",Black,Embedded,False
+549,"My Camera Knows Something I Don't (Facial recognition)",NA,square,False
+2597,"My Holo Love (Go Nan-do is Watching Them)",NA,NA,False
+2593,"My Holo Love (Go Yoo-Jin Protects Holo Glasses)",Blue,Overlay,True
+2593,"My Holo Love (Go Yoo-Jin Protects Holo Glasses)",Yellow,Overlay,True
+2594,"My Holo Love (Han So-yeon finds Holo glasses)",Blue,Overlay,True
+2595,"My Holo Love (Holo assists Han So-yeon)",Blue,Overlay,True
+2592,"My Holo Love (Holo overrides driving)",Yellow,Overlay,False
+2592,"My Holo Love (Holo overrides driving)",White,Overlay,False
+385,"Nail Art Museum (Generating Nail Art)",NA,Overlay,False
+385,"Nail Art Museum (Generating Nail Art)",NA,Sarcastic,False
+651,"NAMAHAGE (Namahage surveilling  and diciplining ""bad adults"")",Pink,Sarcastic,False
+651,"NAMAHAGE (Namahage surveilling  and diciplining ""bad adults"")",Pink,Funny,False
+651,"NAMAHAGE (Namahage surveilling  and diciplining ""bad adults"")",Pink,Mockumentary,False
+651,"NAMAHAGE (Namahage surveilling  and diciplining ""bad adults"")",Blue,Sarcastic,False
+651,"NAMAHAGE (Namahage surveilling  and diciplining ""bad adults"")",Blue,Funny,False
+651,"NAMAHAGE (Namahage surveilling  and diciplining ""bad adults"")",Blue,Mockumentary,False
+531,"Narciss (Self-analysing Machine)",Black,Glossy,False
+531,"Narciss (Self-analysing Machine)",Black,Metallic,False
+531,"Narciss (Self-analysing Machine)",Black,Technical,False
+531,"Narciss (Self-analysing Machine)",White,Glossy,False
+531,"Narciss (Self-analysing Machine)",White,Metallic,False
+531,"Narciss (Self-analysing Machine)",White,Technical,False
+1742,"Neo Cab (Allie's sousveillance suit)",Blue,Cyberpunk,False
+2772,"Neo Cab (Feelgrid emotion device)",Multicolored,Neon,False
+2774,"Neo Cab (Gideon's surveillance suit)",NA,Cyberpunk,False
+407,"Neon Genesis Evangelion (Overlay telephones)",NA,Transparent,False
+404,"Neon Genesis Evangelion (Tokyo-3 surveillance)",NA,Pixelated,True
+404,"Neon Genesis Evangelion (Tokyo-3 surveillance)",NA,Dark,True
+1138,"Neuleittorgasse (Generating Street Views)",brown,Overexposed,False
+1138,"Neuleittorgasse (Generating Street Views)",brown,Grid,False
+1138,"Neuleittorgasse (Generating Street Views)",brown,Blurry,False
+1138,"Neuleittorgasse (Generating Street Views)",brown,Smudgy,False
+1138,"Neuleittorgasse (Generating Street Views)",Gray,Overexposed,False
+1138,"Neuleittorgasse (Generating Street Views)",Gray,Grid,False
+1138,"Neuleittorgasse (Generating Street Views)",Gray,Blurry,False
+1138,"Neuleittorgasse (Generating Street Views)",Gray,Smudgy,False
+1138,"Neuleittorgasse (Generating Street Views)",Green,Overexposed,False
+1138,"Neuleittorgasse (Generating Street Views)",Green,Grid,False
+1138,"Neuleittorgasse (Generating Street Views)",Green,Blurry,False
+1138,"Neuleittorgasse (Generating Street Views)",Green,Smudgy,False
+1138,"Neuleittorgasse (Generating Street Views)",White,Overexposed,False
+1138,"Neuleittorgasse (Generating Street Views)",White,Grid,False
+1138,"Neuleittorgasse (Generating Street Views)",White,Blurry,False
+1138,"Neuleittorgasse (Generating Street Views)",White,Smudgy,False
+1594,"Neural Network Training (recognizing objects)","Black and white",Scientific,True
+1594,"Neural Network Training (recognizing objects)",Green,Scientific,True
+3068,"Neuro Mirror (Past, Present, Future)",NA,Portraits,False
+3068,"Neuro Mirror (Past, Present, Future)",NA,Smudged,False
+3068,"Neuro Mirror (Past, Present, Future)",NA,Fluid,False
+1430,"Neuromancer (Holographic map)",NA,NA,False
+3078,"Neuromancer (Manipulative holograms)",NA,NA,False
+1429,"Neuromancer (Molly's eyes)",NA,NA,False
+1470,"NieR: Automata (Drone scan)",White,Ripples,False
+1470,"NieR: Automata (Drone scan)",White,See-through,False
+3248,"NieR: Automata (Fighting AI in hacking space)",Beige,Glitchy,False
+3248,"NieR: Automata (Fighting AI in hacking space)",Beige,Pixelated,False
+3248,"NieR: Automata (Fighting AI in hacking space)",Red,Glitchy,False
+3248,"NieR: Automata (Fighting AI in hacking space)",Red,Pixelated,False
+2732,"NieR: Automata (Holographic Red Girls)",White,Transparent,False
+2732,"NieR: Automata (Holographic Red Girls)",White,Glitchy,False
+401,"Night Trap (Protecting girls through surveillance)",NA,NA,False
+243,"Nineteen Eighty-Four (Surveillance cameras)",NA,NA,False
+1008,"NITE Team 4 (Identify and attack house)",NA,Framed,False
+1008,"NITE Team 4 (Identify and attack house)",NA,Dark,False
+3145,"No More Selfies (Drone attack)",NA,NA,False
+581,"Nothing to Hide (Always surveilled)",Red,Gloomy,False
+581,"Nothing to Hide (Always surveilled)",Black,Gloomy,False
+581,"Nothing to Hide (Always surveilled)",Gray,Gloomy,False
+2257,"Oblivion (A look through a futuristic binocular)",NA,Infrared,True
+2258,"Oblivion (Drone performs a body scan looking for people)",Blue,laser,False
+2259,"Oblivion (Perspective of a drone)",Orange,NA,True
+2259,"Oblivion (Perspective of a drone)",Yellow,NA,True
+2255,"Oblivion (Surveillance camera used to overlook a dangerous area)",Blue,Glitchy,False
+2255,"Oblivion (Surveillance camera used to overlook a dangerous area)",Blue,Pixelated,False
+2255,"Oblivion (Surveillance camera used to overlook a dangerous area)",White,Glitchy,False
+2255,"Oblivion (Surveillance camera used to overlook a dangerous area)",White,Pixelated,False
+2260,"Oblivion (Using the spaceship camera to surveil a fight)",Blue,Glitchy,False
+2260,"Oblivion (Using the spaceship camera to surveil a fight)",Orange,Glitchy,False
+1231,"Observation (fixing space station)",NA,Framed,True
+1232,"Observation (hacked AI)",White,Glitchy,True
+1232,"Observation (hacked AI)",White,Chaotic,True
+289,"Oceans`s Eight (Rose scanning necklace)",Blue,Simple,False
+289,"Oceans`s Eight (Rose scanning necklace)",Blue,Minimalistic,False
+289,"Oceans`s Eight (Rose scanning necklace)",Blue,Symmetrical,False
+289,"Oceans`s Eight (Rose scanning necklace)",Orange,Simple,False
+289,"Oceans`s Eight (Rose scanning necklace)",Orange,Minimalistic,False
+289,"Oceans`s Eight (Rose scanning necklace)",Orange,Symmetrical,False
+1091,"October Faction (Detecting Hostile Aliens)",Red,X-Ray,False
+1091,"October Faction (Detecting Hostile Aliens)",Red,Targeting,False
+1091,"October Faction (Detecting Hostile Aliens)",Blue,X-Ray,False
+1091,"October Faction (Detecting Hostile Aliens)",Blue,Targeting,False
+1737,"Onisciente (Jamming drone signal)",White,NA,True
+1737,"Onisciente (Jamming drone signal)",Red,NA,True
+1736,"Onisciente (Stealing fingerprints)",White,NA,True
+1547,"Optimising for Beauty (learning to see beauty)",Peach,Mosiac,False
+1547,"Optimising for Beauty (learning to see beauty)",Peach,Smooth,False
+1547,"Optimising for Beauty (learning to see beauty)",Peach,Blurred,False
+1547,"Optimising for Beauty (learning to see beauty)",Peach,Layered,False
+1547,"Optimising for Beauty (learning to see beauty)",brown,Mosiac,False
+1547,"Optimising for Beauty (learning to see beauty)",brown,Smooth,False
+1547,"Optimising for Beauty (learning to see beauty)",brown,Blurred,False
+1547,"Optimising for Beauty (learning to see beauty)",brown,Layered,False
+1547,"Optimising for Beauty (learning to see beauty)",Gray,Mosiac,False
+1547,"Optimising for Beauty (learning to see beauty)",Gray,Smooth,False
+1547,"Optimising for Beauty (learning to see beauty)",Gray,Blurred,False
+1547,"Optimising for Beauty (learning to see beauty)",Gray,Layered,False
+2190,"Órbita 9 (Motion Tracking in Hostage Situation)",NA,Dark,False
+2189,"Órbita 9 (Motion Tracking in Therapy Session)",NA,Dark,False
+2109,"Órbita 9 (Robot Records and Projects Footage)",NA,NA,False
+2110,"Órbita 9 (Surveillance Cameras in Space Station)",NA,NA,False
+681,"Orwell (Identification)",Blue,NA,True
+2231,"Osmosis (MRI Scan for Brain Activity)",Green,NA,False
+2231,"Osmosis (MRI Scan for Brain Activity)",Gray,NA,False
+2229,"Osmosis (VR Dating App)",Red,NA,False
+580,"Outlast (Night vision camcorder)",Green,Grainy,True
+1948,"Outra 33 Bienal de São Paulo (AI analyzing the Biennial setup)",NA,Framed,False
+1948,"Outra 33 Bienal de São Paulo (AI analyzing the Biennial setup)",NA,Segmentation,False
+1948,"Outra 33 Bienal de São Paulo (AI analyzing the Biennial setup)",NA,Technical,False
+2726,"Outside the Wire (Drone strike friendly fire)",Monochrome,Framed,False
+2726,"Outside the Wire (Drone strike friendly fire)",Monochrome,Target,False
+2727,"Outside the Wire (Locating and tracking android soldier)",Monochrome,Informational,False
+2727,"Outside the Wire (Locating and tracking android soldier)",Monochrome,Target,False
+2244,"Panopticities (exposing vulnerabe IP-camera feeds)",NA,"control room",False
+2244,"Panopticities (exposing vulnerabe IP-camera feeds)",NA,Mosiac,False
+344,"Paper (Band intentionally caught on CCTV)",Green,Streetview,False
+344,"Paper (Band intentionally caught on CCTV)",Green,Blurry,False
+344,"Paper (Band intentionally caught on CCTV)",Green,Pixelated,False
+344,"Paper (Band intentionally caught on CCTV)",Monochrome,Streetview,False
+344,"Paper (Band intentionally caught on CCTV)",Monochrome,Blurry,False
+344,"Paper (Band intentionally caught on CCTV)",Monochrome,Pixelated,False
+2265,"Passengers (Full body hologram of a crewmember)",Blue,hologram,False
+2269,"Passengers (Full body scan to determine the symptoms)",Blue,laser,False
+2269,"Passengers (Full body scan to determine the symptoms)",Gold,laser,False
+2268,"Passengers (Hologram of the spaceship)",Blue,See-through,False
+2268,"Passengers (Hologram of the spaceship)",Blue,hologram,False
+2270,"Passengers (Space helmet used to track a body)",Blue,NA,False
+2267,"Passengers (Surveillance cameras in the spaceship)",Blue,NA,False
+2266,"Passengers (Use of a camera to interact with someone)",Blue,NA,False
+1107,"Pattern Recognition (Finding Cayce using nightvision)",NA,NA,False
+1104,"Pattern Recogntion (Camera recognising shapes)",NA,NA,False
+1103,"Pattern Recogntion (Security scanning for lying/blushing)",NA,NA,False
+1652,"PHYSIOGNOMIC SCRUTINIZER (matching faces)",NA,Metallic,False
+1652,"PHYSIOGNOMIC SCRUTINIZER (matching faces)",NA,Authoritative,False
+1554,"Pixelhead (avoiding facial recognition)",Skincolor,Pixelated,False
+1554,"Pixelhead (avoiding facial recognition)",Peach,Pixelated,False
+1554,"Pixelhead (avoiding facial recognition)",White,Pixelated,False
+1554,"Pixelhead (avoiding facial recognition)",brown,Pixelated,False
+276,"Pokémon Go (Augmented reality)",NA,Bright,False
+2738,"Pontos cegos / Blind spots (exposing surveillance cameras)",NA,DIY,False
+2738,"Pontos cegos / Blind spots (exposing surveillance cameras)",NA,Hardware,False
+2755,"Portal (Avoiding GLaDOS's vision)",NA,NA,False
+1062,"Portal (Security camera)",NA,NA,False
+3013,"Portrait Machine (similar patterns)",NA,Portraits,False
+291,"Postcard from Google Earth (Satellite image glitches)",NA,Melting,False
+291,"Postcard from Google Earth (Satellite image glitches)",NA,Distorted,False
+291,"Postcard from Google Earth (Satellite image glitches)",NA,Surreal,False
+291,"Postcard from Google Earth (Satellite image glitches)",NA,Funny,False
+594,"Primal Tourism (Virtual Replica)","Bright colors",Tropical,False
+594,"Primal Tourism (Virtual Replica)","Bright colors","High definition",False
+594,"Primal Tourism (Virtual Replica)","Bright colors",Sharp,False
+594,"Primal Tourism (Virtual Replica)",Green,Tropical,False
+594,"Primal Tourism (Virtual Replica)",Green,"High definition",False
+594,"Primal Tourism (Virtual Replica)",Green,Sharp,False
+594,"Primal Tourism (Virtual Replica)",Blue,Tropical,False
+594,"Primal Tourism (Virtual Replica)",Blue,"High definition",False
+594,"Primal Tourism (Virtual Replica)",Blue,Sharp,False
+594,"Primal Tourism (Virtual Replica)",brown,Tropical,False
+594,"Primal Tourism (Virtual Replica)",brown,"High definition",False
+594,"Primal Tourism (Virtual Replica)",brown,Sharp,False
+1052,"Privacy Machine (Obfuscating camera)",NA,Blurry,False
+1052,"Privacy Machine (Obfuscating camera)",NA,Pixelated,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",Peach,Scientific,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",Peach,Uncanny,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",brown,Scientific,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",brown,Uncanny,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",Rosa,Scientific,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",Rosa,Uncanny,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",Beige,Scientific,False
+1229,"Probably Chelsea (creating DNA 3D facial prints)",Beige,Uncanny,False
+2329,"Prometheus (Alien ship's holographic map)",Blue,All-encompassing,False
+2329,"Prometheus (Alien ship's holographic map)",Blue,Swirly,False
+2329,"Prometheus (Alien ship's holographic map)",Blue,Dotted,False
+2316,"Prometheus (Engineers use holograms to show past events)",Blue,Grainy,False
+2325,"Prometheus (Peter Weyland hologram)",NA,Photorealistic,False
+2323,"Prometheus (Scan and remove alien inside body)",Blue,Neon,False
+2323,"Prometheus (Scan and remove alien inside body)",Blue,Dotted,False
+2321,"Prometheus (Scanning an Engineer head)",Blue,Informational,False
+2321,"Prometheus (Scanning an Engineer head)",Blue,Dotted,False
+2326,"Prometheus (Stream of space suit interfaces)",Yellow,Low-quality,True
+2326,"Prometheus (Stream of space suit interfaces)",Blue,Low-quality,True
+1030,"Public Waiters (Recognizing colors)",Blue,square,False
+1030,"Public Waiters (Recognizing colors)",Blue,Glitchy,False
+2559,"Raised by Wolves (Confrontation seen through helmet camera)",Beige,"High Contrast",True
+2559,"Raised by Wolves (Confrontation seen through helmet camera)",Beige,Grainy,True
+2561,"Raised by Wolves (Holo-navigation in spacecraft)",Blue,Dotted,False
+2561,"Raised by Wolves (Holo-navigation in spacecraft)",Red,Dotted,False
+2561,"Raised by Wolves (Holo-navigation in spacecraft)",Yellow,Dotted,False
+2556,"Raised by Wolves (Insert eyeball to find anomaly inside body)",Teal,Grainy,True
+1824,"Raised by Wolves (Mother impersonates and weaponises)",Red,Creepy,True
+1824,"Raised by Wolves (Mother impersonates and weaponises)",Red,Violent,True
+1824,"Raised by Wolves (Mother impersonates and weaponises)",Blue,Creepy,True
+1824,"Raised by Wolves (Mother impersonates and weaponises)",Blue,Violent,True
+2552,"Raised by Wolves (VR as catalyst to remember)",NA,Glitchy,False
+689,"Ralph Breaks the Internet (Virus in game)",Yellow,Matrix,False
+689,"Ralph Breaks the Internet (Virus in game)",Yellow,Bullseye,False
+689,"Ralph Breaks the Internet (Virus in game)",Yellow,Overlay,False
+689,"Ralph Breaks the Internet (Virus in game)",brown,Matrix,False
+689,"Ralph Breaks the Internet (Virus in game)",brown,Bullseye,False
+689,"Ralph Breaks the Internet (Virus in game)",brown,Overlay,False
+689,"Ralph Breaks the Internet (Virus in game)",Red,Matrix,False
+689,"Ralph Breaks the Internet (Virus in game)",Red,Bullseye,False
+689,"Ralph Breaks the Internet (Virus in game)",Red,Overlay,False
+1072,"RASA-BOX (machine mirroring you)",NA,Scientific,False
+1548,"REALFACE Glamoflage (tricking facial recognition)",Black,Distorted,False
+1548,"REALFACE Glamoflage (tricking facial recognition)",White,Distorted,False
+1548,"REALFACE Glamoflage (tricking facial recognition)",Peach,Distorted,False
+1967,"Recoding Art (Classifying Art)",NA,Documentary,False
+326,"Red Queen (Electric eyes)",NA,Flickering,False
+326,"Red Queen (Electric eyes)",NA,Grainy,False
+1802,"Redshirts (Hologram of alternate universe wife/husband)",NA,NA,False
+573,"Reflectacles (Wearing infrared-blocking glasses)",Black,lasers,False
+573,"Reflectacles (Wearing infrared-blocking glasses)",Black,black-and-white,False
+573,"Reflectacles (Wearing infrared-blocking glasses)",Green,lasers,False
+573,"Reflectacles (Wearing infrared-blocking glasses)",Green,black-and-white,False
+573,"Reflectacles (Wearing infrared-blocking glasses)",Gray,lasers,False
+573,"Reflectacles (Wearing infrared-blocking glasses)",Gray,black-and-white,False
+620,"Remember Me (Bio-scan)",NA,Bright,False
+3108,"Remember Me (Hacking visual memories)",NA,Glitchy,True
+3243,"Remember Me (Learning from Remembrane holograms)",NA,Monochrome,False
+3132,"Remote Control (Sankofa kills drone)",NA,NA,False
+678,"Replicas (Will deletes Zoe)",Green,Organic,False
+678,"Replicas (Will deletes Zoe)",Green,veiny,False
+678,"Replicas (Will deletes Zoe)",Yellow,Organic,False
+678,"Replicas (Will deletes Zoe)",Yellow,veiny,False
+678,"Replicas (Will deletes Zoe)",Red,Organic,False
+678,"Replicas (Will deletes Zoe)",Red,veiny,False
+3062,"République (Finding fingerprint to unlock door)",NA,NA,True
+3063,"République (Hacking into houses to find contraband)",Blue,Blurred,True
+3063,"République (Hacking into houses to find contraband)",Blue,Pixelated,True
+3063,"République (Hacking into houses to find contraband)",Blue,Inverted,True
+400,"République (Navigation through security cameras)",Blue,Framed,True
+400,"République (Navigation through security cameras)",Gray,Framed,True
+939,"Restriced Residence (Price photographing radiation)",Red,Colorful,False
+939,"Restriced Residence (Price photographing radiation)",Red,"High Contrast",False
+939,"Restriced Residence (Price photographing radiation)",Red,Saturated,False
+939,"Restriced Residence (Price photographing radiation)",Yellow,Colorful,False
+939,"Restriced Residence (Price photographing radiation)",Yellow,"High Contrast",False
+939,"Restriced Residence (Price photographing radiation)",Yellow,Saturated,False
+939,"Restriced Residence (Price photographing radiation)",Green,Colorful,False
+939,"Restriced Residence (Price photographing radiation)",Green,"High Contrast",False
+939,"Restriced Residence (Price photographing radiation)",Green,Saturated,False
+939,"Restriced Residence (Price photographing radiation)",Blue,Colorful,False
+939,"Restriced Residence (Price photographing radiation)",Blue,"High Contrast",False
+939,"Restriced Residence (Price photographing radiation)",Blue,Saturated,False
+3083,"Revolt (Viewer is unable to revolt)",Gray,Grainy,True
+3083,"Revolt (Viewer is unable to revolt)",Gray,Glitchy,True
+3083,"Revolt (Viewer is unable to revolt)",Gray,Collage,True
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)","Black and white",DIY,False
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)","Black and white",Scientific,False
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)",Red,DIY,False
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)",Red,Scientific,False
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)",Green,DIY,False
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)",Green,Scientific,False
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)",Blue,DIY,False
+2030,"RGB Stratospheric Camarena (media archeological machine vision experiment)",Blue,Scientific,False
+952,"Rick and Morty (Rick detecs intruder)",Blue,NA,False
+952,"Rick and Morty (Rick detecs intruder)",Yellow,NA,False
+928,"Rick and Morty (Rick scans twig for clues)",Purple,Transparent,False
+928,"Rick and Morty (Rick scans twig for clues)",Purple,Colourful,False
+928,"Rick and Morty (Rick scans twig for clues)",Purple,"Vibrant Colors",False
+928,"Rick and Morty (Rick scans twig for clues)",Purple,Scientific,False
+928,"Rick and Morty (Rick scans twig for clues)",Red,Transparent,False
+928,"Rick and Morty (Rick scans twig for clues)",Red,Colourful,False
+928,"Rick and Morty (Rick scans twig for clues)",Red,"Vibrant Colors",False
+928,"Rick and Morty (Rick scans twig for clues)",Red,Scientific,False
+928,"Rick and Morty (Rick scans twig for clues)",Blue,Transparent,False
+928,"Rick and Morty (Rick scans twig for clues)",Blue,Colourful,False
+928,"Rick and Morty (Rick scans twig for clues)",Blue,"Vibrant Colors",False
+928,"Rick and Morty (Rick scans twig for clues)",Blue,Scientific,False
+948,"Rick and Morty (Scanning feces samples)",brown,Transparent,False
+948,"Rick and Morty (Scanning feces samples)",brown,Glowing,False
+948,"Rick and Morty (Scanning feces samples)",Green,Transparent,False
+948,"Rick and Morty (Scanning feces samples)",Green,Glowing,False
+950,"Rick and Morty (Summer using dating app)",Red,Ray,False
+627,"Ring (TM) Log (Identifying Trick-or-Treaters)",Black,Glitchy,False
+627,"Ring (TM) Log (Identifying Trick-or-Treaters)",Black,"Rewritten text",False
+627,"Ring (TM) Log (Identifying Trick-or-Treaters)",Black,Flow,False
+627,"Ring (TM) Log (Identifying Trick-or-Treaters)",Green,Glitchy,False
+627,"Ring (TM) Log (Identifying Trick-or-Treaters)",Green,"Rewritten text",False
+627,"Ring (TM) Log (Identifying Trick-or-Treaters)",Green,Flow,False
+643,"Robotika (Robot caring for baby)",Purple,Glowing,False
+643,"Robotika (Robot caring for baby)",Green,Glowing,False
+643,"Robotika (Robot caring for baby)",Blue,Glowing,False
+643,"Robotika (Robot caring for baby)",White,Glowing,False
+2017,"Rogue One: A Star Wars Story (Hologram of Galen Erso)",Blue,Faded,False
+2018,"Rogue One: A Star Wars Story (Observing hostile situation from afar)",Green,Military,True
+2020,"Rogue One: A Star Wars Story (Scans hand to get into imperial safe)",NA,NA,False
+2440,"Rugal ( Park Sung-woong try to break into the vault)",Green,Grid,True
+2440,"Rugal ( Park Sung-woong try to break into the vault)",Green,laser,True
+2440,"Rugal ( Park Sung-woong try to break into the vault)",Red,Grid,True
+2440,"Rugal ( Park Sung-woong try to break into the vault)",Red,laser,True
+2440,"Rugal ( Park Sung-woong try to break into the vault)",Black,Grid,True
+2440,"Rugal ( Park Sung-woong try to break into the vault)",Black,laser,True
+2425,"Rugal ( The Ai shows Kang Ki-beom what it knows)",dark,"control room",True
+2437,"Rugal (Bradley look at a 3D scan of the eye)",White,Futuristic,False
+2437,"Rugal (Bradley look at a 3D scan of the eye)",White,Scientific,False
+2437,"Rugal (Bradley look at a 3D scan of the eye)",White,Medical,False
+2437,"Rugal (Bradley look at a 3D scan of the eye)",Blue,Futuristic,False
+2437,"Rugal (Bradley look at a 3D scan of the eye)",Blue,Scientific,False
+2437,"Rugal (Bradley look at a 3D scan of the eye)",Blue,Medical,False
+2434,"Rugal (Kang Ki-beom finds Song Mi-na´s earpiece)",White,Target,True
+2434,"Rugal (Kang Ki-beom finds Song Mi-na´s earpiece)",White,Framed,True
+2434,"Rugal (Kang Ki-beom finds Song Mi-na´s earpiece)",Orange,Target,True
+2434,"Rugal (Kang Ki-beom finds Song Mi-na´s earpiece)",Orange,Framed,True
+2441,"Rugal (Kang Ki-beom uses his eye to search through dental records)",White,Medical,True
+2441,"Rugal (Kang Ki-beom uses his eye to search through dental records)",White,"3D Mesh",True
+2441,"Rugal (Kang Ki-beom uses his eye to search through dental records)",Blue,Medical,True
+2441,"Rugal (Kang Ki-beom uses his eye to search through dental records)",Blue,"3D Mesh",True
+1942,"Rugal (Optical implant predicts fight)",Black,Overlay,True
+1942,"Rugal (Optical implant predicts fight)",Red,Overlay,True
+2436,"Rugal (Track enemy through surveillance cameras)",NA,"control room",False
+3186,"Salaf (erasing stereotypical narratives)","Black and white",Archive,False
+3186,"Salaf (erasing stereotypical narratives)","Black and white",black-and-white,False
+3186,"Salaf (erasing stereotypical narratives)","Black and white",Silhouettes,False
+548,"Satellite Images (Followed on Google Maps)",NA,Blurry,False
+548,"Satellite Images (Followed on Google Maps)",NA,Urban,False
+2875,"Satellite Reign (Aerial drone vision)",NA,NA,True
+2877,"Satellite Reign (Avoiding security system eyes)",NA,NA,False
+2876,"Satellite Reign (Holographic flora)",Green,Lined,False
+2973,"Satellite Reign (World scan with facial recognition)",NA,NA,True
+1654,"Saving Face (touching faces to generate new identities)",NA,Overlay,False
+1654,"Saving Face (touching faces to generate new identities)",NA,Portraits,False
+1654,"Saving Face (touching faces to generate new identities)",NA,Morphing,False
+1467,"Scanner Sombre (LiDAR vision)",Rainbow,Pulsating,True
+1467,"Scanner Sombre (LiDAR vision)",Rainbow,Grainy,True
+1467,"Scanner Sombre (LiDAR vision)",Rainbow,Pixelated,True
+472,"Security Cameras (Surveillance cameras)",NA,Faded,False
+472,"Security Cameras (Surveillance cameras)",NA,Blurry,False
+472,"Security Cameras (Surveillance cameras)",NA,"Bad Resolution",False
+1452,"Security Check (Louis learns about X-ray machines)",NA,Dark,False
+1093,"See you (Machine learning face singing)",Red,Glitchy,False
+1093,"See you (Machine learning face singing)",Red,Morphing,False
+1093,"See you (Machine learning face singing)",Red,Overexposed,False
+1093,"See you (Machine learning face singing)",Red,Analogue,False
+1093,"See you (Machine learning face singing)",Gray,Glitchy,False
+1093,"See you (Machine learning face singing)",Gray,Morphing,False
+1093,"See you (Machine learning face singing)",Gray,Overexposed,False
+1093,"See you (Machine learning face singing)",Gray,Analogue,False
+1093,"See you (Machine learning face singing)",Green,Glitchy,False
+1093,"See you (Machine learning face singing)",Green,Morphing,False
+1093,"See you (Machine learning face singing)",Green,Overexposed,False
+1093,"See you (Machine learning face singing)",Green,Analogue,False
+1099,"Seed (Diagnosing Turry)",NA,Lined,True
+1098,"Seed (Facial recognition glasses)",NA,NA,True
+2749,"Seed (GAN prank on fellow student)",NA,Blurred,False
+1097,"Seed (Turry hacks school security system)",NA,NA,True
+1628,"SEER: Simulative Emotional Expression Robot (mimicing facial expressions)",White,plastic,False
+1628,"SEER: Simulative Emotional Expression Robot (mimicing facial expressions)",White,Cute,False
+994,"Self-Contained (Artist viewed by machine)",Skincolor,Creepy,False
+994,"Self-Contained (Artist viewed by machine)",Skincolor,Uncanny,False
+994,"Self-Contained (Artist viewed by machine)",Skincolor,Morphing,False
+994,"Self-Contained (Artist viewed by machine)",Skincolor,Blobby,False
+994,"Self-Contained (Artist viewed by machine)",Skincolor,Fleshy,False
+994,"Self-Contained (Artist viewed by machine)",Skincolor,Shifting,False
+1546,"Self-portrait of an absence (scanning a blind eye)",White,Clinical,False
+1546,"Self-portrait of an absence (scanning a blind eye)",White,Medical,False
+1546,"Self-portrait of an absence (scanning a blind eye)",Black,Clinical,False
+1546,"Self-portrait of an absence (scanning a blind eye)",Black,Medical,False
+3057,"SelfieCity (SelfieSaoPaulo)",White,Portraits,False
+3052,"SelfieCity (The Selfiexploratory)",Blue,Portraits,False
+3052,"SelfieCity (The Selfiexploratory)",Black,Portraits,False
+3052,"SelfieCity (The Selfiexploratory)",White,Portraits,False
+542,"Selfies (Cameraphone)",NA,NA,False
+1136,"Serious Games III: Immersion (Virtual Therapy)",NA,3D,False
+1136,"Serious Games III: Immersion (Virtual Therapy)",NA,Military,False
+1136,"Serious Games III: Immersion (Virtual Therapy)",NA,"Split projection",False
+1136,"Serious Games III: Immersion (Virtual Therapy)",NA,Documentary,False
+1155,"Shapes of Things Before My Eyes  (Wowbagger)",Gray,Scientific,False
+1155,"Shapes of Things Before My Eyes  (Wowbagger)",Pink,Scientific,False
+1155,"Shapes of Things Before My Eyes  (Wowbagger)",Yellow,Scientific,False
+1155,"Shapes of Things Before My Eyes  (Wowbagger)",Blue,Scientific,False
+2624,"She-Ra and the Princess of Power (AI Holographic Teacher)",Purple,Glitchy,False
+2624,"She-Ra and the Princess of Power (AI Holographic Teacher)",Purple,Glowing,False
+2624,"She-Ra and the Princess of Power (AI Holographic Teacher)",Purple,Oozing,False
+2622,"She-Ra and the Princess of Power (Facing the Past in VR)",Red,Lines,False
+2622,"She-Ra and the Princess of Power (Facing the Past in VR)",Red,Glitchy,False
+2622,"She-Ra and the Princess of Power (Facing the Past in VR)",Green,Lines,False
+2622,"She-Ra and the Princess of Power (Facing the Past in VR)",Green,Glitchy,False
+2620,"She-Ra and the Princess of Power (Haunting Holograms)",White,Transparent,False
+2620,"She-Ra and the Princess of Power (Haunting Holograms)",White,Glitchy,False
+2620,"She-Ra and the Princess of Power (Haunting Holograms)",White,Looping,False
+2611,"She-Ra and the Princess of Power (Horde spies on Princesses`)",NA,"Frog perspective",True
+2617,"She-Ra and the Princess of Power (Horde Training in VR)",Pink,Glitchy,True
+2617,"She-Ra and the Princess of Power (Horde Training in VR)",Pink,Lines,True
+2617,"She-Ra and the Princess of Power (Horde Training in VR)",Green,Glitchy,True
+2617,"She-Ra and the Princess of Power (Horde Training in VR)",Green,Lines,True
+2618,"She-Ra and the Princess of Power (Princessess Fight Advanced Robot)",Pink,Lines,True
+2618,"She-Ra and the Princess of Power (Princessess Fight Advanced Robot)",Green,Lines,True
+2619,"She-Ra and the Princess of Power (Princessess Planning Using Hologram)",Pink,Transparent,False
+2619,"She-Ra and the Princess of Power (Princessess Planning Using Hologram)",Pink,Pointy,False
+2619,"She-Ra and the Princess of Power (Princessess Planning Using Hologram)",Pink,Triangular,False
+2619,"She-Ra and the Princess of Power (Princessess Planning Using Hologram)",Pink,Pulsating,False
+281,"Shutter (Film)(Ghost caught on polaroid)",NA,Analogue,False
+281,"Shutter (Film)(Ghost caught on polaroid)",NA,Polaroid,False
+2979,"Shutter (game)(Drone's enhanced vision)",Green,Blurred,True
+2979,"Shutter (game)(Drone's enhanced vision)",Green,Target,True
+2979,"Shutter (game)(Drone's enhanced vision)",Green,Dark,True
+2979,"Shutter (game)(Drone's enhanced vision)",Blue,Blurred,True
+2979,"Shutter (game)(Drone's enhanced vision)",Blue,Target,True
+2979,"Shutter (game)(Drone's enhanced vision)",Blue,Dark,True
+3266,"Sight (Daphne discovers the pick-up app)",Red,Code,False
+3266,"Sight (Daphne discovers the pick-up app)",White,Code,False
+3265,"Sight (Patrick manipulates Daphne)",White,game-like,False
+3265,"Sight (Patrick manipulates Daphne)",White,neutral,False
+3265,"Sight (Patrick manipulates Daphne)",Red,game-like,False
+3265,"Sight (Patrick manipulates Daphne)",Red,neutral,False
+1622,"Sight Machine (AI analysing Kronos Quartet)",NA,Scientific,False
+1215,"Significant Other (comparing emotions)",Black,Minimalistic,False
+1215,"Significant Other (comparing emotions)",Black,Textual,False
+1215,"Significant Other (comparing emotions)",Black,Authoritative,False
+1215,"Significant Other (comparing emotions)",White,Minimalistic,False
+1215,"Significant Other (comparing emotions)",White,Textual,False
+1215,"Significant Other (comparing emotions)",White,Authoritative,False
+1215,"Significant Other (comparing emotions)",Pink,Minimalistic,False
+1215,"Significant Other (comparing emotions)",Pink,Textual,False
+1215,"Significant Other (comparing emotions)",Pink,Authoritative,False
+2211,"Six Wakes (AI)",NA,NA,True
+536,"Skinned (Lia imagines her boyfriend seeing her machine eyes and body)",Blue,Smooth,False
+536,"Skinned (Lia imagines her boyfriend seeing her machine eyes and body)",Blue,still,False
+536,"Skinned (Lia imagines her boyfriend seeing her machine eyes and body)",Blue,plastic,False
+535,"Skinned (Optical/ocular implant)",NA,Sarcastic,False
+859,"Slaughterbots (Mom witnessing murder)","Green tint",Pixelated,False
+859,"Slaughterbots (Mom witnessing murder)","Green tint",Informational,False
+859,"Slaughterbots (Mom witnessing murder)","Green tint",Bullseye,False
+2105,"Sleep Dealer (Drones)",Violet,Military,False
+2105,"Sleep Dealer (Drones)",Violet,Target,False
+2105,"Sleep Dealer (Drones)",Violet,Aerial,False
+2105,"Sleep Dealer (Drones)",Pink,Military,False
+2105,"Sleep Dealer (Drones)",Pink,Target,False
+2105,"Sleep Dealer (Drones)",Pink,Aerial,False
+2105,"Sleep Dealer (Drones)",Blue,Military,False
+2105,"Sleep Dealer (Drones)",Blue,Target,False
+2105,"Sleep Dealer (Drones)",Blue,Aerial,False
+2105,"Sleep Dealer (Drones)",Red,Military,False
+2105,"Sleep Dealer (Drones)",Red,Target,False
+2105,"Sleep Dealer (Drones)",Red,Aerial,False
+2104,"Sleep Dealer (Surveillance weapons)","Black and white",NA,False
+1657,"Smile (smile to play the video)",Black,Aerial,False
+1657,"Smile (smile to play the video)",Gray,Aerial,False
+1657,"Smile (smile to play the video)",Blue,Aerial,False
+3040,"So.So.So. (Somebody, Somewhere, Sometime)(Traversing through spherical panoramas)",NA,Panorama,False
+3040,"So.So.So. (Somebody, Somewhere, Sometime)(Traversing through spherical panoramas)",NA,Seamless,False
+3040,"So.So.So. (Somebody, Somewhere, Sometime)(Traversing through spherical panoramas)",NA,Streetview,False
+2997,"Solar Opposites (Hologram of friend's house)",Blue,Transparent,False
+2997,"Solar Opposites (Hologram of friend's house)",Blue,Silhouettes,False
+2996,"Solar Opposites (Killing filthy men)",Red,Framed,True
+2990,"Solar Opposites (P.A.T.R.I.C.I.A. vision)",Red,Framed,True
+2995,"Solar Opposites (Unable to identify gender)",Red,Framed,True
+546,"Someone to Watch Over Me (Optical/ocular implant)",NA,NA,False
+426,"Song of the Machine (Goggles using AR)",NA,Glitchy,False
+426,"Song of the Machine (Goggles using AR)",NA,Pixelated,False
+426,"Song of the Machine (Goggles using AR)",NA,desaturated,False
+425,"Song of the Machine (Goggles using thermal mode)",Purple,Saturated,False
+425,"Song of the Machine (Goggles using thermal mode)",Purple,"High Contrast",False
+425,"Song of the Machine (Goggles using thermal mode)",Yellow,Saturated,False
+425,"Song of the Machine (Goggles using thermal mode)",Yellow,"High Contrast",False
+441,"Sorting Daemon (Object recognition)",Skincolor,Fragmented,False
+441,"Sorting Daemon (Object recognition)",Skincolor,Extracted,False
+441,"Sorting Daemon (Object recognition)",Skincolor,Fleshy,False
+441,"Sorting Daemon (Object recognition)",Black,Fragmented,False
+441,"Sorting Daemon (Object recognition)",Black,Extracted,False
+441,"Sorting Daemon (Object recognition)",Black,Fleshy,False
+441,"Sorting Daemon (Object recognition)",Blue,Fragmented,False
+441,"Sorting Daemon (Object recognition)",Blue,Extracted,False
+441,"Sorting Daemon (Object recognition)",Blue,Fleshy,False
+863,"Sound and Fury (Train scanning objects)",Yellow,NA,False
+863,"Sound and Fury (Train scanning objects)",Gray,NA,False
+1974,"Spaces of Failure (Purposely failing to make a panorama image)",NA,Glitchy,False
+1974,"Spaces of Failure (Purposely failing to make a panorama image)",NA,Panorama,False
+2191,"Spider-Man: Into the Spider-Verse (Prowler Chase Scene)",NA,NA,True
+2193,"Spider-Man: Into the Spider-Verse (Spider-Man Hacks Biometric Scanner)",NA,NA,False
+465,"Spiderman: Far from Home (Augmented reality)",NA,Superheros,False
+465,"Spiderman: Far from Home (Augmented reality)",NA,fast,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Blue,Pixelated,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Blue,Shards,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Blue,Fragmented,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Blue,Glitchy,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Green,Pixelated,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Green,Shards,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Green,Fragmented,False
+466,"Spiderman: Far from Home (Deepfake of Nick Fury)",Green,Glitchy,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Green,Pixelated,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Green,Glitchy,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Green,Fragmented,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Blue,Pixelated,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Blue,Glitchy,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Blue,Fragmented,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Orange,Pixelated,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Orange,Glitchy,False
+462,"Spiderman: Far From Home (Drones creating superhero illusion)",Orange,Fragmented,False
+1579,"Spurious Memories (facial recognition dreams)","Black and white",black-and-white,True
+1579,"Spurious Memories (facial recognition dreams)","Black and white",Blurry,True
+1579,"Spurious Memories (facial recognition dreams)","Black and white",Layered,True
+1579,"Spurious Memories (facial recognition dreams)","Black and white",Overlay,True
+1233,"Spycraft (Image analysis with satellite and infrared)",NA,Aerial,False
+2761,"Spycraft (Killing hostiles with night vision)",Green,NA,True
+1200,"Square Eyes (Better Vision turned off)",Monochrome,Drab,False
+1200,"Square Eyes (Better Vision turned off)",Monochrome,Dirty,False
+1200,"Square Eyes (Better Vision turned off)",Monochrome,Detailed,False
+1200,"Square Eyes (Better Vision turned off)",Gray,Drab,False
+1200,"Square Eyes (Better Vision turned off)",Gray,Dirty,False
+1200,"Square Eyes (Better Vision turned off)",Gray,Detailed,False
+3221,"Squid Game (Robot uses motion detection to kill contestants)","Bright colors",Zoom,True
+3221,"Squid Game (Robot uses motion detection to kill contestants)","Bright colors",Military,True
+3221,"Squid Game (Robot uses motion detection to kill contestants)",Green,Zoom,True
+3221,"Squid Game (Robot uses motion detection to kill contestants)",Green,Military,True
+3221,"Squid Game (Robot uses motion detection to kill contestants)",Red,Zoom,True
+3221,"Squid Game (Robot uses motion detection to kill contestants)",Red,Military,True
+2393,"Srivalli (Hologram depicting brainwaves)",Blue,NA,False
+2395,"Srivalli (Holographic brainwave experiment)",Blue,NA,False
+2395,"Srivalli (Holographic brainwave experiment)",Green,NA,False
+1866,"Star Trek: Into Darkness (Assessing a tight passage on Kronos)",White,Military,False
+1866,"Star Trek: Into Darkness (Assessing a tight passage on Kronos)",Yellow,Military,False
+1866,"Star Trek: Into Darkness (Assessing a tight passage on Kronos)",Red,Military,False
+1864,"Star Trek: Into Darkness (Facial recognition as character enters Section 31 building)",Blue,Sterile,False
+1864,"Star Trek: Into Darkness (Facial recognition as character enters Section 31 building)",Blue,Grid,False
+1868,"Star Trek: Into Darkness (Flying towards enemy spaceship)",White,Scientific,False
+1869,"Star Trek: Into Darkness (Khan attempting to escape)",White,Military,False
+1869,"Star Trek: Into Darkness (Khan attempting to escape)",Blue,Military,False
+1869,"Star Trek: Into Darkness (Khan attempting to escape)",Orange,Military,False
+1865,"Star Trek: Into Darkness (Kirk watching 3D imaged scene of explosion)",NA,3D,False
+1865,"Star Trek: Into Darkness (Kirk watching 3D imaged scene of explosion)",NA,still,False
+1865,"Star Trek: Into Darkness (Kirk watching 3D imaged scene of explosion)",NA,Photorealistic,False
+1867,"Star Trek: Into Darkness (Navigation in space using AR)",dark,NA,False
+1863,"Star Trek: Into Darkness (Spock's body is monitored while in volcano)",Blue,Technical,False
+3269,"Star Wars: Episode VII - The Force Awakens (Holograms for planning)",NA,hologram,False
+3269,"Star Wars: Episode VII - The Force Awakens (Holograms for planning)",NA,Transparent,False
+2165,"Star Wars: Episode VII - The Force Awakens (Object recognition)",Red,NA,True
+2165,"Star Wars: Episode VII - The Force Awakens (Object recognition)",Yellow,NA,True
+2167,"Star Wars: Episode VII - The Force Awakens (Surveillance cameras)",Blue,Grainy,False
+2176,"Star Wars: Episode VIII - The Last Jedi (R2-D2 Creates a hologram of Luke Skywalker's memory)",Blue,hologram,False
+2176,"Star Wars: Episode VIII - The Last Jedi (R2-D2 Creates a hologram of Luke Skywalker's memory)",Blue,See-through,False
+2175,"Star Wars: Episode VIII - The Last Jedi (Snoke uses a hologram and interacts physically through it)",Blue,hologram,False
+2175,"Star Wars: Episode VIII - The Last Jedi (Snoke uses a hologram and interacts physically through it)",Blue,See-through,False
+2847,"Starcraft II: Wings of Liberty (Holographic map/interface)",Green,Transparent,False
+2845,"Starcraft II: Wings of Liberty (Holographic transmission)",Green,Flickering,False
+2845,"Starcraft II: Wings of Liberty (Holographic transmission)",Green,Transparent,False
+2904,"State of Mind (CloudCall hologram service)",Blue,NA,False
+2903,"State of Mind (Controlling drones)",NA,NA,False
+3005,"State of Mind (Hack the security guard robot)",Gray,Pixelated,True
+2980,"State of Mind (MoveScan gait analysis and profiling)",Teal,Grid,False
+3001,"State of Mind (Police drone)",Teal,Dotted,False
+3003,"State of Mind (Sneaking past surveillance cameras)",NA,NA,True
+2902,"State of Mind (Utopian VR world)",White,Smooth,False
+2902,"State of Mind (Utopian VR world)",White,Futuristic,False
+2645,"Stellar (Band captures woman)",Green,Scope,True
+2645,"Stellar (Band captures woman)",Green,Downwards,True
+2523,"STET (Ursula killed by self-driving car)",NA,Injustice,False
+2523,"STET (Ursula killed by self-driving car)",NA,inhumane,False
+3272,"StoryFace (User is told they are lying)",Red,Webpage,False
+3272,"StoryFace (User is told they are lying)",Red,Chatroom,False
+374,"Strange Beasts (AR playtime in park)",NA,NA,True
+1132,"Subnautica (Alterra Spectroscope Scanner)",Blue,Illuminated,False
+2757,"Subnautica (Holographic map and resource scan)",Blue,NA,False
+1133,"Subnautica (Underwater drone vision)",NA,Framed,True
+2590,"Superintelligence (AI observes Carol)",Gray,Birdseyeview,True
+2590,"Superintelligence (AI observes Carol)",Gray,Streetview,True
+1789,"Surveillance Chess (highjacking surveillance cameras)",NA,Glitchy,False
+1789,"Surveillance Chess (highjacking surveillance cameras)",NA,Birdseyeview,False
+1789,"Surveillance Chess (highjacking surveillance cameras)",NA,"Hacker aesthetics",False
+1789,"Surveillance Chess (highjacking surveillance cameras)",NA,Pixelated,False
+1551,"Surveillance Exclusion (Privacy mask)",NA,Transparent,False
+1551,"Surveillance Exclusion (Privacy mask)",NA,plastic,False
+1551,"Surveillance Exclusion (Privacy mask)",NA,Distorted,False
+293,"Surveillance Kanshisha (Surveillance)",Green,NA,False
+2246,"Suspicious Behavior (labeling images)",NA,NA,False
+518,"Sword Art Online (Virtual reality)",NA,NA,False
+3103,"Syndicate (Battle simulation area)",Monochrome,Lines,True
+3103,"Syndicate (Battle simulation area)",Monochrome,Pixelated,True
+3102,"Syndicate (DART-6 chip AR overlay)",Orange,"High Contrast",True
+3102,"Syndicate (DART-6 chip AR overlay)",Monochrome,"High Contrast",True
+1153,"Synthetic Selfies (Generating Self-portraits)",Warm,Smudged,False
+1153,"Synthetic Selfies (Generating Self-portraits)",Warm,Uncanny,False
+1153,"Synthetic Selfies (Generating Self-portraits)",Warm,Abstract,False
+1768,"System Azure Security Ornamentation (decorating surveillance cameras)",NA,Sarcastic,False
+3246,"Tacoma (AR motion tracking)",NA,NA,False
+2721,"Tacoma (Bioscan)",NA,NA,False
+1696,"Tacoma (Holographic memory)",NA,Neon,False
+1696,"Tacoma (Holographic memory)",NA,See-through,False
+1694,"Technobabylon (Correct temperature for biometric lock)",NA,NA,False
+1003,"Technobabylon (Drone camera vision)",NA,Framed,False
+1002,"Technobabylon (Trance VR)",Blue,NA,False
+1002,"Technobabylon (Trance VR)",Green,NA,False
+2295,"Technotise: Edit & I (AR helmet)",Red,Low-quality,False
+2295,"Technotise: Edit & I (AR helmet)",Red,Glitchy,False
+2295,"Technotise: Edit & I (AR helmet)",White,Low-quality,False
+2295,"Technotise: Edit & I (AR helmet)",White,Glitchy,False
+2294,"Technotise: Edit & I (Body scan)",Blue,Scientific,False
+2294,"Technotise: Edit & I (Body scan)",Blue,Medical,False
+2294,"Technotise: Edit & I (Body scan)",Gray,Scientific,False
+2294,"Technotise: Edit & I (Body scan)",Gray,Medical,False
+2294,"Technotise: Edit & I (Body scan)",White,Scientific,False
+2294,"Technotise: Edit & I (Body scan)",White,Medical,False
+2296,"Technotise: Edit & I (Surveillance cams with AR)",White,Overlay,False
+2296,"Technotise: Edit & I (Surveillance cams with AR)",Red,Overlay,False
+2296,"Technotise: Edit & I (Surveillance cams with AR)",Gray,Overlay,False
+2702,"Temple (Man Steals Arm)",Red,Grid,False
+2702,"Temple (Man Steals Arm)",Green,Grid,False
+2702,"Temple (Man Steals Arm)",Gray,Grid,False
+513,"Tendar (Emotion recognition)",NA,NA,False
+738,"Terminator 2 (Identifies John)",Red,Informational,False
+738,"Terminator 2 (Identifies John)",Red,"High Contrast",False
+738,"Terminator 2 (Identifies John)",Red,"Big Fonts",False
+738,"Terminator 2 (Identifies John)",White,Informational,False
+738,"Terminator 2 (Identifies John)",White,"High Contrast",False
+738,"Terminator 2 (Identifies John)",White,"Big Fonts",False
+739,"Terminator 2 (Rebooting the Terminator)",Red,"High Contrast",False
+739,"Terminator 2 (Rebooting the Terminator)",Red,Informational,False
+739,"Terminator 2 (Rebooting the Terminator)",White,"High Contrast",False
+739,"Terminator 2 (Rebooting the Terminator)",White,Informational,False
+733,"Terminator 2 (Terminator learns to smile)",Red,Grid,False
+733,"Terminator 2 (Terminator learns to smile)",Red,"High Contrast",False
+733,"Terminator 2 (Terminator learns to smile)",Red,Informational,False
+733,"Terminator 2 (Terminator learns to smile)",White,Grid,False
+733,"Terminator 2 (Terminator learns to smile)",White,"High Contrast",False
+733,"Terminator 2 (Terminator learns to smile)",White,Informational,False
+731,"Terminator 2 (Terminator scans bikers)",Red,Grid,False
+731,"Terminator 2 (Terminator scans bikers)",Red,"High Contrast",False
+731,"Terminator 2 (Terminator scans bikers)",Red,Informational,False
+731,"Terminator 2 (Terminator scans bikers)",White,Grid,False
+731,"Terminator 2 (Terminator scans bikers)",White,"High Contrast",False
+731,"Terminator 2 (Terminator scans bikers)",White,Informational,False
+1640,"Terra Mars (generating a representation of a new planet)",Blue,Aerial,False
+1640,"Terra Mars (generating a representation of a new planet)",Blue,Scientific,False
+1640,"Terra Mars (generating a representation of a new planet)",Blue,"High definition",False
+1640,"Terra Mars (generating a representation of a new planet)",White,Aerial,False
+1640,"Terra Mars (generating a representation of a new planet)",White,Scientific,False
+1640,"Terra Mars (generating a representation of a new planet)",White,"High definition",False
+1640,"Terra Mars (generating a representation of a new planet)",Black,Aerial,False
+1640,"Terra Mars (generating a representation of a new planet)",Black,Scientific,False
+1640,"Terra Mars (generating a representation of a new planet)",Black,"High definition",False
+1640,"Terra Mars (generating a representation of a new planet)",brown,Aerial,False
+1640,"Terra Mars (generating a representation of a new planet)",brown,Scientific,False
+1640,"Terra Mars (generating a representation of a new planet)",brown,"High definition",False
+1640,"Terra Mars (generating a representation of a new planet)",Green,Aerial,False
+1640,"Terra Mars (generating a representation of a new planet)",Green,Scientific,False
+1640,"Terra Mars (generating a representation of a new planet)",Green,"High definition",False
+767,"The Addams Family (Needlervision)",NA,NA,False
+3173,"The Argus Project (armor with cameras)",Red,Military,False
+3173,"The Argus Project (armor with cameras)",Red,Futuristic,False
+3173,"The Argus Project (armor with cameras)",Black,Military,False
+3173,"The Argus Project (armor with cameras)",Black,Futuristic,False
+3173,"The Argus Project (armor with cameras)",Gray,Military,False
+3173,"The Argus Project (armor with cameras)",Gray,Futuristic,False
+2338,"The Avengers (Facial recognition database to find Loki)",Red,Informational,False
+2338,"The Avengers (Facial recognition database to find Loki)",Red,Dark,False
+2333,"The Avengers (Iron Man's AR interface)",Blue,Transparent,False
+2332,"The Avengers (Scans fingerprint and retina for access)",Red,laser,False
+2336,"The Avengers (Tricking biometric scanner)",Blue,Neon,False
+2741,"The Battle of Ilovaisk (recognizing tanks)",NA,Documentary,False
+1464,"The Castle Doctrine (Security footage)",NA,"Fog of war",False
+1464,"The Castle Doctrine (Security footage)",NA,Dark,False
+1161,"The Cat Returns (Surveillance eyes)",Pastels,Animation,False
+1161,"The Cat Returns (Surveillance eyes)",Pastels,Fantasy,False
+1161,"The Cat Returns (Surveillance eyes)","mint green",Animation,False
+1161,"The Cat Returns (Surveillance eyes)","mint green",Fantasy,False
+1161,"The Cat Returns (Surveillance eyes)",Yellow,Animation,False
+1161,"The Cat Returns (Surveillance eyes)",Yellow,Fantasy,False
+2958,"The Circle (Facial Recognition)",NA,NA,False
+676,"The Circle (Killing Mercer)",Red,Shaky,False
+676,"The Circle (Killing Mercer)",Red,Flickering,False
+676,"The Circle (Killing Mercer)",Red,Bright,False
+2961,"The Circle (Mae accidentally broadcasts her parents having sex)",NA,NA,False
+2959,"The Circle (Mae goes transparent)",NA,NA,False
+1650,"The Coded Gaze: Unmasking Algorithmic Bias (face detection failing)",Red,Documentary,False
+1650,"The Coded Gaze: Unmasking Algorithmic Bias (face detection failing)",Green,Documentary,False
+1650,"The Coded Gaze: Unmasking Algorithmic Bias (face detection failing)",White,Documentary,False
+2423,"The Expanse (AR to retrace flight course)",Rainbow,Swirly,False
+2908,"The Expanse (Cybernetic eye without connection)",White,Framed,True
+2422,"The Expanse (Naomi is recognised by the ship)",NA,NA,True
+2417,"The Expanse (Spaceship cameras scan and reveal)",NA,NA,False
+2954,"The Final Cut (Protesters)",NA,NA,False
+2952,"The Final Cut (Suicide after discovering implant)",NA,NA,False
+1463,"The Flower of Shazui (Augmented reality contact lenses)",NA,NA,False
+616,"The Flower of Shazui (Shaman predicts future)",Blue,Sparkling,False
+616,"The Flower of Shazui (Shaman predicts future)",Blue,Wooden,False
+616,"The Flower of Shazui (Shaman predicts future)",Blue,Masked,False
+616,"The Flower of Shazui (Shaman predicts future)",Orange,Sparkling,False
+616,"The Flower of Shazui (Shaman predicts future)",Orange,Wooden,False
+616,"The Flower of Shazui (Shaman predicts future)",Orange,Masked,False
+318,"THE GOOGLE TRILOGY – 3.The Driver and the Cameras (Capturing the Driver)",Blue,Distorted,False
+318,"THE GOOGLE TRILOGY – 3.The Driver and the Cameras (Capturing the Driver)",Blue,"Fisheye lens",False
+318,"THE GOOGLE TRILOGY – 3.The Driver and the Cameras (Capturing the Driver)",White,Distorted,False
+318,"THE GOOGLE TRILOGY – 3.The Driver and the Cameras (Capturing the Driver)",White,"Fisheye lens",False
+318,"THE GOOGLE TRILOGY – 3.The Driver and the Cameras (Capturing the Driver)",Black,Distorted,False
+318,"THE GOOGLE TRILOGY – 3.The Driver and the Cameras (Capturing the Driver)",Black,"Fisheye lens",False
+956,"The Hunger Games (AR model of arena)",Blue,Shiny,False
+956,"The Hunger Games (AR model of arena)",Blue,hologram,False
+957,"The Hunger Games (Holo)",Blue,See-through,False
+957,"The Hunger Games (Holo)",Blue,Holograph,False
+957,"The Hunger Games (Holo)",Blue,Shiny,False
+968,"The Hunger Games (Katniss Destroys Arena)",White,Explosion,False
+968,"The Hunger Games (Katniss Destroys Arena)",White,Beehive,False
+968,"The Hunger Games (Katniss Destroys Arena)",Blue,Explosion,False
+968,"The Hunger Games (Katniss Destroys Arena)",Blue,Beehive,False
+963,"The Hunger Games (Night Vision Glasses for Harvesting)",NA,NA,False
+964,"The Hunger Games (Night Vision Glasses in Daylight)",NA,Fragmented,False
+959,"The Hunger Games (Night Vision Glasses in Games)",NA,Fashionable,False
+967,"The Hunger Games (Peeta's Camouflage)",Green,muddy,False
+967,"The Hunger Games (Peeta's Camouflage)",Green,decorative,False
+967,"The Hunger Games (Peeta's Camouflage)",brown,muddy,False
+967,"The Hunger Games (Peeta's Camouflage)",brown,decorative,False
+961,"The Hunger Games (Ubiquitous surveillance)",NA,NA,False
+2542,"The Invisible Man (CCTV surveillance footage)",Black,Dark,True
+2542,"The Invisible Man (CCTV surveillance footage)",Black,Static,True
+2541,"The Invisible Man (Cecilia Paints Webcam)",NA,Scary,False
+2543,"The Invisible Man (Violent use of Invisibility)",Blue,Futuristic,False
+2543,"The Invisible Man (Violent use of Invisibility)",dark,Futuristic,False
+2543,"The Invisible Man (Violent use of Invisibility)",Black,Futuristic,False
+2493,"The Last Human (XR_935 analysing face)",NA,NA,True
+2468,"The Last Human (XR_935 finds a human)",NA,NA,True
+2465,"The Last Human (XR_935 is recognising)",NA,NA,True
+1928,"The Last One (drone)",NA,NA,False
+1929,"The Last One (Reality Show)",NA,NA,False
+268,"The Machine Stops (Vashti sees Kuni)",Purple,Glowing,False
+268,"The Machine Stops (Vashti sees Kuni)",Blue,Glowing,False
+2809,"The Mandalorian (Holographic threats)",Blue,Transparent,False
+2807,"The Mandalorian (Reluctant facial recognition to steal data)",NA,Grid,False
+2132,"The Martian (Helmet Camera)",NA,NA,True
+2147,"The Martian (Pathfinder camera)",NA,NA,True
+2131,"The Martian (Satellite surveillance)",Blue,NA,False
+2131,"The Martian (Satellite surveillance)",Orange,NA,False
+2146,"The Martian (Surveillance camera)",NA,Overlay,True
+2146,"The Martian (Surveillance camera)",NA,Informational,True
+2214,"The Matrix (The Matrix)",NA,NA,True
+2574,"The Midnight Sky (Crew makes plan)",Blue,Futuristic,False
+2574,"The Midnight Sky (Crew makes plan)",Blue,Scientific,False
+2573,"The Midnight Sky (Mitchell plays holo-game)",Blue,Futuristic,False
+2573,"The Midnight Sky (Mitchell plays holo-game)",Blue,Sterile,False
+2573,"The Midnight Sky (Mitchell plays holo-game)",White,Futuristic,False
+2573,"The Midnight Sky (Mitchell plays holo-game)",White,Sterile,False
+2575,"The Midnight Sky (Mitchell relives breakfast with family)",NA,Homey,False
+2575,"The Midnight Sky (Mitchell relives breakfast with family)",NA,Warm,False
+2575,"The Midnight Sky (Mitchell relives breakfast with family)",NA,Nostalgic,False
+3034,"The Mitchells vs. The Machines (Dog breaks image recognition)",Red,NA,True
+3034,"The Mitchells vs. The Machines (Dog breaks image recognition)",Blue,NA,True
+3158,"The Most Beautiful Women (replacing faces)",Black,Overlay,False
+3158,"The Most Beautiful Women (replacing faces)",Black,Neoclassical,False
+3158,"The Most Beautiful Women (replacing faces)",White,Overlay,False
+3158,"The Most Beautiful Women (replacing faces)",White,Neoclassical,False
+1589,"The Murderbot Diaries (Murderbot and ART hack security cameras)",NA,NA,True
+1592,"The Murderbot Diaries (Murderbot shares camera feed)",NA,NA,True
+1588,"The Murderbot Diaries (Murderbot watches through security cameras)",NA,NA,True
+1587,"The Murderbot Diaries (murderbots record everything)",NA,NA,True
+1590,"The Murderbot Diaries (security cameras set-up)",NA,NA,True
+527,"The Normalizing Machine (Classifying Social Normalcy)","Black and white",Archive,False
+527,"The Normalizing Machine (Classifying Social Normalcy)","Black and white",Old,False
+527,"The Normalizing Machine (Classifying Social Normalcy)","Black and white",Overexposed,False
+527,"The Normalizing Machine (Classifying Social Normalcy)","Black and white",Scientific,False
+527,"The Normalizing Machine (Classifying Social Normalcy)","Black and white",Forensic,False
+527,"The Normalizing Machine (Classifying Social Normalcy)",Sepia,Archive,False
+527,"The Normalizing Machine (Classifying Social Normalcy)",Sepia,Old,False
+527,"The Normalizing Machine (Classifying Social Normalcy)",Sepia,Overexposed,False
+527,"The Normalizing Machine (Classifying Social Normalcy)",Sepia,Scientific,False
+527,"The Normalizing Machine (Classifying Social Normalcy)",Sepia,Forensic,False
+2694,"The Nostalgist (Boy Learns Whats Real)",Blue,Lines,True
+2694,"The Nostalgist (Boy Learns Whats Real)",Blue,Glitchy,True
+2694,"The Nostalgist (Boy Learns Whats Real)",Red,Lines,True
+2694,"The Nostalgist (Boy Learns Whats Real)",Red,Glitchy,True
+2694,"The Nostalgist (Boy Learns Whats Real)",White,Lines,True
+2694,"The Nostalgist (Boy Learns Whats Real)",White,Glitchy,True
+2709,"The Old Lie (Is there a night vision camera in the cell?)",NA,NA,False
+1673,"The Ongoing Moment (apply custom filter to your face)",NA,weird,True
+1673,"The Ongoing Moment (apply custom filter to your face)",NA,Cute,True
+1673,"The Ongoing Moment (apply custom filter to your face)",NA,post-human,True
+3203,"The Other Nefertiti (nefertiti hack)",White,"Cultural heritage",False
+3203,"The Other Nefertiti (nefertiti hack)",White,3D,False
+2802,"The Peripheral (Viz)",NA,NA,False
+1750,"The Rain (Tricking drone's thermal imaging)",Blue,NA,True
+3028,"The Salvage Crew (Alien disrupts SHN's image recognition)",NA,Glitchy,True
+3023,"The Salvage Crew (Amber Rose's cameras and drones)",NA,Erotic,True
+3024,"The Salvage Crew (Overfitted image recognition)",NA,NA,False
+3029,"The Salvage Crew (Seeing world as data)",NA,NA,True
+3026,"The Salvage Crew (Spying on human crew)",NA,NA,False
+1081,"The Seeker (Machine watching machines)",NA,Code,False
+1081,"The Seeker (Machine watching machines)",NA,Data,False
+991,"The Shell (Machine mirroring us)",NA,Distorted,True
+991,"The Shell (Machine mirroring us)",NA,Warped,True
+636,"The Simpsons (AI helping the Simpsons family)",Red,Hal-like,False
+634,"The Simpsons (AI killing Homer)",Red,Hal-like,False
+638,"The Simpsons (Homer scans people)",Green,"Terminator font",False
+638,"The Simpsons (Homer scans people)",Red,"Terminator font",False
+641,"The Simpsons (Robots trying to kill the Simpsons family)",Red,"Terminator font",True
+641,"The Simpsons (Robots trying to kill the Simpsons family)",Blue,"Terminator font",True
+641,"The Simpsons (Robots trying to kill the Simpsons family)",White,"Terminator font",True
+312,"The Sims 4 (Connecting via cameras)",NA,NA,False
+2520,"The Social Dilemma (AI manipulates Ben)",Blue,Dystopian,True
+2520,"The Social Dilemma (AI manipulates Ben)",Blue,Dark,True
+2836,"The Talos Principle (Hologram clone)",Blue,Glowing,False
+2837,"The Talos Principle (QR code graffiti messages)",NA,Tattered,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Red,Grainy,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Red,"High Contrast",False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Red,Informational,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Red,Bullseye,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",White,Grainy,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",White,"High Contrast",False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",White,Informational,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",White,Bullseye,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Black,Grainy,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Black,"High Contrast",False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Black,Informational,False
+736,"The Terminator (Kyle and Sarah flees from Terminator)",Black,Bullseye,False
+1718,"The Test (VR simulation)",NA,NA,False
+1146,"The Under Presents (Instructive holograms)",Blue,translucent,False
+1146,"The Under Presents (Instructive holograms)",brown,translucent,False
+244,"The Virtual Watchers (Surveilling the border)",NA,Archive,False
+244,"The Virtual Watchers (Surveilling the border)",NA,Anonymized,False
+244,"The Virtual Watchers (Surveilling the border)",NA,Mosiac,False
+1010,"The Walking Dead: Our World (AR)",NA,Blurry,True
+1010,"The Walking Dead: Our World (AR)",NA,Photorealistic,True
+537,"The Webcam Project (Webcams)",NA,NA,False
+3190,"The Zizi Show (creating Zizi)","Bright colors",Smudged,False
+3190,"The Zizi Show (creating Zizi)","Bright colors",Fragmented,False
+3190,"The Zizi Show (creating Zizi)","Bright colors",Morphing,False
+285,"They Live (Roddy unveils a lie)",Black,Gray,False
+285,"They Live (Roddy unveils a lie)",Black,"Big Fonts",False
+285,"They Live (Roddy unveils a lie)",Black,Propaganda,False
+285,"They Live (Roddy unveils a lie)",Black,Sad,False
+285,"They Live (Roddy unveils a lie)",Black,Contrast,False
+285,"They Live (Roddy unveils a lie)",White,Gray,False
+285,"They Live (Roddy unveils a lie)",White,"Big Fonts",False
+285,"They Live (Roddy unveils a lie)",White,Propaganda,False
+285,"They Live (Roddy unveils a lie)",White,Sad,False
+285,"They Live (Roddy unveils a lie)",White,Contrast,False
+285,"They Live (Roddy unveils a lie)",Gray,Gray,False
+285,"They Live (Roddy unveils a lie)",Gray,"Big Fonts",False
+285,"They Live (Roddy unveils a lie)",Gray,Propaganda,False
+285,"They Live (Roddy unveils a lie)",Gray,Sad,False
+285,"They Live (Roddy unveils a lie)",Gray,Contrast,False
+1586,"This is the Future (neural networks predicting)",NA,Smudged,False
+1586,"This is the Future (neural networks predicting)",NA,Morphing,False
+1586,"This is the Future (neural networks predicting)",NA,Colorful,False
+1586,"This is the Future (neural networks predicting)",NA,Bright,False
+2664,"This Time Away (Louisa watching Nigel)",NA,Simple,True
+2354,"Thor: Ragnarok (Grandmaster projects himself as large hologram)",NA,Grainy,False
+2354,"Thor: Ragnarok (Grandmaster projects himself as large hologram)",NA,Glitchy,False
+2354,"Thor: Ragnarok (Grandmaster projects himself as large hologram)",NA,Smudged,False
+2355,"Thor: Ragnarok (Thor uses biometric scan on hand)",NA,NA,False
+1164,"Thoughts and Prayers (AR trolling)",NA,NA,False
+539,"Thoughts and Prayers (Deepfake)",NA,NA,False
+3038,"Tillie and CyberRoberta (viewing through the eyes of a cyber-doll)",Multicolored,Telepresence,True
+3038,"Tillie and CyberRoberta (viewing through the eyes of a cyber-doll)",Multicolored,"Hacker aesthetics",True
+3038,"Tillie and CyberRoberta (viewing through the eyes of a cyber-doll)","Black and white",Telepresence,True
+3038,"Tillie and CyberRoberta (viewing through the eyes of a cyber-doll)","Black and white","Hacker aesthetics",True
+2898,"To the Moon (Artificial memory machine)",NA,NA,False
+724,"Tom Clancy's Ghost Recon Wildlands (Drone vision)",NA,Framed,True
+2737,"Tom Clancy's Ghost Recon Wildlands (Night/thermal vision)",Green,NA,True
+2737,"Tom Clancy's Ghost Recon Wildlands (Night/thermal vision)",Blue,NA,True
+3058,"Tom Clancy's Rainbow Six Siege (Footprint scanner and identification)",NA,NA,True
+1693,"Tom Clancy's Rainbow Six Siege (Holographic decoys)",NA,NA,False
+1692,"Tom Clancy's Rainbow Six Siege (Intel gathering drones and cameras)",Monochrome,Framed,True
+3072,"Tom Clancy's Rainbow Six Siege (Killing using cardiac sensor)",Red,NA,False
+3069,"Tom Clancy's Rainbow Six Siege (Near-invisible from cameras)",NA,NA,False
+3054,"Tom Clancy's Rainbow Six Siege (Thermal vision)",Yellow,NA,True
+2453,"Too Much (Usher using VR to save a woman)",Blue,Blurry,True
+2453,"Too Much (Usher using VR to save a woman)",Blue,Overlay,True
+2453,"Too Much (Usher using VR to save a woman)",Red,Blurry,True
+2453,"Too Much (Usher using VR to save a woman)",Red,Overlay,True
+459,"Totally Normal (Augmented reality)",Pink,Blobby,False
+459,"Totally Normal (Augmented reality)",Pink,Pixelated,False
+459,"Totally Normal (Augmented reality)",Pink,Organic,False
+459,"Totally Normal (Augmented reality)",Pink,Psychedelic,False
+459,"Totally Normal (Augmented reality)",Pink,Bright,False
+253,"Transmetropolitan (AI)",NA,NA,False
+250,"Transmetropolitan (Augmented reality)",NA,NA,False
+2866,"Trette menn (Skjermbrett)",NA,NA,False
+388,"True Beauty (Surveillance)",NA,Framed,False
+1779,"Trust (trusting surveillance cameras)",NA,"birds eye view",False
+1779,"Trust (trusting surveillance cameras)",NA,Zooming,False
+1779,"Trust (trusting surveillance cameras)",NA,Paning,False
+522,"U (Reenacting the Control Room)",White,Ascetic,False
+522,"U (Reenacting the Control Room)",White,Clinical,False
+522,"U (Reenacting the Control Room)",Gray,Ascetic,False
+522,"U (Reenacting the Control Room)",Gray,Clinical,False
+522,"U (Reenacting the Control Room)",Blue,Ascetic,False
+522,"U (Reenacting the Control Room)",Blue,Clinical,False
+296,"Unmanned (UAV search)",Gray,Framed,False
+296,"Unmanned (UAV search)",Gray,Silhouettes,False
+1211,"Upload (Nathan controls real world)",NA,NA,False
+1194,"Upload (Nora edits VR avatars)",NA,Photorealistic,False
+1210,"Upload (VR distracts from intruder)",NA,NA,False
+1193,"Upload (VR sex)",NA,NA,False
+1564,"URME Personal Surveillance Identity Prosthetic (hiding from facial recognition)",Skincolor,Photorealistic,False
+1564,"URME Personal Surveillance Identity Prosthetic (hiding from facial recognition)",Skincolor,Detailed,False
+1564,"URME Personal Surveillance Identity Prosthetic (hiding from facial recognition)",Peach,Photorealistic,False
+1564,"URME Personal Surveillance Identity Prosthetic (hiding from facial recognition)",Peach,Detailed,False
+1564,"URME Personal Surveillance Identity Prosthetic (hiding from facial recognition)",White,Photorealistic,False
+1564,"URME Personal Surveillance Identity Prosthetic (hiding from facial recognition)",White,Detailed,False
+251,"Us+ (Emotion recognition)",Blue,Corporate,False
+251,"Us+ (Emotion recognition)",Blue,Startup,False
+251,"Us+ (Emotion recognition)",Blue,Fades,False
+251,"Us+ (Emotion recognition)",Blue,Kickstarter,False
+251,"Us+ (Emotion recognition)",Blue,Ad,False
+251,"Us+ (Emotion recognition)",Yellow,Corporate,False
+251,"Us+ (Emotion recognition)",Yellow,Startup,False
+251,"Us+ (Emotion recognition)",Yellow,Fades,False
+251,"Us+ (Emotion recognition)",Yellow,Kickstarter,False
+251,"Us+ (Emotion recognition)",Yellow,Ad,False
+2938,"Us, Aggregated 3.0 (searching for similarity)",NA,Grid,False
+2644,"Utbryterne (Breaking the screen-walls)",NA,NA,False
+2647,"Utbryterne (Carla mistrusts reality)",NA,NA,False
+2652,"Utbryterne (Fake video of explosion)",NA,NA,False
+2643,"Utbryterne (Hologram rings)",NA,3D,False
+2833,"Utopian Extraction (detecting stones)",brown,Scientific,False
+2833,"Utopian Extraction (detecting stones)",White,Scientific,False
+2832,"Utopian Extraction (exploring an artifical ecosystem)",Green,Scientific,False
+2832,"Utopian Extraction (exploring an artifical ecosystem)",Black,Scientific,False
+2832,"Utopian Extraction (exploring an artifical ecosystem)",White,Scientific,False
+2831,"Utopian Extraction (revealing Generic Nature)",NA,Documentary,False
+2831,"Utopian Extraction (revealing Generic Nature)",NA,3D,False
+2831,"Utopian Extraction (revealing Generic Nature)",NA,Poetic,False
+3041,"Values Of Values (visualising human values with brainvaves)",Black,Smooth,False
+3041,"Values Of Values (visualising human values with brainvaves)",Black,Glossy,False
+3041,"Values Of Values (visualising human values with brainvaves)",Black,Fluid,False
+3041,"Values Of Values (visualising human values with brainvaves)",White,Smooth,False
+3041,"Values Of Values (visualising human values with brainvaves)",White,Glossy,False
+3041,"Values Of Values (visualising human values with brainvaves)",White,Fluid,False
+3041,"Values Of Values (visualising human values with brainvaves)",Gold,Smooth,False
+3041,"Values Of Values (visualising human values with brainvaves)",Gold,Glossy,False
+3041,"Values Of Values (visualising human values with brainvaves)",Gold,Fluid,False
+526,"VFRAME – Visual Forensics and Advanced Metadata Extraction (Object recognition for illegal munitions)","Bright colors",Boxes,False
+3015,"Vibe Check (classifying emotions)",Orange,Overlay,False
+3015,"Vibe Check (classifying emotions)",Orange,Focused,False
+3015,"Vibe Check (classifying emotions)",Blue,Overlay,False
+3015,"Vibe Check (classifying emotions)",Blue,Focused,False
+3015,"Vibe Check (classifying emotions)",White,Overlay,False
+3015,"Vibe Check (classifying emotions)",White,Focused,False
+3015,"Vibe Check (classifying emotions)",brown,Overlay,False
+3015,"Vibe Check (classifying emotions)",brown,Focused,False
+3015,"Vibe Check (classifying emotions)",Red,Overlay,False
+3015,"Vibe Check (classifying emotions)",Red,Focused,False
+3015,"Vibe Check (classifying emotions)",Black,Overlay,False
+3015,"Vibe Check (classifying emotions)",Black,Focused,False
+1005,"Vigilance 1.0 (City behavioral surveillance)",NA,Bright,False
+3080,"VOIGHT-KAMPFF (eye movements analysed)",NA,Scientific,False
+3080,"VOIGHT-KAMPFF (eye movements analysed)",NA,Laboratory,False
+1049,"Volumetric Data Collector (Scanning your surroundings)",Blue,Dotted,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Blue,Colourful,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Blue,Scientific,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",White,Dotted,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",White,Colourful,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",White,Scientific,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Pink,Dotted,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Pink,Colourful,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Pink,Scientific,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Yellow,Dotted,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Yellow,Colourful,True
+1049,"Volumetric Data Collector (Scanning your surroundings)",Yellow,Scientific,True
+362,"Voyeur (Camcorder surveillance)",NA,Framed,False
+362,"Voyeur (Camcorder surveillance)",NA,Pixelated,False
+362,"Voyeur (Camcorder surveillance)",NA,Staccato,False
+2804,"Watch Dogs: Legion (AR cloaking)",NA,Contoured,False
+2804,"Watch Dogs: Legion (AR cloaking)",NA,Blurred,False
+2804,"Watch Dogs: Legion (AR cloaking)",NA,Glitchy,False
+2785,"Watch Dogs: Legion (AR reconstruction analysis)",Red,Glitchy,True
+2785,"Watch Dogs: Legion (AR reconstruction analysis)",Red,Pixelated,True
+2805,"Watch Dogs: Legion (Bagley's physical form)",Blue,Geometric,False
+2805,"Watch Dogs: Legion (Bagley's physical form)",Blue,Grid,False
+2805,"Watch Dogs: Legion (Bagley's physical form)",Blue,Pixelated,False
+2784,"Watch Dogs: Legion (Hacking London's surveillance network)",NA,Framed,True
+2791,"Watch Dogs: Legion (Holographic broadcast ends with bombing)",Blue,Dark,False
+2806,"Watch Dogs: Legion (The Optik)",NA,NA,False
+1550,"WEARABLE FACE PROJECTOR (wearing another face)",Skincolor,Overexposed,False
+1550,"WEARABLE FACE PROJECTOR (wearing another face)",Skincolor,Overlay,False
+2513,"Welcome to Your Authentic Indian ExperienceTM  (VR amusement park)",NA,NA,False
+1078,"What a Ghost Dreams of (face captured new faces generated)","Black and white",Portraits,False
+1078,"What a Ghost Dreams of (face captured new faces generated)","Black and white",Eye,False
+1078,"What a Ghost Dreams of (face captured new faces generated)",Skincolor,Portraits,False
+1078,"What a Ghost Dreams of (face captured new faces generated)",Skincolor,Eye,False
+1595,"What the Robot Saw (computer vision analyzing youtube videos)",NA,Collage,False
+1595,"What the Robot Saw (computer vision analyzing youtube videos)",NA,Fragmented,False
+1743,"Whispers of a Machine (Enhanced vision from nano-substance)",Green,Grainy,False
+1743,"Whispers of a Machine (Enhanced vision from nano-substance)",Teal,Grainy,False
+2444,"Whispers of a Machine (Fake biometric implant)",NA,NA,False
+942,"White Collar Crime Risk Zones (Predicting Financial Crime Faces)",Red,Rectangular,False
+942,"White Collar Crime Risk Zones (Predicting Financial Crime Faces)",Red,Aerial,False
+509,"Who*You (Face replacement)",NA,NA,False
+416,"Why Him? (Stephanie scans her face)",Blue,Dotted,False
+416,"Why Him? (Stephanie scans her face)",Blue,Bright,False
+416,"Why Him? (Stephanie scans her face)",Blue,Line,False
+416,"Why Him? (Stephanie scans her face)",Green,Dotted,False
+416,"Why Him? (Stephanie scans her face)",Green,Bright,False
+416,"Why Him? (Stephanie scans her face)",Green,Line,False
+2795,"Wool (Visor showing fake view)",Green,NA,False
+2795,"Wool (Visor showing fake view)",Blue,NA,False
+2793,"Wool (Watching outdoors on screens)",brown,Pixelated,False
+2793,"Wool (Watching outdoors on screens)",brown,Gritty,False
+2793,"Wool (Watching outdoors on screens)",Gray,Pixelated,False
+2793,"Wool (Watching outdoors on screens)",Gray,Gritty,False
+1137,"Work Eye/Machine I (Suicide Cameras)","Black and white",Military,False
+1137,"Work Eye/Machine I (Suicide Cameras)","Black and white",Aerial,False
+2251,"X Degrees of Separation (curating artworks)",NA,Archive,False
+2184,"X-Men: Days of Future Past (Crowd records with analogue cameras)",NA,NA,True
+2185,"X-Men: Days of Future Past (Mystique shapeshifts to use finger scan)",Red,NA,False
+2188,"X-Men: Days of Future Past (Professor X uses the cerebro)",Blue,Beam,False
+2186,"X-Men: Days of Future Past (Sentinels identify mutants)",Green,Contoured,True
+2186,"X-Men: Days of Future Past (Sentinels identify mutants)",Green,Contrast,True
+2186,"X-Men: Days of Future Past (Sentinels identify mutants)",Yellow,Contoured,True
+2186,"X-Men: Days of Future Past (Sentinels identify mutants)",Yellow,Contrast,True
+2186,"X-Men: Days of Future Past (Sentinels identify mutants)",Red,Contoured,True
+2186,"X-Men: Days of Future Past (Sentinels identify mutants)",Red,Contrast,True
+2140,"Yat Madit (Adak interpretes Amaros's expression)",NA,NA,False
+412,"Years and Years (Bethany hiding behind filter)",NA,Cute,False
+488,"Years and years (Broadcast deepfake issue)",Black,Dark,False
+488,"Years and years (Broadcast deepfake issue)",Black,Shadows,False
+488,"Years and years (Broadcast deepfake issue)",Black,Grid,False
+488,"Years and years (Broadcast deepfake issue)",Blue,Dark,False
+488,"Years and years (Broadcast deepfake issue)",Blue,Shadows,False
+488,"Years and years (Broadcast deepfake issue)",Blue,Grid,False
+414,"Years and Years (Failed optical implant)",NA,Glitchy,False
+414,"Years and Years (Failed optical implant)",NA,Blurry,False
+414,"Years and Years (Failed optical implant)",NA,Delayed,False
+490,"Years and years (Webcam diagnosing Edith`s eye)",Blue,Informational,False
+490,"Years and years (Webcam diagnosing Edith`s eye)",Blue,Webpage,False
+490,"Years and years (Webcam diagnosing Edith`s eye)",White,Informational,False
+490,"Years and years (Webcam diagnosing Edith`s eye)",White,Webpage,False
+2566,"YHB Pocket Shield (avoiding facial recognition at protests)",Multicolored,Transparent,False
+2566,"YHB Pocket Shield (avoiding facial recognition at protests)",Multicolored,DIY,False
+263,"Young Ones (Robot recording murder)",Grey,Dark,False
+263,"Young Ones (Robot recording murder)",Grey,Grainy,False
+3162,"Zanan Disruption (placing statues)",NA,Streetview,False
+3162,"Zanan Disruption (placing statues)",NA,Wide-angle,False
+3162,"Zanan Disruption (placing statues)",NA,3D,False

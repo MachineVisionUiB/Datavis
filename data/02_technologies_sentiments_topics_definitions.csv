@@ -1,0 +1,83 @@
+Term,Type,Definition
+3D scans,Technology,"3D images or models produced by surface scanning such as photogrammetry, LiDAR, 3D scanning, etc. Does not usually include holograms unless the surface scan that produced the hologram is presented as particularly important in the game."
+AI,Technology,"Artificial intelligence systems that can perform a broad range of intellectual and cognitive tasks that humans can. A system that can only perform one task, such as facial recognition, video recommendations, conversations with humans, or playing a game, is not general-purpose AI, but is likely to use machine learning."
+Augmented reality,Technology,"Digital images overlay or appear to be integrated into a physical environment. Unlike holograms, glasses, implants or screens are usually required to view AR.    "
+Biometrics,Technology,"Technologies used to identify an individual. Can include retina scans, gait recognition, DNA phenotyping, fingerprint scans.  Facial recognition is not included here but tagged separately."
+Body scans,Technology,"Any imaging technology that shows parts of the body that are usually hidden, for instance brain imaging, fMRI, ultrasound, x-ray, or body scans in airport security that show objects under clothing. Includes cameras probes that enter the body."
+Camera,Technology,"Single-purpose, portable camera technologies for creating a visual representation, e.g., camcorders, SLR cameras, cinema cameras. Does not include CCTV, satellites or cameras that are part of other technologies, such as webcams and camera phones, and does not include cameras that produce non-visual information such as motion tracking."
+Cameraphone,Technology,Cameras integrated into phones that are easily carried on the person and often include computational capabilities.
+Deepfake,Technology,"Technologies that use machine learning to generate videos that strongly resemble a specific human being. For our purposes, we include for instance art, satire, spoofs, and porn, but not professional uses of synthetic or virtual actors in Hollywood movies."
+Drones,Technology,Remote controlled or autonomous aerial vehicle with a camera. Does not carry a human operator.
+Emotion recognition,Technology,Software that analyses facial expressions to infer a person's emotions and inner states of mind.
+Facial recognition,Technology,"Automated identification of identity based on a face. This could mean identifying a face as belonging to a specific individual, or to a gender, race or other category."
+Filtering,Technology,"Applying filters to an image to enhance or remove certain aspects, e.g., Instagram filters, beautifying filters, selfie lenses."
+Hologram,Technology,"A 3D projection of archived material or real-time events. It usually features humans, nonhumans or terrain and can usually be seen without special glasses, screens or implants. "
+Image generation,Technology,Synthetic images generated with the use of technologies such as GANs and other neural networks. Does not include animation in general.
+Interactive panoramas,Technology,360 images of the real world that are stitched together to allow movement between photographed spots. Includes various street view services.
+Machine learning,Technology,"The capacity of a computer to learn from experience, i.e., to modify its processing based on newly acquired information. Includes neural networks and machine learning datasets."
+Microscope/Telescope,Technology,Any kind of technology that allows us to see objects that are too small or too far away to be clearly viewed with the naked human eye. Can include rifle scopes if the zoom is quite strong.
+Motion tracking,Technology,Technologies that register movements. Does not include GPS locations and other remote tracking.
+Non-visible spectrum,Technology,"Technologies designed to register objects, shapes and movements in low light conditions, often enhancing the spectral range, e.g., using night vision, infrared, near infrared and ultraviolet. Sources of light such as torches are not included."
+Object recognition,Technology,"Automated identification of an object using visual data. For our purposes, we do not include facial recognition, which has a separate tag. A fingerprint would be tagged with """"Biometrics"""", but not """"Object Recognition"""", despite the purely technical level being similar."
+Ocular implant,Technology,"An implant of some sort has been inserted into somebody’s eyes or brain, usually providing enhanced vision, AR displays or recordings of all that is seen."
+Satellite images,Technology,Images collected by a satellite. Includes Google Earth and many others.
+Surveillance camera,Technology,"CCTV, IP cameras, home surveillance cameras, baby monitors."
+UGV,Technology,Remote controlled or autonomous ground vehicle with a camera. Does not carry a human operator. Can include autonomous vehicles and drones that work underground or underwater.
+Virtual reality,Technology,"Immersive experiences taking place in computer-generated simulated realities, usually involving headsets or similar equipment."
+Webcams,Technology,A video camera connected to a personal computer that streams images in real time to the internet.
+Alien,Sentiment,"Of a foreign nature or character; strange, unfamiliar, different."
+Creepy,Sentiment,"Disconcerting, causes unease without immediate clear threat."
+Dangerous,Sentiment,"Fraught with danger or risk; causing or occasioning danger; perilous, hazardous, risky, unsafe."
+Disgusting,Sentiment,Arouses a visceral feeling of revulsion.
+Empowering,Sentiment,Perceived as increasing agency.
+Exciting,Sentiment,"A positive, enthusiastic attitude."
+Flawed,Sentiment,"Unintelligent, fails to perform as expected, not reliable, stupid, inaccurate."
+Fun,Sentiment,"Lighthearted, amusing, entertaining."
+Helpful,Sentiment,"Useful, beneficial."
+Hostile,Sentiment,Threatening and/or aggressive.
+Intimate,Sentiment,"Closely personal, familiar, physical and/or emotional nearness."
+Intrusive,Sentiment,"Too close, uncomfortable, crossing boundaries, can be about invading privacy (both data and body)."
+Misleading,Sentiment,"Gives false information, deceives."
+Neutral,Sentiment,"Unbiased, impartial, not taking sides."
+Oppressive,Sentiment,Machine vision is used to exert power over and control populations or groups or people.
+Overwhelming,Sentiment,"Sensory/information overload, too much, inability to process."
+Prosocial,Sentiment,"Supporting social connections, benefits relations."
+Protective,Sentiment,Keeping someone/something safe from harm.
+Subversive,Sentiment,"Revealing and/or undermining power structures, dominant systems or institutions. Often includes activists, hackers."
+Wondrous,Sentiment,"Awe-inspiring, amazing, and/or sublime."
+AI,Topic,"Includes machine learning, deep learning, neural networks, general AI, autonomous AI. Full, general AI is not required."
+Animals,Topic,"Includes living creatures that are similar to Earth animals. Can include fictional creatures that are animal-like but not exactly animals, such as Pokémon."
+Automation,Topic,"The technology by which a process or procedure is performed with minimal human assistance. Includes industrial robots (e.g., Amazon robots), most contemporary domestic robots (e.g. vacuum cleaner robots) and many automatons."
+Autonomous vehicles,Topic,"Self-piloting vehicles, including drones, self-driving cars, delivery bots etc."
+City,Topic,Urban environments.
+Climate change,Topic,"If the setting is explicitly climate change-related, e.g., set in a world after the climate has changed, or if climate change is a clear theme."
+Companionship,Topic,Fellowship or friendship.
+Competition,Topic,"Can include formal competitions, competitive sports or rivalry."
+Conflict,Topic,"Between two or more opposed sides or groups with different interests, often with political or ideological basis. The opposing interests are central here, and the focus on them is what distinguishes this tag from “War”."
+Consciousness,Topic,The awareness by a mind of itself and the world.
+Crime,Topic,Illegal activity.
+Cyborg,Topic,Beings with both organic and mechanical/machinic body parts.
+Dystopian,Topic,"Set in or about an imagined state or society in which there is great suffering or injustice, typically one that is totalitarian or post-apocalyptic."
+Economy,Topic,"To do with the financial system, e.g., banking, stock market, bitcoin, money etc."
+Empathy,Topic,"The ability to understand and share the feelings of another is a key theme, e.g., Bladerunner or Nier: Automata. Does not include the player’s or viewer’s empathy for characters unless this is an explicit theme of the fiction or narrative, as for instance in Echo."
+Family,Topic,"Family relationships and the familial tie itself. Can include nuclear family (parents, children), extended family (grandparents, cousins), and even more distant relatives if kinship is important. Could include DNA used to map families. Is not limited to humans, however, our understanding here builds on the human concepts of family, e.g., a group of non-related individuals who refer to themselves as a family (as in the fan fiction trope """"chosen family"""")."
+Free will,Topic,The individual's ability to make choices that aren't predetermined or pre-programmed.
+Gender,Topic,"Explicitly addressing gender issues, e.g., gender (in)equality, gender identity or gender presentation. Not where gender is simply present without being problematised or presented as an important theme in the work itself. Highly sexualised appearance alone is about the protagonist, and should not be tagged in themes, unless it is clearly also a theme."
+Grief,Topic,Emotional responses to loss.
+Hacking,Topic,"Topics use Hacking in a broader cultural sense, including technical hacking (both illegal cracking and hacking technical systems), as well as cultural hacks, life hacks and artist hacks that are more playful ways to trick, repurpose, subvert or obfuscate a system. James Brindle's Autonomous Trap 001 and !Mediengruppe Bitnik DELIVERY FOR MR. ASSANGE are Hacking. Note: Tag situations with more granular verbs, so hacking in situation will be restricted to technical hacks (as repurposing existing technology for purposes it was not originally intended for). Cracking can be used when it is illegal. For cultural hacks we use verbs such as: Repurposing, Subverting, Obfuscating, Tricking, Pranking etc."
+Horror,Topic,"Evoke fear, repulsion, disgust, terror and/or Works that have elements of the grotesque, eerie, monstrous."
+Identity,Topic,"The relationship between the body and the digital representation of an individual, and/or the defining characteristics of an individual."
+Inequality,Topic,"Structural differences in power, social status or resources. Includes gender inequality, racial inequality etc."
+Labour,Topic,The production of value through paid or unpaid work in a capitalist system.
+Nature,Topic,"Organic life and natural phenomena, e.g., volcanos, waterfalls, forests, wildlife, meadows etc. Can include terraforming or extra-terrestrial spaces."
+Nudity,Topic,The visibility of parts of the physical body that are usually covered is important. Can include naked body parts or whole naked bodies.
+Physical violence,Topic,"Physical aggression that causes bodily harm, non-biological bodies included. Consensual BDSM is not in itself violence."
+Playful,Topic,"Can be funny, silly, fun, joyful, whimsical. Not only goal-oriented, e.g. Just Dance or Snapchat."
+Race and ethnicity,Topic,"Explicitly addresses racial issues, e.g., racial (in)equality, racism, or identity. Does not necessarily involve skin colour. Artworks dealing with physiognomy as racism and basis for discrimination may fit this tag. Also includes prejudice and discrimination against ethnic groups. Can include non-human or fictional groups, e.g., Captain Marvel, which presents racism again the Skrulls, or Binti, where a fictional African group of people are oppressed by other humans and by aliens. Brave New World would not qualify for the tag “Race and ethnicity” if it had machine vision, but rather for “Inequality”."
+Robot/android,Topic,"A mechanical or bio-mechanical being that has a mobile body that usually bears some relation to human or animal bodies. Sentience is not required for this tag (see “AI”). Does not include automated machines that perform repetitive tasks such as industrial robots used in factories to build cars (see “Automation”). R2-D2 in Star Wars would be included. The artwork Jller would be tagged with Automation but not Robot, as the robotic arm is not independently mobile."
+Romantic relationship,Topic,"Intimate relationships involving desire, love, infatuation, physical and/or emotional attraction."
+Sex,Topic,"Sexual intercourse, including masturbation, penetrative sex and other forms of physical intimacy. Often includes arousal. Includes sex toys, pornography. If non-consensual, also tag with “Violence”.  "
+Social media,Topic,Websites and applications which enable users to create and share content or to participate in social networking.
+Surveillance,Topic,"Watch, monitoring, guard kept over a person, place, group. Spying or supervision, often for the purpose of direction or control, superintendence. Includes sousveillance, coveillance, self-surveillance."
+Utopian,Topic,Set in or about an imagined community or society that possesses highly desirable or nearly perfect qualities for its citizens.
+War,Topic,"War or the military is a key theme. Distinguished from the tag “Conflict” by the focus on the mechanics, cruelties, tactics or similar of war rather than on the opposing standpoints or interests as such. Both “War” and “Conflict” may be important in the same work."

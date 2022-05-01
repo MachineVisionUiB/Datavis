@@ -1,0 +1,3820 @@
+WorkID,Variable,Value
+6,WorkTitle,Breathe: A Ghost Story
+6,Year,2018
+6,Genre,Narrative
+6,Creator,Kate Pullinger
+6,URL,https://www.breathe-story.com
+6,Country,United Kingdom
+6,IsSciFi,No
+8,WorkTitle,Cheese
+8,Year,2003
+8,Genre,Art
+8,Creator,Christian Moeller
+8,URL,https://christianmoeller.com/Cheese
+8,Country,Germany
+8,IsSciFi,No
+10,WorkTitle,Ralph Breaks the Internet
+10,Year,2018
+10,Genre,Narrative
+10,Creator,Disney
+10,Country,United States
+10,Work_WikidataID,Q25167044
+10,IsSciFi,Yes
+15,WorkTitle,Do Not Feed the Monkeys
+15,Year,2018
+15,Genre,Game
+15,Creator,Fictiorama Studios
+15,URL,http://www.fictiorama.com/en/do-not-feed-the-monkeys/
+15,Country,Spain
+15,Work_WikidataID,Q74116403
+15,IsSciFi,No
+19,WorkTitle,The Webcam Project
+19,Year,2013
+19,Genre,Narrative
+19,Creator,Anonymous
+19,URL,https://creepypasta.fandom.com/wiki/The_Webcam_Project
+19,IsSciFi,No
+20,WorkTitle,VFRAME ‚Äì Visual Forensics and Advanced Metadata Extraction
+20,Year,2017
+20,Genre,Art
+20,Creator,Adam Harvey
+20,URL,https://vframe.io/
+20,Country,United States
+20,Country,Germany
+20,IsSciFi,No
+25,WorkTitle,In the Robot Skies: A Drone Love Story
+25,Year,2016
+25,Genre,Narrative
+25,Creator,Liam Young
+25,URL,https://www.youtube.com/watch?v=cXfYyk0G5Hs
+25,Country,Australia
+25,IsSciFi,Yes
+26,WorkTitle,I Spy with my Machine Eye
+26,Year,2018
+26,Genre,Narrative
+26,Creator,Liam Young
+26,URL,https://www.e-flux.com/architecture/superhumanity/68672/i-spy-with-my-machine-eye/
+26,Country,Australia
+26,IsSciFi,Yes
+29,WorkTitle,Facial Weaponization Suite
+29,Year,2011
+29,Genre,Art
+29,Creator,Zach Blas
+29,URL,http://www.zachblas.info/works/facial-weaponization-suite/
+29,Country,United Kingdom
+29,IsSciFi,No
+31,WorkTitle,CV Dazzle
+31,Year,2010
+31,Genre,Art
+31,Creator,Adam Harvey
+31,URL,https://cvdazzle.com/
+31,Country,United States
+31,Country,Germany
+31,IsSciFi,No
+40,WorkTitle,Iris
+40,Year,1968
+40,Genre,Art
+40,Creator,Les Levine
+40,Country,United States
+40,IsSciFi,No
+42,WorkTitle,R√©publique
+42,Year,2013
+42,Genre,Game
+42,Creator,Camouflaj
+42,URL,https://camouflaj.com/republique/
+42,Country,United States
+42,Work_WikidataID,Q7386146
+42,IsSciFi,Yes
+44,WorkTitle,Orwell
+44,Year,2016
+44,Genre,Game
+44,Creator,Osmotic Studios
+44,URL,http://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/
+44,Country,Germany
+44,Work_WikidataID,Q27940629
+44,IsSciFi,Yes
+45,WorkTitle,Just Dance 2019
+45,Year,2018
+45,Genre,Game
+45,Creator,Ubisoft
+45,URL,https://www.ubisoft.com/en-us/game/just-dance-2019
+45,Work_WikidataID,Q54915210
+45,IsSciFi,No
+47,WorkTitle,Beholder
+47,Year,2016
+47,Genre,Game
+47,Creator,Warm Lamp Games
+47,URL,https://beholder-game.com/
+47,Country,Russia
+47,Work_WikidataID,Q27773357
+47,IsSciFi,No
+49,WorkTitle,Pok√©mon Go
+49,Year,2016
+49,Genre,Game
+49,Creator,Niantic
+49,URL,https://www.pokemongo.com/en-us/
+49,IsSciFi,No
+51,WorkTitle,Tacoma
+51,Year,2017
+51,Genre,Game
+51,Creator,Fullbright
+51,URL,https://tacoma.game/
+51,Country,United States
+51,Work_WikidataID,Q24877461
+51,IsSciFi,Yes
+53,WorkTitle,Night Trap
+53,Year,1992
+53,Genre,Game
+53,Creator,Digital Pictures
+53,Country,United States
+53,Work_WikidataID,Q1323428
+53,IsSciFi,No
+55,WorkTitle,Nothing to Hide
+55,Year,2014
+55,Genre,Game
+55,Creator,Nicky Case
+55,URL,http://www.nothingtohide.cc/
+55,Country,Canada
+55,Work_WikidataID,Q91960126
+55,IsSciFi,No
+57,WorkTitle,Sorting Daemon
+57,Year,2003
+57,Genre,Art
+57,Creator,David Rokeby
+57,URL,http://www.davidrokeby.com/sorting.html
+57,Country,Canada
+57,IsSciFi,No
+61,WorkTitle,Nail Art Museum
+61,Year,2014
+61,Genre,Art
+61,Creator,Jeremy Bailey
+61,URL,https://www.youtube.com/watch?v=40pSU5ZM784
+61,Country,Canada
+61,IsSciFi,No
+63,WorkTitle,Postcards from Google Earth
+63,Year,2010
+63,Genre,Art
+63,Creator,Clement Valla
+63,URL,http://www.postcards-from-google-earth.com/
+63,Country,United States
+63,IsSciFi,No
+65,WorkTitle,Belief Systems
+65,Year,2009
+65,Genre,Art
+65,Creator,Bernhard Hopfengärnter
+65,URL,https://berndhopfengaertner.net/projects/belief-systems/
+65,Country,Germany
+65,IsSciFi,Yes
+67,WorkTitle,Song of the Machine
+67,Year,2011
+67,Genre,Narrative
+67,Creator,Superflux
+67,URL,https://vimeo.com/22616192
+67,Country,United Kingdom
+67,IsSciFi,Yes
+69,WorkTitle,Interface
+69,Year,2006
+69,Genre,Art
+69,Creator,Bjørn Erik Haugen
+69,URL,https://anti-utopias.com/art/bjorn-erik-haugen-interface/
+69,Country,Norway
+69,IsSciFi,No
+71,WorkTitle,AI Generated Nude Portraits
+71,Year,2018
+71,Genre,Art
+71,Creator,Robbie Barrat
+71,URL,https://robbiebarrat.github.io/oth/nude.html
+71,Country,United States
+71,IsSciFi,No
+73,WorkTitle,Machine Vision
+73,Year,1978
+73,Genre,Art
+73,Creator,Steina Vasulka
+73,URL,http://www.vasulka.org/Steina/Steina_MachineVision/MachineVision.html
+73,Country,Iceland
+73,IsSciFi,No
+75,WorkTitle,CMYK Deep Face Dude
+75,Year,2014
+75,Genre,Art
+75,Creator,Douglas Coupland
+75,URL,https://www.coupland.com/visual-arts/cmyk-deep-face-dude
+75,Country,Canada
+75,IsSciFi,No
+80,WorkTitle,Hardcore Henry
+80,Year,2015
+80,Genre,Narrative
+80,Creator,Ilya Naishuller
+80,URL,https://www.imdb.com/title/tt3072482/?ref_=nv_sr_1
+80,Country,Russia
+80,Work_WikidataID,Q20982361
+80,IsSciFi,Yes
+82,WorkTitle,The Machine Stops
+82,Year,1909
+82,Genre,Narrative
+82,Creator,Edward Morgan Forster
+82,URL,http://www.feedbooks.com/book/2073/the-machine-stops
+82,Country,United Kingdom
+82,Work_WikidataID,Q287448
+82,IsSciFi,Yes
+86,WorkTitle,"AI, Ain't I a Woman"
+86,Year,2018
+86,Genre,Art
+86,Creator,Joy Buolamwini
+86,URL,https://youtu.be/QxuyfWoVV98
+86,Country,United States
+86,Country,Ghana
+86,IsSciFi,No
+90,WorkTitle,Dissonant Imagery
+90,Year,2018
+90,Genre,Art
+90,Creator,Daito Manabe
+90,Creator,Kamitani Lab
+90,URL,https://sonar.es/en/2019/artists/daito-manabe-kamitani-lab-dissonant-imaginary
+90,URL,http://www.daito.ws/en/work/dissonant-imaginary.html
+90,Country,Japan
+90,IsSciFi,No
+92,WorkTitle,Face Your Feelings
+92,Year,2017
+92,Genre,Game
+92,Creator,Playgen Ltd
+92,URL,https://itunes.apple.com/us/app/face-your-feelings/id1270103809?mt=8
+92,URL,https://play.google.com/store/apps/details?id=com.PlayGen.FaceYourFeelings&hl=en_US
+92,Country,United Kingdom
+92,IsSciFi,No
+94,WorkTitle,Thoughts and Prayers
+94,Year,2019
+94,Genre,Narrative
+94,Creator,Ken Liu
+94,URL,https://slate.com/technology/2019/01/thoughts-and-prayers-ken-liu-short-story.html
+94,Country,China
+94,Country,United States
+94,IsSciFi,Yes
+96,WorkTitle,Sword Art Online
+96,Year,2012
+96,Genre,Narrative
+96,Creator,A-1 Pictures
+96,URL,https://www.imdb.com/title/tt2250192/
+96,Country,Japan
+96,IsSciFi,Yes
+104,WorkTitle,eXistenZ
+104,Year,1999
+104,Genre,Narrative
+104,Creator,David Cronenberg
+104,URL,https://www.imdb.com/title/tt0120907/
+104,Country,Canada
+104,Work_WikidataID,Q1050838
+104,IsSciFi,Yes
+106,WorkTitle,La Region Nationale
+106,Year,1971
+106,Genre,Art
+106,Creator,Michael Snow
+106,URL,https://www.youtube.com/watch?v=Y7dKFr-O1pU
+106,Country,Canada
+106,IsSciFi,No
+108,WorkTitle,Young Ones
+108,Year,2014
+108,Genre,Narrative
+108,Creator,Jake Paltrow
+108,URL,https://www.imdb.com/title/tt2693664/?ref_=nv_sr_2
+108,Country,United States
+108,Work_WikidataID,Q14595113
+108,IsSciFi,Yes
+110,WorkTitle,Drawing Operations
+110,Year,2017
+110,Genre,Art
+110,Creator,Sougwen Chung
+110,URL,https://sougwen.com/project/drawingoperations2018
+110,Country,China
+110,IsSciFi,No
+112,WorkTitle,Totally Normal
+112,Year,2016
+112,Genre,Narrative
+112,Creator,Andrew Benson
+112,URL,https://vimeo.com/161102117
+112,Country,United States
+112,IsSciFi,Yes
+116,WorkTitle,Fall of the House of Usher
+116,Year,2017
+116,Genre,Art
+116,Creator,Anna Ridler
+116,URL,http://annaridler.com/fall-of-the-house-of-usher
+116,Country,United Kingdom
+116,IsSciFi,No
+118,WorkTitle,B.I.T. Plane
+118,Year,1999
+118,Genre,Art
+118,Creator,Bureau of Inverse Technology (BIT)
+118,URL,http://bureauit.org/plane/
+118,URL,https://anthology.rhizome.org/bit-plane
+118,Country,United States
+118,IsSciFi,No
+121,WorkTitle,Us+
+121,Year,2013
+121,Genre,Art
+121,Creator,Kyle Mcdonald
+121,Creator,Lauren McCarthy
+121,URL,http://lauren-mccarthy.com/us
+121,Country,United States
+121,IsSciFi,Yes
+123,WorkTitle,Lauren
+123,Year,2017
+123,Genre,Art
+123,Creator,Lauren McCarthy
+123,URL,https://get-lauren.com/
+123,Country,United States
+123,IsSciFi,No
+125,WorkTitle,Selfies
+125,Year,2014
+125,Genre,Narrative
+125,Creator,Lavie Tidhar
+125,URL,https://www.tor.com/2014/09/17/selfies-lavie-tidhar/
+125,Country,United Kingdom
+125,IsSciFi,Yes
+127,WorkTitle,Has Anyone Else Used ExpressionCaptioner?
+127,Year,2016
+127,Genre,Narrative
+127,Creator,iia
+127,URL,https://creepypasta.fandom.com/wiki/Has_Anyone_Else_Used_ExpressionCaptioner%3F
+127,IsSciFi,No
+129,WorkTitle,NieR: Automata
+129,Year,2017
+129,Genre,Game
+129,Creator,PlatinumGames
+129,URL,https://nier.square-enix-games.com/en-us/home/
+129,Country,Japan
+129,Work_WikidataID,Q21078985
+129,IsSciFi,Yes
+131,WorkTitle,Alien: Blackout
+131,Year,2019
+131,Genre,Game
+131,Creator,Rival Games
+131,URL,https://rival-games.com/alien-blackout/
+131,Country,Finland
+131,Work_WikidataID,Q65229170
+131,IsSciFi,Yes
+133,WorkTitle,Someone to Watch Over Me
+133,Year,2014
+133,Genre,Narrative
+133,Creator,Nancy Kress
+133,URL,https://spectrum.ieee.org/biomedical/ethics/someone-to-watch-over-me
+133,Country,United States
+133,IsSciFi,Yes
+135,WorkTitle,Horizon Zero Dawn
+135,Year,2017
+135,Genre,Game
+135,Creator,Guerrilla Games
+135,URL,https://www.guerrilla-games.com/play/horizon
+135,Country,Netherlands
+135,Work_WikidataID,Q20155528
+135,IsSciFi,Yes
+137,WorkTitle,Five Nights at Freddy's
+137,Year,2014
+137,Genre,Game
+137,Creator,Scott Cawthon
+137,URL,https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/
+137,Country,United States
+137,Work_WikidataID,Q17618314
+137,IsSciFi,No
+141,WorkTitle,Minority Report
+141,Year,2002
+141,Genre,Narrative
+141,Creator,Steven Spielberg
+141,URL,https://www.imdb.com/title/tt0181689/
+141,Country,United States
+141,Work_WikidataID,Q244604
+141,IsSciFi,Yes
+144,WorkTitle,Cowboy Bebop
+144,Year,1998
+144,Genre,Narrative
+144,Creator,Shin'ichirô Watanabe
+144,Creator,Satô Ikurô
+144,URL,https://cowboybebop.fandom.com/wiki/Jamming_With_Edward
+144,Country,Japan
+144,Work_WikidataID,Q43183511
+144,IsSciFi,Yes
+146,WorkTitle,Encounters
+146,Year,2012
+146,Genre,Art
+146,Creator,Veronique Ducharme
+146,URL,http://veroniqueducharme.com/en/encounters/
+146,URL,https://www.artandsciencejournal.com/post/61707793052/veronqiue-ducharme
+146,Country,Canada
+146,IsSciFi,No
+153,WorkTitle,Autonomous
+153,Year,2017
+153,Genre,Narrative
+153,Creator,Annalee Newitz
+153,Country,United States
+153,Work_WikidataID,Q69527499
+153,IsSciFi,Yes
+156,WorkTitle,Body Devices
+156,Year,2018
+156,Genre,Art
+156,Creator,Faith Holland
+156,URL,http://www.faithholland.com/portfolio_page/body-devices/
+156,Country,United States
+156,IsSciFi,No
+157,WorkTitle,Drones Don't Kill People
+157,Year,2014
+157,Genre,Narrative
+157,Creator,Annalee Newitz
+157,URL,http://www.lightspeedmagazine.com/fiction/drones-dont-kill-people/
+157,Country,United States
+157,Work_WikidataID,Q101097242
+157,IsSciFi,Yes
+159,WorkTitle,Drone Selfies
+159,Year,2014
+159,Genre,Art
+159,Creator,IOCOSE
+159,URL,http://www.iocose.org/works/drone_selfies.html
+159,Country,Italy
+159,Country,Germany
+159,Country,United Kingdom
+159,IsSciFi,Yes
+162,WorkTitle,Daemon
+162,Year,2006
+162,Genre,Narrative
+162,Creator,Daniel Suarez
+162,Country,United States
+162,IsSciFi,Yes
+164,WorkTitle,Tr√¶tte M√¶nd
+164,Year,1891
+164,Genre,Narrative
+164,Creator,Arne Garborg
+164,Country,Norway
+164,Work_WikidataID,Q12007794
+164,IsSciFi,No
+165,WorkTitle,No More Selfies - A Kardashian Dystopia
+165,Year,2018
+165,Genre,Narrative
+165,Creator,Kevin Fanning
+165,URL,https://www.wattpad.com/story/89664522-no-more-selfies-a-kardashian-dystopia
+165,IsSciFi,Yes
+167,WorkTitle,Lessons on Leaving Your Body
+167,Year,2014
+167,Genre,Art
+167,Creator,Nadav Assor
+167,Country,Israel
+167,Country,United States
+167,IsSciFi,No
+173,WorkTitle,Little Brother
+173,Year,2008
+173,Genre,Narrative
+173,Creator,Cory Doctorow
+173,URL,https://craphound.com/littlebrother/Cory_Doctorow_-_Little_Brother.pdf
+173,Country,Canada
+173,Country,United States
+173,IsSciFi,Yes
+176,WorkTitle,Echo
+176,Year,2018
+176,Genre,Art
+176,Creator,Georgie Pinn
+176,URL,https://www.electric-puppet.com.au/current-work
+176,Country,Australia
+176,IsSciFi,No
+179,WorkTitle,Narciss
+179,Year,2018
+179,Genre,Art
+179,Creator,Waltz Binaire
+179,URL,http://waltzbinaire.com/work/narc/
+179,URL,https://christianmioloclair.com/narciss
+179,Country,Germany
+179,IsSciFi,Yes
+180,WorkTitle,Detroit: Become Human
+180,Year,2018
+180,Genre,Game
+180,Creator,Quantic Dream
+180,URL,http://www.quanticdream.com/en/#!/en/category/detroit
+180,Country,France
+180,Work_WikidataID,Q21246348
+180,IsSciFi,Yes
+184,WorkTitle,Jller
+184,Year,2015
+184,Genre,Art
+184,Creator,Benjamin Maus
+184,Creator,Prokop Bartoníček
+184,URL,http://www.prokopbartonicek.com/jller-ignorance-with-benjamin-maus-2015
+184,URL,https://www.wired.com/2016/05/someone-built-rock-sorting-robot-downright-hypnotizing/
+184,Country,Germany
+184,Country,Czechia
+184,IsSciFi,No
+187,WorkTitle,Mosaic Virus and Myriad (Tulips)
+187,Year,2018
+187,Genre,Art
+187,Creator,Anna Ridler
+187,URL,https://annaridler.com/myriad-tulips
+187,URL,https://annaridler.com/mosaic-virus
+187,Country,United Kingdom
+187,IsSciFi,No
+192,WorkTitle,Unmanned
+192,Year,2012
+192,Genre,Game
+192,Creator,Molleindustria
+192,URL,http://unmanned.molleindustria.org/
+192,Country,Italy
+192,IsSciFi,No
+193,WorkTitle,The Normalizing Machine
+193,Year,2018
+193,Genre,Art
+193,Creator,Mushon Zer-Aviv
+193,Creator,Stavy Dan
+193,Creator,Eran Weissenstern
+193,URL,http://mushon.com/tnm/
+193,Country,Israel
+193,IsSciFi,No
+202,WorkTitle,Nineteen Eighty-Four
+202,Year,1949
+202,Genre,Narrative
+202,Creator,George Orwell
+202,Country,United Kingdom
+202,IsSciFi,Yes
+203,WorkTitle,deus X mchn
+203,Year,2017
+203,Genre,Art
+203,Creator,Helena Nikonole
+203,URL,http://nikonole.com/deusxmchn
+203,Country,Russia
+203,IsSciFi,No
+206,WorkTitle,U
+206,Year,2016
+206,Genre,Art
+206,Creator,Coburn Tyler
+206,URL,https://www.tylercoburn.com/u.html
+206,Country,South Korea
+206,Country,United States
+206,IsSciFi,No
+208,WorkTitle,DELIVERY FOR MR. ASSANGE
+208,Year,2013
+208,Genre,Art
+208,Creator,!Mediengruppe Bitnik
+208,URL,https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/assange/
+208,Country,Switzerland
+208,Country,United Kingdom
+208,IsSciFi,No
+210,WorkTitle,"10.000 Moving Cities ‚Äì Same but Different, VR"
+210,Year,2016
+210,Genre,Art
+210,Creator,Marc Lee
+210,URL,http://marclee.io/en/10-000-moving-cities-same-but-different-vr/
+210,Country,Switzerland
+210,IsSciFi,No
+212,WorkTitle,Autonomous Trap 001
+212,Year,2017
+212,Genre,Art
+212,Creator,James Bridle
+212,URL,http://jamesbridle.com/works/autonomous-trap-001
+212,Country,United Kingdom
+212,IsSciFi,No
+213,WorkTitle,MegaPixels: Faces
+213,Year,2017
+213,Genre,Art
+213,Creator,Adam Harvey
+213,URL,https://ahprojects.com/megapixels-glassroom/
+213,Country,United States
+213,Country,Germany
+213,IsSciFi,No
+216,WorkTitle,THE GOOGLE TRILOGY ‚Äì 3.The Driver and the Cameras
+216,Year,2012
+216,Genre,Art
+216,Creator,Vavarella Emilio
+216,URL,http://emiliovavarella.com/archive/google-trilogy/driver-and-cameras/
+216,Country,Italy
+216,Country,United States
+216,IsSciFi,No
+217,WorkTitle,The Virtual Watchers
+217,Year,2016
+217,Genre,Art
+217,Creator,Joanna Moll
+217,URL,https://www.virtualwatchers.de/
+217,Country,Spain
+217,IsSciFi,No
+218,WorkTitle,Satellite Images
+218,Year,2013
+218,Genre,Narrative
+218,Creator,Anonymous
+218,URL,https://creepypasta.fandom.com/wiki/Satellite_Images
+218,IsSciFi,No
+220,WorkTitle,"I'm going to die, and probably soon, because of what I saw through an unsecured webcam one night"
+220,Year,2018
+220,Genre,Narrative
+220,Creator,Dracola112
+220,URL,https://www.reddit.com/r/nosleep/comments/9bv07f/im_going_to_die_and_probably_soon_because_of_what/
+222,WorkTitle,My Camera Knows Something I Don't
+222,Year,2018
+222,Genre,Narrative
+222,Creator,the-third-person
+222,URL,https://www.reddit.com/r/nosleep/comments/7yxcam/my_camera_knows_something_i_dont/
+224,WorkTitle,Facial Features Not Recognized
+224,Year,2014
+224,Genre,Narrative
+224,Creator,manen_lyset
+224,URL,https://www.reddit.com/r/nosleep/comments/2n49u6/facial_features_not_recognized/
+224,IsSciFi,No
+226,WorkTitle,"I Created an AI to Make Procedurally Generated Movies, But They're Horrifying"
+226,Year,2019
+226,Genre,Narrative
+226,Creator,Anonymous
+226,URL,https://www.reddit.com/r/nosleep/comments/b33emx/i_created_an_ai_to_make_procedurally_generated/
+226,IsSciFi,No
+228,WorkTitle,Outlast
+228,Year,2013
+228,Genre,Game
+228,Creator,Red Barrels
+228,URL,https://redbarrelsgames.com/games/outlast/
+228,Country,Canada
+228,Work_WikidataID,Q14838050
+228,IsSciFi,No
+229,WorkTitle,Tom Clancy's Ghost Recon Wildlands
+229,Year,2017
+229,Genre,Game
+229,Creator,Ubisoft
+229,URL,https://www.ubisoft.com/en-us/game/ghost-recon-wildlands/
+229,Work_WikidataID,Q20155365
+229,IsSciFi,No
+231,WorkTitle,Surveillance Kanshisha
+231,Year,2002
+231,Genre,Game
+231,Creator,Sony Computer Entertainment Japan
+231,URL,https://en.wikipedia.org/wiki/Surveillance_Kanshisha
+231,URL,https://www.jp.playstation.com/software/title/scps15012.html
+231,Country,Japan
+231,Work_WikidataID,Q7647036
+231,IsSciFi,Yes
+233,WorkTitle,Any Vision
+233,Year,2011
+233,Genre,Art
+233,Creator,Zuzana Husárová
+233,URL,http://www.springgunpress.com/any-vision
+233,Country,Slovakia
+233,IsSciFi,No
+235,WorkTitle,The Sims 4
+235,Year,2014
+235,Genre,Game
+235,Creator,Maxis
+235,URL,https://www.ea.com/games/the-sims/the-sims-4
+235,Country,United States
+235,Work_WikidataID,Q12579896
+235,IsSciFi,No
+237,WorkTitle,Voyeur
+237,Year,1993
+237,Genre,Game
+237,Creator,Philips POV Entertainment
+237,URL,https://www.wikidata.org/wiki/Q1989435
+237,Country,United States
+237,Work_WikidataID,Q1989435
+237,IsSciFi,No
+239,WorkTitle,79530 Self Portraits
+239,Year,2018
+239,Genre,Art
+239,Creator,Mario Klingemann
+239,URL,https://www.flickr.com/photos/arselectronica/29805812848
+239,Country,Germany
+239,IsSciFi,No
+249,WorkTitle,Ancillary Justice
+249,Year,2013
+249,Genre,Narrative
+249,Creator,Ann Leckie
+249,Work_WikidataID,Q17001721
+249,IsSciFi,Yes
+254,WorkTitle,Transmetropolitan
+254,Year,1997
+254,Genre,Narrative
+254,Creator,Warren Ellis
+254,Country,United Kingdom
+254,Work_WikidataID,Q128286
+254,IsSciFi,Yes
+282,WorkTitle,Shutter (film)
+282,Year,2004
+282,Genre,Narrative
+282,Creator,Pisanthanakun Banjong
+282,URL,https://www.imdb.com/title/tt0440803/
+282,Country,Thailand
+282,Work_WikidataID,Q1519981
+282,IsSciFi,No
+286,WorkTitle,They Live
+286,Year,1988
+286,Genre,Narrative
+286,Creator,John Carpenter
+286,URL,https://www.imdb.com/title/tt0096256/?ref_=nv_sr_1%3Fref_%3Dnv_sr_1
+286,Country,United Kingdom
+286,Work_WikidataID,Q72909
+286,IsSciFi,Yes
+290,WorkTitle,Ocean`s Eight
+290,Year,2018
+290,Genre,Narrative
+290,Creator,Gary Ross
+290,URL,https://www.imdb.com/title/tt5164214/?ref_=nv_sr_1%3Fref_%3Dnv_sr_1
+290,Country,United States
+290,Work_WikidataID,Q25627545
+290,IsSciFi,No
+316,WorkTitle,Awake
+316,Year,2017
+316,Genre,Narrative
+316,Creator,Myron Dewey
+316,Creator,Josh Fox
+316,URL,https://www.imdb.com/title/tt6691862/?ref_=ttfc_fc_tt
+316,Country,United States
+316,Work_WikidataID,Q47538617
+316,IsSciFi,No
+327,WorkTitle,Red Queen
+327,Year,2015
+327,Genre,Narrative
+327,Creator,Victoria Aveyard
+327,Country,United States
+327,IsSciFi,No
+332,WorkTitle,Alone
+332,Year,2016
+332,Genre,Narrative
+332,Creator,Alan Walker
+332,URL,https://www.youtube.com/watch?v=1-xGerv5FOk
+332,Country,Norway
+332,Work_WikidataID,Q27949628
+332,IsSciFi,Yes
+341,WorkTitle,Lost Faith
+341,Year,2019
+341,Genre,Narrative
+341,Creator,Bob Mould
+341,Country,United States
+341,Country,Germany
+341,IsSciFi,No
+345,WorkTitle,Paper
+345,Year,2008
+345,Genre,Narrative
+345,Creator,The Get Out Clause
+345,URL,https://www.youtube.com/watch?v=W2iuZMEEs_A
+345,Country,United Kingdom
+345,IsSciFi,No
+349,WorkTitle,Heartbreak Warfare
+349,Year,2009
+349,Genre,Narrative
+349,Creator,John Mayer
+349,URL,https://www.youtube.com/watch?time_continue=78&v=CZtRHVMcZjI
+349,Country,United States
+349,Work_WikidataID,Q5692707
+349,IsSciFi,No
+353,WorkTitle,EYE
+353,Year,2015
+353,Genre,Narrative
+353,Creator,group inou
+353,URL,https://www.youtube.com/watch?time_continue=128&v=WSFeje8-4Vc
+353,Country,Japan
+353,IsSciFi,No
+360,WorkTitle,Hell No
+360,Year,2016
+360,Genre,Narrative
+360,Creator,Ingrid Michaelson
+360,URL,https://www.youtube.com/watch?time_continue=129&v=T4tefnQGtNY
+360,Country,United States
+360,IsSciFi,No
+368,WorkTitle,Cam Boy
+368,Year,2019
+368,Genre,Narrative
+368,Creator,Mood Killer
+368,URL,https://www.youtube.com/watch?v=9cmyIYNDlmw
+368,Country,United States
+368,IsSciFi,No
+371,WorkTitle,The Cell
+371,Year,2017
+371,Genre,Narrative
+371,Creator,Gojira
+371,URL,https://www.youtube.com/watch?time_continue=203&v=J13GI4Xik1o
+371,Country,France
+371,IsSciFi,No
+373,WorkTitle,Strange Beasts
+373,Year,2017
+373,Genre,Narrative
+373,Creator,Magali Barbe
+373,URL,https://www.magalibarbe.com/strange-beasts-1
+373,Country,United Kingdom
+373,IsSciFi,Yes
+389,WorkTitle,True Beauty
+389,Year,2009
+389,Genre,Narrative
+389,Creator,Ashton Kutcher
+389,Creator,Tyra Banks
+389,URL,https://www.imdb.com/title/tt1232714/
+389,Country,United States
+389,Work_WikidataID,Q4918623
+389,IsSciFi,No
+393,WorkTitle,Dirty Computer
+393,Year,2018
+393,Genre,Narrative
+393,Creator,Janelle Monáe
+393,URL,https://vimeo.com/268498567
+393,Country,United States
+393,Work_WikidataID,Q52213432
+393,IsSciFi,Yes
+405,WorkTitle,Neon Genesis Evangelion
+405,Year,1995
+405,Genre,Narrative
+405,Creator,Hideaki Anno
+405,URL,https://www.imdb.com/title/tt0112159/
+405,Country,Japan
+405,Work_WikidataID,Q1977621
+405,IsSciFi,Yes
+413,WorkTitle,Years and Years
+413,Year,2019
+413,Genre,Narrative
+413,Creator,Russel T Davies
+413,URL,https://en.wikipedia.org/wiki/Years_and_Years_(TV_series)
+413,Country,United Kingdom
+413,Work_WikidataID,Q60776367
+413,IsSciFi,Yes
+417,WorkTitle,Why Him?
+417,Year,2016
+417,Genre,Narrative
+417,Creator,John Hamburg
+417,URL,https://www.imdb.com/title/tt4501244/?ref_=nv_sr_1%3Fref_%3Dnv_sr_1
+417,Country,United States
+417,Work_WikidataID,Q23058779
+417,IsSciFi,No
+423,WorkTitle,Grief
+423,Year,2015
+423,Genre,Narrative
+423,Creator,Thebe Neruda Kgositsile
+423,URL,https://www.youtube.com/watch?v=tZ5Mu2gs-M8
+423,Country,United States
+423,IsSciFi,No
+432,WorkTitle,Machines Like Me
+432,Year,2019
+432,Genre,Narrative
+432,Creator,Ian McEwan
+432,Country,United Kingdom
+432,Work_WikidataID,Q64031447
+432,IsSciFi,Yes
+454,WorkTitle,Iron Man
+454,Year,2007
+454,Genre,Narrative
+454,Creator,Jon Favreau
+454,Creator,Marvel
+454,Country,United States
+454,Work_WikidataID,Q192724
+454,IsSciFi,Yes
+463,WorkTitle,Spider Man: Far From Home
+463,Year,2019
+463,Genre,Narrative
+463,Creator,Jon Watts
+463,URL,https://www.imdb.com/title/tt6320628/
+463,Country,United States
+463,Work_WikidataID,Q27985819
+463,IsSciFi,Yes
+473,WorkTitle,Security Cameras
+473,Year,2013
+473,Genre,Narrative
+473,Creator,Casino
+473,URL,https://www.youtube.com/watch?v=FC0zegcGNfs
+473,Country,United States
+473,IsSciFi,No
+495,WorkTitle,A View to a Kill
+495,Year,1985
+495,Genre,Narrative
+495,Creator,John Glen
+495,URL,https://www.imdb.com/title/tt0090264/?ref_=nv_sr_1%3Fref_%3Dnv_sr_1
+495,Country,United Kingdom
+495,Work_WikidataID,Q332368
+495,IsSciFi,No
+504,WorkTitle,Ayo Technology
+504,Year,2007
+504,Genre,Narrative
+504,Creator,50 Cent
+504,URL,https://www.youtube.com/watch?v=5RDSkR8_AQ0
+504,Country,United States
+504,Work_WikidataID,Q783148
+504,IsSciFi,Yes
+510,WorkTitle,You‚Ä¢Who? Customised Cinema Installation
+510,Year,2019
+510,Genre,Narrative
+510,Creator,Chris Hales
+510,Country,Ireland
+510,IsSciFi,Yes
+514,WorkTitle,TendAR
+514,Year,2018
+514,Genre,Game
+514,Creator,Samantha Gorman
+514,Creator,Tender Claws
+514,Country,United States
+514,IsSciFi,No
+534,WorkTitle,Skinned
+534,Year,2008
+534,Genre,Narrative
+534,Creator,Robin Wasserman
+534,Country,United States
+534,IsSciFi,Yes
+553,WorkTitle,Black Mirror
+553,Year,2011
+553,Genre,Narrative
+553,Creator,Charlie Brooker
+553,Country,United Kingdom
+553,Work_WikidataID,Q558112
+553,IsSciFi,Yes
+574,WorkTitle,Reflectacles
+574,Year,2016
+574,Genre,Art
+574,Creator,Scott Urban
+574,URL,https://www.kickstarter.com/projects/reflectacles/irpair-and-phantom-privacy-eyewear
+574,URL,https://www.reflectacles.com
+574,Country,United States
+574,IsSciFi,No
+578,WorkTitle,Earthware: driverless car seeing a deer for the first time 2
+578,Year,2019
+578,Genre,Art
+578,Creator,Katja Novitskova
+578,URL,https://k-t-z.com/katja-novitskova/
+578,Country,Estonia
+578,IsSciFi,No
+585,WorkTitle,Square Eyes
+585,Year,2018
+585,Genre,Narrative
+585,Creator,Anna Mill
+585,Creator,Luke Jones
+585,Country,United Kingdom
+585,IsSciFi,Yes
+589,WorkTitle,The Hunger Games (series)
+589,Year,2008
+589,Genre,Narrative
+589,Creator,Suzanne Collins
+589,Country,United States
+589,Work_WikidataID,Q11885031
+589,IsSciFi,Yes
+592,WorkTitle,Asymmetric Love
+592,Year,2013
+592,Genre,Art
+592,Creator,Addie Wagenknecht
+592,URL,https://www.placesiveneverbeen.com/details/asymmetric-love
+592,Country,United States
+592,Country,Austria
+592,IsSciFi,No
+595,WorkTitle,Primal Tourism
+595,Year,2016
+595,Genre,Art
+595,Creator,Jakob Kudsk Steensen
+595,URL,https://www.jakobsteensen.com/#/primal-tourism-island/
+595,Country,Denmark
+595,IsSciFi,Yes
+597,WorkTitle,"NAMAHAGE in Tokyo"
+597,Year,2017
+597,Genre,Art
+597,Creator,Etsuko Ichihara
+597,URL,https://www.youtube.com/watch?v=O5zvKmsMKv8
+597,Country,Japan
+597,IsSciFi,No
+600,WorkTitle,"Robotika, the Nannybot"
+600,Year,2018
+600,Genre,Art
+600,Creator,Joaquin Fargas
+600,URL,https://ars.electronica.art/outofthebox/en/robotika/
+600,Country,Argentina
+600,IsSciFi,Yes
+608,WorkTitle,Beforeigners
+608,Year,2019
+608,Genre,Narrative
+608,Creator,Anne Bjørnstad
+608,Country,Norway
+608,Work_WikidataID,Q66438471
+608,IsSciFi,No
+609,WorkTitle,Bill Hader channels Tom Cruise
+609,Year,2019
+609,Genre,Art
+609,Creator,Ctrl Shift Face
+609,URL,https://www.youtube.com/watch?v=VWrhRBb-1Ig
+609,Country,United States
+609,IsSciFi,No
+611,WorkTitle,Better Than Us
+611,Year,2018
+611,Genre,Narrative
+611,Creator,Alexandr Kessel
+611,URL,https://www.imdb.com/title/tt8285216/
+611,Country,Russia
+611,Country,United Kingdom
+611,Work_WikidataID,Q55388754
+611,IsSciFi,Yes
+613,WorkTitle,Facial recognition
+613,Year,2017
+613,Genre,Narrative
+613,Creator,Rana Dasgupta
+613,URL,https://www.theparisreview.org/fiction/7086/facial-recognition-rana-dasgupta
+613,Country,India
+613,Country,United Kingdom
+613,IsSciFi,Yes
+615,WorkTitle,The Flower of Shazui
+615,Year,2016
+615,Genre,Narrative
+615,Creator,Chen Qiufan
+615,Country,China
+615,IsSciFi,Yes
+619,WorkTitle,Remember Me
+619,Year,2013
+619,Genre,Game
+619,Creator,Dontnod Entertainment
+619,URL,https://store.steampowered.com/app/228300/Remember_Me/
+619,Country,France
+619,Work_WikidataID,Q2351397
+619,IsSciFi,Yes
+628,WorkTitle,Ring (TM) Log
+628,Year,2019
+628,Genre,Narrative
+628,Creator,Mark Sample
+628,URL,https://fugitivetexts.net/ring/
+628,Country,United States
+628,IsSciFi,No
+630,WorkTitle,Futurama
+630,Year,2000
+630,Genre,Narrative
+630,Creator,Ron Hughart
+630,Country,United States
+630,Work_WikidataID,Q73622
+630,IsSciFi,Yes
+655,WorkTitle,Infinite Detail: A Novel
+655,Year,2019
+655,Genre,Narrative
+655,Creator,Tim Maughan
+655,Country,United Kingdom
+655,Country,Canada
+655,IsSciFi,Yes
+666,WorkTitle,Replicas
+666,Year,2018
+666,Genre,Narrative
+666,Creator,Jeffrey Nachmanoff
+666,URL,https://www.imdb.com/title/tt4154916/?ref_=nv_sr_1%3Fref_%3Dnv_sr_1
+666,Country,United States
+666,Work_WikidataID,Q27958509
+666,IsSciFi,Yes
+669,WorkTitle,I'm on Observation Duty
+669,Year,2018
+669,Genre,Game
+669,Creator,Zaster
+669,URL,https://zaster.itch.io/im-on-observation-duty
+669,IsSciFi,No
+675,WorkTitle,The Circle
+675,Year,2017
+675,Genre,Narrative
+675,Creator,James Ponsoldt
+675,Creator,Dave Eggers
+675,URL,https://www.imdb.com/title/tt4287320/
+675,Country,United States
+675,Work_WikidataID,Q21010849
+675,IsSciFi,Yes
+682,WorkTitle,The Simpsons
+682,Year,1989
+682,Genre,Narrative
+682,Creator,Matt Groening
+682,Country,United States
+682,Work_WikidataID,Q66498550
+682,IsSciFi,Yes
+687,WorkTitle,I'm Alan Partridge
+687,Year,1997
+687,Genre,Narrative
+687,Creator,Peter Baynham
+687,Country,United Kingdom
+687,Work_WikidataID,Q11787820
+687,IsSciFi,No
+700,WorkTitle,I'm Just Gettin' Blowed
+700,Year,2014
+700,Genre,Narrative
+700,Creator,Devin the Dude
+700,Country,United States
+700,IsSciFi,No
+704,WorkTitle,Glad Girls
+704,Year,2009
+704,Genre,Narrative
+704,Creator,Guided by Voices
+704,Country,United States
+704,IsSciFi,No
+729,WorkTitle,Terminator 2
+729,Year,1991
+729,Genre,Narrative
+729,Creator,James Cameron
+729,URL,https://www.imdb.com/title/tt0103064/?ref_=nv_sr_1%3Fref_%3Dnv_sr_1
+729,Country,United States
+729,Work_WikidataID,Q170564
+729,IsSciFi,Yes
+737,WorkTitle,The Terminator
+737,Year,1984
+737,Genre,Narrative
+737,Creator,James Cameron
+737,URL,https://www.imdb.com/title/tt0088247/?ref_=nv_sr_2%3Fref_%3Dnv_sr_2
+737,Country,United States
+737,Work_WikidataID,Q7768498
+737,IsSciFi,Yes
+745,WorkTitle,Come Out To LA
+745,Year,2018
+745,Genre,Narrative
+745,Creator,Don Broco
+745,Country,United Kingdom
+745,IsSciFi,Yes
+747,WorkTitle,Astral Chain
+747,Year,2019
+747,Genre,Game
+747,Creator,PlatinumGames
+747,URL,https://www.platinumgames.com/games/astral-chain
+747,Country,Japan
+747,Work_WikidataID,Q61727129
+747,IsSciFi,Yes
+752,WorkTitle,Death Stranding
+752,Year,2019
+752,Genre,Game
+752,Creator,Kojima Productions
+752,URL,http://www.kojimaproductions.jp/en/death_stranding.html
+752,Country,Japan
+752,Work_WikidataID,Q24666782
+752,IsSciFi,Yes
+755,WorkTitle,Hacker
+755,Year,1985
+755,Genre,Game
+755,Creator,Activision
+755,URL,https://en.wikipedia.org/wiki/Hacker_(video_game)
+755,Country,United States
+755,Work_WikidataID,Q1567191
+755,IsSciFi,Yes
+757,WorkTitle,Observation
+757,Year,2019
+757,Genre,Game
+757,Creator,No Code
+757,URL,https://observationgame.com/
+757,Country,United Kingdom
+757,Work_WikidataID,Q62604270
+757,IsSciFi,Yes
+768,WorkTitle,The Addams Family
+768,Year,2019
+768,Genre,Narrative
+768,Creator,Greg Tiernan
+768,Country,United States
+768,Work_WikidataID,Q54825652
+768,IsSciFi,No
+810,WorkTitle,Final Space
+810,Year,2018
+810,Genre,Narrative
+810,Creator,Olan Rogers
+810,URL,https://www.imdb.com/title/tt6317068/?ref_=nv_sr_srsg_0
+810,Country,United States
+810,Work_WikidataID,Q28406285
+810,IsSciFi,Yes
+821,WorkTitle,Incoming
+821,Year,2017
+821,Genre,Art
+821,Creator,RIchard Mosse
+821,URL,http://www.richardmosse.com/projects/incoming
+821,URL,https://www.youtube.com/watch?v=6QOyFAqs_rM
+821,Country,Ireland
+821,IsSciFi,No
+823,WorkTitle,Infra
+823,Year,2010
+823,Genre,Art
+823,Creator,RIchard Mosse
+823,URL,http://www.richardmosse.com/projects/infra
+823,Country,Ireland
+823,Country,Congo - Brazzaville
+823,IsSciFi,No
+831,WorkTitle,Anon
+831,Year,2018
+831,Genre,Narrative
+831,Creator,Andrew Niccol
+831,Country,United Kingdom
+831,Country,United States
+831,Country,Germany
+831,Country,Canada
+831,Work_WikidataID,Q27957904
+831,IsSciFi,Yes
+839,WorkTitle,Goliath
+839,Year,2016
+839,Genre,Narrative
+839,Creator,David E. Kelly
+839,URL,https://www.imdb.com/title/tt4687880/
+839,Country,United States
+839,Work_WikidataID,Q25205882
+839,IsSciFi,No
+860,WorkTitle,Slaughterbots
+860,Year,2017
+860,Genre,Narrative
+860,Creator,Stewart Sugg
+860,URL,https://www.imdb.com/title/tt7659054/?ref_=nv_sr_srsg_0
+860,Country,United States
+860,Work_WikidataID,Q47500700
+860,IsSciFi,Yes
+861,WorkTitle,Sound and Fury
+861,Year,2019
+861,Genre,Narrative
+861,Creator,Sturgill Simpson
+861,URL,https://www.imdb.com/title/tt10682000/
+861,Country,United States
+861,IsSciFi,Yes
+867,WorkTitle,The Final Cut
+867,Year,2004
+867,Genre,Narrative
+867,Creator,Omar Naim
+867,Country,Lebanon
+867,Country,United States
+867,Work_WikidataID,Q705343
+867,IsSciFi,Yes
+873,WorkTitle,Good boys
+873,Year,2019
+873,Genre,Narrative
+873,Creator,Gene Stupnitsky
+873,URL,https://www.imdb.com/title/tt7343762/?ref_=fn_al_tt_1
+873,Country,United States
+873,Work_WikidataID,Q56274437
+873,IsSciFi,No
+875,WorkTitle,Big Brother Is Shaping You
+875,Year,2019
+875,Genre,Game
+875,Creator,PABL
+875,Country,China
+875,IsSciFi,Yes
+881,WorkTitle,>observer_
+881,Year,2017
+881,Genre,Game
+881,Creator,Bloober Team
+881,URL,https://store.steampowered.com/app/514900/observer/
+881,Country,Poland
+881,Work_WikidataID,Q25340021
+881,IsSciFi,Yes
+884,WorkTitle,The Walking Dead: Our World
+884,Year,2018
+884,Genre,Game
+884,Creator,Next Games
+884,URL,https://www.thewalkingdeadourworld.com/
+884,Country,Finland
+884,Work_WikidataID,Q18393935
+884,IsSciFi,No
+887,WorkTitle,Syndicate
+887,Year,2012
+887,Genre,Game
+887,Creator,Starbreeze Studios
+887,Country,Sweden
+887,Work_WikidataID,Q2525333
+887,IsSciFi,No
+888,WorkTitle,Vigilance 1.0
+888,Year,2001
+888,Genre,Game
+888,Creator,Martin Le Chevallier
+888,URL,http://www.martinlechevallier.net/english/A_vigilance.html
+888,Country,France
+888,IsSciFi,No
+893,WorkTitle,Eye/Machine I
+893,Year,2001
+893,Genre,Art
+893,Creator,Harun Farocki
+893,URL,https://www.moma.org/collection/works/149431?association=series&locale=en&page=1&parent_id=147861&sov_referrer=association
+893,URL,https://www.harunfarocki.de/installations/2000s/2000/eye-machine.html
+893,Country,Germany
+893,IsSciFi,No
+894,WorkTitle,Serious Games III: Immersion
+894,Year,2009
+894,Genre,Art
+894,Creator,Harun Farocki
+894,URL,https://www.harunfarocki.de/installations/2000s/2009/serious-games-iii-immersion.html
+894,Country,Germany
+894,Country,United States
+894,IsSciFi,No
+896,WorkTitle,Neuleittorgasse
+896,Year,2018
+896,Genre,Art
+896,Creator,Jogi Hofmüller
+896,URL,https://mur.at/project/sensu-lato/
+896,Country,Austria
+896,IsSciFi,No
+900,WorkTitle,Geocinema
+900,Year,2018
+900,Genre,Art
+900,Creator,Solveig Suess
+900,Creator,Orlov Alexey
+900,Creator,Asia Bazdyrieva
+900,URL,https://geocinema.network/
+900,Country,China
+900,Country,Russia
+900,Country,Ukraine
+900,IsSciFi,No
+902,WorkTitle,"environment built for absence (an unofficial/artificial sequel to J.G. Ballard's """"High Rise"""")"
+902,Year,2018
+902,Genre,Art
+902,Creator,Tivon Rice
+902,URL,http://www.tivonrice.com/absence.html
+902,Country,United States
+902,Country,Netherlands
+902,IsSciFi,No
+904,WorkTitle,Synthetic Selfies
+904,Year,2018
+904,Genre,Art
+904,Creator,Jukka Hautamäki
+904,Country,Finland
+904,IsSciFi,No
+907,WorkTitle,A Hipster Bar
+907,Year,2015
+907,Genre,Art
+907,Creator,Max Dovey
+907,URL,https://maxdovey.hashbase.io/hipsterbar/
+907,Country,United Kingdom
+907,Country,Netherlands
+907,IsSciFi,No
+908,WorkTitle,How to be More or Less Human
+908,Year,2015
+908,Genre,Art
+908,Creator,Max Dovey
+908,URL,https://maxdovey.hashbase.io/howtobemoreorless/
+908,Country,United Kingdom
+908,IsSciFi,No
+910,WorkTitle,NITE Team 4
+910,Year,2019
+910,Genre,Game
+910,Creator,Alice & Smith
+910,URL,https://www.niteteam4.com/
+910,Country,Canada
+910,IsSciFi,No
+912,WorkTitle,as.phyx.i.a
+912,Year,2015
+912,Genre,Art
+912,Creator,Maria Takeuchi
+912,URL,http://www.asphyxia-project.com
+912,Country,Japan
+912,Country,United States
+912,IsSciFi,No
+916,WorkTitle,Whispers of a Machine
+916,Year,2019
+916,Genre,Game
+916,Creator,Clifftop Games
+916,URL,https://store.steampowered.com/app/631570/Whispers_of_a_Machine/
+916,Country,Sweden
+916,Work_WikidataID,Q63315199
+916,IsSciFi,Yes
+927,WorkTitle,Rick and Morty
+927,Year,2013
+927,Genre,Narrative
+927,Creator,Wes Archer
+927,URL,https://www.imdb.com/title/tt2861424/?ref_=ttep_ep_tt
+927,Country,United States
+927,Work_WikidataID,Q15659308
+927,IsSciFi,Yes
+931,WorkTitle,Better off Ted
+931,Year,2009
+931,Genre,Narrative
+931,Creator,Victor Fresco
+931,URL,https://www.imdb.com/title/tt1235547/?ref_=fn_al_tt_1
+931,Country,United States
+931,Work_WikidataID,Q832431
+931,IsSciFi,No
+936,WorkTitle,House of Cards
+936,Year,2008
+936,Genre,Narrative
+936,Creator,Radiohead
+936,URL,https://www.youtube.com/watch?v=8nTFjVm9sTQ
+936,Country,United Kingdom
+936,IsSciFi,No
+940,WorkTitle,Restricted Residence
+940,Year,2020
+940,Genre,Art
+940,Creator,Giles Price
+940,URL,http://www.gilesprice.com/portfolio/restricted-residence/
+940,Country,United Kingdom
+940,IsSciFi,No
+943,WorkTitle,White Collar Crime Risk Zones
+943,Year,2017
+943,Genre,Art
+943,Creator,Sam Lavigne
+943,URL,https://lav.io/projects/white-collar-crime-risk-zones/
+943,Country,United States
+943,IsSciFi,No
+971,WorkTitle,Moxyland
+971,Year,2008
+971,Genre,Narrative
+971,Creator,Lauren Beukes
+971,URL,https://www.goodreads.com/book/show/3491640-moxyland
+971,Country,South Africa
+971,Work_WikidataID,Q6856084
+971,IsSciFi,Yes
+976,WorkTitle,China Mountain Zhang
+976,Year,1992
+976,Genre,Narrative
+976,Creator,Maureen F. McHugh
+976,URL,https://www.goodreads.com/book/show/836964.China_Mountain_Zhang?ac=1&from_search=true&qid=Z5yIbDH9YA&rank=1
+976,Country,United States
+976,Work_WikidataID,Q5099787
+976,IsSciFi,Yes
+980,WorkTitle,Technobabylon
+980,Year,2015
+980,Genre,Game
+980,Creator,Technocrat Games
+980,Country,United Kingdom
+980,Work_WikidataID,Q20860351
+980,IsSciFi,Yes
+992,WorkTitle,The Shell
+992,Year,2019
+992,Genre,Art
+992,Creator,Amir Bastan
+992,Creator,Johannes Braumann
+992,URL,https://ars.electronica.art/outofthebox/en/the-shell/
+992,Country,Austria
+992,IsSciFi,No
+995,WorkTitle,Self-Contained
+995,Year,2019
+995,Genre,Art
+995,Creator,Doug Rosman
+995,URL,http://dougrosman.com/self-contained/
+995,Country,United States
+995,IsSciFi,No
+1001,WorkTitle,Exhalation
+1001,Year,2019
+1001,Genre,Narrative
+1001,Creator,Ted Chiang
+1001,Country,United States
+1001,Work_WikidataID,Q16747517
+1001,IsSciFi,Yes
+1007,WorkTitle,Dr. Who: Series 7
+1007,Year,2012
+1007,Genre,Narrative
+1007,Creator,Stephen Moffat
+1007,URL,https://en.wikipedia.org/wiki/Asylum_of_the_Daleks
+1007,Country,United Kingdom
+1007,Work_WikidataID,Q34316
+1007,IsSciFi,Yes
+1017,WorkTitle,Duke Nukem 3D
+1017,Year,1996
+1017,Genre,Game
+1017,Creator,3D Realms
+1017,URL,https://en.wikipedia.org/wiki/Duke_Nukem_3D
+1017,Country,United States
+1017,Work_WikidataID,Q728061
+1017,IsSciFi,Yes
+1022,WorkTitle,Coronavirus Drone Video
+1022,Year,2020
+1022,Genre,Narrative
+1022,Creator,Anonymous
+1022,URL,https://twitter.com/i/status/1223218977570078721
+1022,Country,China
+1022,IsSciFi,No
+1024,WorkTitle,Seed
+1024,Year,2018
+1024,Genre,Narrative
+1024,Creator,Said Polat
+1024,URL,https://www.webtoons.com/en/sf/seed/list?title_no=1480
+1024,Country,Spain
+1024,Work_WikidataID,Q107340428
+1024,IsSciFi,Yes
+1027,WorkTitle,Deep Dark Fears
+1027,Year,2015
+1027,Genre,Narrative
+1027,Creator,Fran Krause
+1027,URL,https://www.goodreads.com/book/show/24388442-deep-dark-fears
+1027,Country,United States
+1027,IsSciFi,No
+1031,WorkTitle,Public Waiters
+1031,Year,2017
+1031,Genre,Art
+1031,Creator,Jonas Ersland
+1031,URL,http://jonasersland.net/publicWaiters.php
+1031,Country,Norway
+1031,IsSciFi,No
+1033,WorkTitle,Portal
+1033,Year,2007
+1033,Genre,Game
+1033,Creator,Valve
+1033,URL,https://half-life.fandom.com/wiki/Portal
+1033,Country,United States
+1033,Work_WikidataID,Q274897
+1033,IsSciFi,Yes
+1035,WorkTitle,State of Mind
+1035,Year,2018
+1035,Genre,Game
+1035,Creator,Daedalic Entertainment
+1035,URL,https://store.steampowered.com/app/437630/State_of_Mind/
+1035,Country,Germany
+1035,Work_WikidataID,Q56299003
+1035,IsSciFi,Yes
+1037,WorkTitle,Clandestine
+1037,Year,2015
+1037,Genre,Game
+1037,Creator,Logic Artists
+1037,URL,https://store.steampowered.com/app/290530/Clandestine/
+1037,Country,Denmark
+1037,Work_WikidataID,Q106335936
+1037,IsSciFi,No
+1039,WorkTitle,Halo: Combat Evolved
+1039,Year,2001
+1039,Genre,Game
+1039,Creator,Bungie Studios
+1039,URL,https://www.halowaypoint.com/en-us/games
+1039,Country,United States
+1039,Work_WikidataID,Q276217
+1039,IsSciFi,Yes
+1041,WorkTitle,Manhunt
+1041,Year,2003
+1041,Genre,Game
+1041,Creator,Rockstar North
+1041,URL,https://store.steampowered.com/app/12130/Manhunt/
+1041,Country,United Kingdom
+1041,Work_WikidataID,Q853344
+1041,IsSciFi,No
+1043,WorkTitle,Subnautica
+1043,Year,2018
+1043,Genre,Game
+1043,Creator,Unknown Worlds Entertainment
+1043,URL,https://unknownworlds.com/subnautica/
+1043,Country,United States
+1043,Work_WikidataID,Q21039915
+1043,IsSciFi,Yes
+1044,WorkTitle,Deus Ex: Human Revolution
+1044,Year,2011
+1044,Genre,Game
+1044,Creator,Eidos Montréal
+1044,URL,https://en.wikipedia.org/wiki/Deus_Ex:_Human_Revolution
+1044,Country,Canada
+1044,Work_WikidataID,Q642107
+1044,IsSciFi,Yes
+1050,WorkTitle,Volumetric Data Collector
+1050,Year,2019
+1050,Genre,Art
+1050,Creator,Sookyun Yang
+1050,Creator,Jinoon Choi
+1050,Creator,Huyn Parke
+1050,URL,https://ars.electronica.art/center/en/volumetricdatacollector/
+1050,Country,South Korea
+1050,IsSciFi,No
+1053,WorkTitle,Privacy Machine
+1053,Year,2019
+1053,Genre,Art
+1053,Creator,Timm Burckhardt
+1053,URL,https://ars.electronica.art/outofthebox/en/privacymachine/
+1053,Country,Germany
+1053,IsSciFi,No
+1059,WorkTitle,Gluttonous Snake
+1059,Year,2019
+1059,Genre,Art
+1059,Creator,Jin Ni
+1059,Creator,Huang Mingyuan
+1059,Creator,Zhengren Chen
+1059,Creator,Zhengyang Zhou
+1059,URL,https://ars.electronica.art/outofthebox/en/snake/
+1059,Country,China
+1059,Country,Austria
+1059,IsSciFi,No
+1064,WorkTitle,VOIGHT-KAMPFF
+1064,Year,2019
+1064,Genre,Art
+1064,Creator,Yonlay Cabrera
+1064,URL,https://ars.electronica.art/outofthebox/en/voightkampff/
+1064,URL,https://yonlaycabrera.com/en/projects/include/20160520_vk
+1064,Country,Cuba
+1064,IsSciFi,Yes
+1073,WorkTitle,RASA-BOX
+1073,Year,2019
+1073,Genre,Art
+1073,Creator,Iris Long
+1073,Creator,Hanbin Deng
+1073,Creator,Wu Tiancheng
+1073,URL,https://ars.electronica.art/outofthebox/en/rasa-box/
+1073,Country,China
+1073,IsSciFi,No
+1079,WorkTitle,What a Ghost Dreams Of
+1079,Year,2019
+1079,Genre,Art
+1079,Creator,hdoto
+1079,URL,https://ars.electronica.art/outofthebox/en/ghostdreams/
+1079,URL,https://vimeo.com/343832341
+1079,Country,Austria
+1079,Country,Japan
+1079,IsSciFi,No
+1082,WorkTitle,The Seeker
+1082,Year,2019
+1082,Genre,Art
+1082,Creator,Nye Thompson
+1082,URL,https://ars.electronica.art/outofthebox/en/the-seeker/
+1082,Country,United Kingdom
+1082,IsSciFi,No
+1085,WorkTitle,Cam
+1085,Year,2018
+1085,Genre,Narrative
+1085,Creator,Daniel Goldhaber
+1085,URL,https://www.imdb.com/title/tt8361028/?ref_=tttr_tr_tt
+1085,Country,United States
+1085,IsSciFi,No
+1090,WorkTitle,October Faction
+1090,Year,2020
+1090,Genre,Narrative
+1090,Creator,Damian Kindler
+1090,URL,https://www.imdb.com/title/tt8826128/?ref_=nv_sr_srsg_0
+1090,Country,United States
+1090,Country,Canada
+1090,Work_WikidataID,Q86665990
+1090,IsSciFi,Yes
+1094,WorkTitle,See you
+1094,Year,2020
+1094,Genre,Narrative
+1094,Creator,Freeda Beast
+1094,URL,https://www.youtube.com/watch?v=CBsvQOinfW8
+1094,Country,Germany
+1094,IsSciFi,No
+1101,WorkTitle,Pattern Recognition
+1101,Year,2003
+1101,Genre,Narrative
+1101,Creator,William Gibson
+1101,URL,https://www.goodreads.com/book/show/22320.Pattern_Recognition
+1101,Country,United States
+1101,IsSciFi,Yes
+1110,WorkTitle,Johnny Mnemonic
+1110,Year,1995
+1110,Genre,Narrative
+1110,Creator,Robert Longo
+1110,URL,https://www.imdb.com/title/tt0113481/?ref_=nm_flmg_dr_1
+1110,Country,United States
+1110,Work_WikidataID,Q674586
+1110,IsSciFi,Yes
+1119,WorkTitle,Final Fantasy VII Remake
+1119,Year,2020
+1119,Genre,Game
+1119,Creator,Square Enix
+1119,URL,https://www.playstation.com/en-us/games/final-fantasy-vii-remake-ps4/
+1119,Country,Japan
+1119,Work_WikidataID,Q20155152
+1119,IsSciFi,Yes
+1124,WorkTitle,"Love, Death & Robots"
+1124,Year,2019
+1124,Genre,Narrative
+1124,Creator,Tim Miller
+1124,URL,https://www.netflix.com/no-en/title/80174608
+1124,Country,United States
+1124,Work_WikidataID,Q61740435
+1124,IsSciFi,Yes
+1143,WorkTitle,Excellent
+1143,Year,2020
+1143,Genre,Art
+1143,Creator,AFK
+1143,URL,https://www.instagram.com/p/B-dlUj7J42b/?hl=en
+1143,Country,Norway
+1143,IsSciFi,No
+1147,WorkTitle,The Under Presents
+1147,Year,2020
+1147,Genre,Game
+1147,Creator,Samantha Gorman
+1147,Creator,Tender Claws
+1147,Country,United States
+1147,Work_WikidataID,Q106159719
+1147,IsSciFi,Yes
+1154,WorkTitle,Shapes of Things Before My Eyes
+1154,Year,2017
+1154,Genre,Art
+1154,Creator,Dejan Marković
+1154,URL,https://markovicdejan.com/shapes-of-things-before-my-eyes/
+1154,Country,Austria
+1154,Country,Serbia
+1154,Country,Germany
+1154,IsSciFi,No
+1162,WorkTitle,The Cat Returns
+1162,Year,2002
+1162,Genre,Narrative
+1162,Creator,Studio Ghibli
+1162,Country,Japan
+1162,Work_WikidataID,Q51543
+1162,IsSciFi,No
+1167,WorkTitle,Man With a Movie Camera
+1167,Year,1929
+1167,Genre,Narrative
+1167,Creator,Dziga Vertov
+1167,Country,Ukraine
+1167,IsSciFi,No
+1171,WorkTitle,Ministry of Broadcast
+1171,Year,2020
+1171,Genre,Game
+1171,Creator,Ministry of Broadcast Studio
+1171,URL,https://store.steampowered.com/app/874040/Ministry_of_Broadcast/
+1171,Country,Czechia
+1171,Work_WikidataID,Q84165734
+1171,IsSciFi,Yes
+1175,WorkTitle,eXperience112
+1175,Year,2007
+1175,Genre,Game
+1175,Creator,Lexis Numérique
+1175,URL,https://store.steampowered.com/app/324770/eXperience_112/
+1175,Country,France
+1175,Work_WikidataID,Q1940592
+1175,IsSciFi,No
+1178,WorkTitle,Mass Effect: Andromeda
+1178,Year,2017
+1178,Genre,Game
+1178,Creator,BioWare
+1178,URL,https://en.wikipedia.org/wiki/Mass_Effect:_Andromeda
+1178,Country,Canada
+1178,Work_WikidataID,Q20113552
+1178,IsSciFi,Yes
+1181,WorkTitle,H.I.T.
+1181,Year,2016
+1181,Genre,Art
+1181,Creator,Max Dovey
+1181,Creator,Manetta Berends
+1181,URL,https://www.maxdovey.com/HITS/
+1181,Country,United Kingdom
+1181,Country,Netherlands
+1181,IsSciFi,No
+1185,WorkTitle,Asunder
+1185,Year,2019
+1185,Genre,Art
+1185,Creator,Tega Brain
+1185,Creator,Julian Oliver
+1185,Creator,Bengt Sjölén
+1185,URL,https://asunder.earth
+1185,URL,https://uncannyvalues.org/works/asunder
+1185,Country,United States
+1185,Country,Australia
+1185,Country,New Zealand
+1185,Country,Germany
+1185,Country,Sweden
+1185,IsSciFi,No
+1187,WorkTitle,Spycraft
+1187,Year,1996
+1187,Genre,Game
+1187,Creator,Activision
+1187,URL,https://store.steampowered.com/app/569220/Spycraft_The_Great_Game/
+1187,Country,United States
+1187,Work_WikidataID,Q7581729
+1187,IsSciFi,No
+1189,WorkTitle,Upload
+1189,Year,2020
+1189,Genre,Narrative
+1189,Creator,Greg Daniels
+1189,Country,United States
+1189,IsSciFi,Yes
+1196,WorkTitle,Little Eyes/Kentukis
+1196,Year,2018
+1196,Genre,Narrative
+1196,Creator,Samanta Schweblin
+1196,Country,Spain
+1196,Work_WikidataID,Q104412945
+1196,IsSciFi,Yes
+1214,WorkTitle,Significant Other
+1214,Year,2019
+1214,Genre,Art
+1214,Creator,Jonas Lund
+1214,URL,https://jonaslund.biz/works/significant-other/
+1214,Country,Sweden
+1214,Country,Netherlands
+1214,Country,Germany
+1214,IsSciFi,No
+1218,WorkTitle,DullDream
+1218,Year,2015
+1218,Genre,Art
+1218,Creator,Constant Dullaart
+1218,URL,http://v2.dulldream.xyz/
+1218,URL,https://zkm.de/en/exhibition/2017/10/open-codes/catalog/dulldream
+1218,Country,Netherlands
+1218,IsSciFi,No
+1223,WorkTitle,House of Earth and Blood
+1223,Year,2020
+1223,Genre,Narrative
+1223,Creator,Sarah J Maas
+1223,URL,https://sarahjmaas.com/house-of-earth-and-blood/
+1223,Country,United States
+1223,IsSciFi,No
+1227,WorkTitle,Probably Chelsea
+1227,Year,2017
+1227,Genre,Art
+1227,Creator,Heather Dewey-Hagborg
+1227,Creator,Chelsea E. Manning
+1227,URL,https://deweyhagborg.com/projects/probably-chelsea
+1227,URL,https://thenewinquiry.com/sci-fi-crime-drama-with-a-strong-black-lead/
+1227,URL,https://jilltxt.net/?p=4745
+1227,Country,United States
+1227,IsSciFi,No
+1239,WorkTitle,AI: The Somnium Files
+1239,Year,2019
+1239,Genre,Game
+1239,Creator,Spike Chunsoft
+1239,URL,https://en.wikipedia.org/wiki/AI:_The_Somnium_Files
+1239,Country,Japan
+1239,Work_WikidataID,Q55602944
+1239,IsSciFi,Yes
+1426,WorkTitle,Neuromancer
+1426,Year,1984
+1426,Genre,Narrative
+1426,Creator,William Gibson
+1426,Country,United States
+1426,Work_WikidataID,Q662029
+1426,IsSciFi,Yes
+1434,WorkTitle,Gnomon
+1434,Year,2017
+1434,Genre,Narrative
+1434,Creator,Nick Harkaway
+1434,Country,United Kingdom
+1434,IsSciFi,Yes
+1438,WorkTitle,"Goodnight, Melancholy"
+1438,Year,2015
+1438,Genre,Narrative
+1438,Creator,Yao Wang
+1438,URL,http://clarkesworldmagazine.com/xia_03_17/
+1438,Country,China
+1438,IsSciFi,Yes
+1450,WorkTitle,Security Check
+1450,Year,2014
+1450,Genre,Narrative
+1450,Creator,Song Han
+1450,URL,http://clarkesworldmagazine.com/han_08_15/
+1450,Country,China
+1450,IsSciFi,Yes
+1454,WorkTitle,The Castle Doctrine
+1454,Year,2014
+1454,Genre,Game
+1454,Creator,Jason Rohrer
+1454,URL,https://store.steampowered.com/app/249570/The_Castle_Doctrine/
+1454,Country,United States
+1454,Work_WikidataID,Q15710729
+1454,IsSciFi,No
+1456,WorkTitle,Scanner Sombre
+1456,Year,2017
+1456,Genre,Game
+1456,Creator,Introversion Software
+1456,URL,https://store.steampowered.com/app/475190/Scanner_Sombre/
+1456,Country,United Kingdom
+1456,Work_WikidataID,Q29832341
+1456,IsSciFi,No
+1458,WorkTitle,Batman: Arkham Knight
+1458,Year,2015
+1458,Genre,Game
+1458,Creator,Rocksteady Studios
+1458,URL,https://en.wikipedia.org/wiki/Batman:_Arkham_Knight
+1458,Work_WikidataID,Q15891648
+1458,IsSciFi,Yes
+1459,WorkTitle,Grand Theft Auto V
+1459,Year,2013
+1459,Genre,Game
+1459,Creator,Rockstar North
+1459,URL,https://en.wikipedia.org/wiki/Grand_Theft_Auto_V
+1459,Country,United States
+1459,Work_WikidataID,Q17452
+1459,IsSciFi,No
+1461,WorkTitle,Call of Duty 4: Modern Warfare
+1461,Year,2007
+1461,Genre,Game
+1461,Creator,Infinity Ward
+1461,URL,https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(2019_video_game)
+1461,Country,United States
+1461,Work_WikidataID,Q76255
+1461,IsSciFi,No
+1481,WorkTitle,The Murderbot Diaries (series)
+1481,Year,2017
+1481,Genre,Narrative
+1481,Creator,Martha Wells
+1481,Country,United States
+1481,Work_WikidataID,Q63171261
+1481,IsSciFi,Yes
+1483,WorkTitle,Self-portrait of an absence
+1483,Year,2016
+1483,Genre,Art
+1483,Creator,Graziele Lautenschlaeger
+1483,URL,https://grazielelautenschlaeger.com/portfolio/self-portrait-of-an-absence/
+1483,Country,Brazil
+1483,IsSciFi,No
+1484,WorkTitle,Brave New World (2020 TV series)
+1484,Year,2020
+1484,Genre,Narrative
+1484,Creator,David Wiener
+1484,Creator,Aldous Huxley
+1484,Country,United States
+1484,Work_WikidataID,Q65037315
+1484,IsSciFi,Yes
+1485,WorkTitle,Deconstructing Representation
+1485,Year,2019
+1485,Genre,Art
+1485,Creator,Rosemary Lee
+1485,URL,http://www.rosemary-lee.com/Deconstructing-Representation
+1485,Country,Denmark
+1485,IsSciFi,No
+1487,WorkTitle,AI Amok
+1487,Year,2020
+1487,Genre,Narrative
+1487,Creator,Yû Irie
+1487,URL,https://www.imdb.com/title/tt10579380/
+1487,Country,Japan
+1487,Work_WikidataID,Q65227528
+1487,IsSciFi,Yes
+1494,WorkTitle,Learning to See: Gloomy Sunday
+1494,Year,2017
+1494,Genre,Art
+1494,Creator,Memo Akten
+1494,URL,http://www.memo.tv/works/gloomy-sunday/
+1494,Country,Turkey
+1494,Country,United Kingdom
+1494,IsSciFi,No
+1495,WorkTitle,Dirty Data
+1495,Year,2017
+1495,Genre,Art
+1495,Creator,Memo Akten
+1495,URL,http://www.memo.tv/works/dirty-data/
+1495,Country,Turkey
+1495,Country,United Kingdom
+1495,IsSciFi,No
+1496,WorkTitle,Optimising for Beauty
+1496,Year,2017
+1496,Genre,Art
+1496,Creator,Memo Akten
+1496,URL,http://www.memo.tv/works/optimising-for-beauty/
+1496,Country,Turkey
+1496,Country,United Kingdom
+1496,IsSciFi,No
+1498,WorkTitle,REALFACE Glamoflage
+1498,Year,2013
+1498,Genre,Art
+1498,Creator,Simone C Niquille
+1498,Country,Netherlands
+1498,IsSciFi,No
+1500,WorkTitle,ANONYMOUS: Anonymity scarf
+1500,Year,2017
+1500,Genre,Art
+1500,Creator,Sanne Weekers
+1500,URL,http://sanneweekers.nl/big-brother-is-watching-you/
+1500,Country,Netherlands
+1500,IsSciFi,No
+1502,WorkTitle,HyperFace
+1502,Year,2017
+1502,Genre,Art
+1502,Creator,Adam Harvey
+1502,Creator,Hyphen-Labs
+1502,URL,https://ahprojects.com/hyperface/
+1502,Country,United States
+1502,Country,Germany
+1502,IsSciFi,No
+1505,WorkTitle,Surveillance Exclusion
+1505,Year,2016
+1505,Genre,Art
+1505,Creator,Jip van Leeuwenstein
+1505,URL,http://www.jipvanleeuwenstein.nl/
+1505,Country,Netherlands
+1505,IsSciFi,No
+1508,WorkTitle,WEARABLE FACE PROJECTOR
+1508,Year,2017
+1508,Genre,Art
+1508,Creator,Jing-cai Liu
+1508,URL,http://jingcailiu.com/wearable-face-projector/
+1508,Country,China
+1508,IsSciFi,No
+1511,WorkTitle,Pixelhead
+1511,Year,2010
+1511,Genre,Art
+1511,Creator,Martin Backes
+1511,URL,https://www.martinbackes.com
+1511,Country,Germany
+1511,IsSciFi,No
+1513,WorkTitle,Face Cages
+1513,Year,2013
+1513,Genre,Art
+1513,Creator,Zach Blas
+1513,URL,http://zachblas.info/works/face-cages/
+1513,Country,United Kingdom
+1513,IsSciFi,No
+1516,WorkTitle,URME Personal Surveillance Identity Prosthetic
+1516,Year,2013
+1516,Genre,Art
+1516,Creator,Leonardo Selvaggio
+1516,URL,https://www.urmesurveillance.com/urme-prosthetic
+1516,Country,United States
+1516,IsSciFi,No
+1526,WorkTitle,Lifeline
+1526,Year,2003
+1526,Genre,Game
+1526,Creator,Sony Computer Entertainment Japan
+1526,URL,https://en.wikipedia.org/wiki/Lifeline_(video_game)
+1526,Country,Japan
+1526,Work_WikidataID,Q6545406
+1526,IsSciFi,Yes
+1535,WorkTitle,Cloud Index
+1535,Year,2016
+1535,Genre,Art
+1535,Creator,James Bridle
+1535,URL,http://cloudindx.com
+1535,Country,United Kingdom
+1535,IsSciFi,No
+1538,WorkTitle,Gradient Ascent
+1538,Year,2017
+1538,Genre,Art
+1538,Creator,James Bridle
+1538,URL,http://jamesbridle.com/works/gradient-ascent
+1538,Country,United Kingdom
+1538,IsSciFi,No
+1539,WorkTitle,How do you see me?
+1539,Year,2019
+1539,Genre,Art
+1539,Creator,Heather Dewey-Hagborg
+1539,URL,https://www.deweyhagborg.com/projects/how-do-you-see-me
+1539,Country,United States
+1539,IsSciFi,No
+1540,WorkTitle,Spurious Memories
+1540,Year,2007
+1540,Genre,Art
+1540,Creator,Heather Dewey-Hagborg
+1540,URL,https://www.deweyhagborg.com/projects/spurious-memories
+1540,Country,United States
+1540,IsSciFi,No
+1542,WorkTitle,How Not to Be Seen: A Fucking Didactic Educational .MOV File
+1542,Year,2013
+1542,Genre,Art
+1542,Creator,Hito Steyerl
+1542,URL,https://www.youtube.com/watch?v=LE3RlrVEyuo&feature=youtu.be
+1542,URL,https://www.moma.org/learn/moma_learning/hito-steyerl-how-not-to-be-seen-a-fucking-didactic-educational-mov-file-2013/
+1542,Country,Germany
+1542,IsSciFi,No
+1543,WorkTitle,This is the Future
+1543,Year,2019
+1543,Genre,Art
+1543,Creator,Hito Steyerl
+1543,URL,https://www.youtube.com/watch?v=AYQB4_riCCg&feature=youtu.be
+1543,Country,Germany
+1543,IsSciFi,No
+1545,WorkTitle,What the Robot Saw
+1545,Year,2020
+1545,Genre,Art
+1545,Creator,Amy Alexander
+1545,URL,https://what-the-robot-saw.com
+1545,Country,United States
+1545,IsSciFi,No
+1556,WorkTitle,Emotion Hero
+1556,Year,2016
+1556,Genre,Game
+1556,Creator,Ruben van de Ven
+1556,URL,https://rubenvandeven.com/emotionhero
+1556,URL,https://emotionhero.com/
+1556,Country,Netherlands
+1556,IsSciFi,No
+1557,WorkTitle,Sustaining Gazes
+1557,Year,2018
+1557,Genre,Art
+1557,Creator,Ruben van de Ven
+1557,Creator,Cristina Cochior
+1557,URL,https://rubenvandeven.com/sustaining-gazes
+1557,Country,Romania
+1557,Country,Netherlands
+1557,IsSciFi,Yes
+1559,WorkTitle,(e)motion
+1559,Year,2018
+1559,Genre,Art
+1559,Creator,Barbara Nordhjem
+1559,Creator,Otten Bert
+1559,Creator,Jan Klug
+1559,URL,https://nordhjem.net/2018/02/01/faces-in-motion-embodiment-emotion-and-interaction/
+1559,Country,Denmark
+1559,Country,Netherlands
+1559,Country,Germany
+1559,IsSciFi,No
+1562,WorkTitle,Face-to-facebook
+1562,Year,2011
+1562,Genre,Art
+1562,Creator,Paolo Cirio
+1562,Creator,Alessandro Ludovico
+1562,URL,https://www.face-to-facebook.net/how.php
+1562,Country,Italy
+1562,IsSciFi,Yes
+1568,WorkTitle,Data-Masks (Series)
+1568,Year,2015
+1568,Genre,Art
+1568,Creator,Sterling Crispin
+1568,URL,http://www.sterlingcrispin.com/data-masks.html
+1568,Country,United States
+1568,IsSciFi,Yes
+1572,WorkTitle,15 minutes of biometric fame
+1572,Year,2011
+1572,Genre,Art
+1572,Creator,Marnix de Nijs
+1572,URL,http://www.marnixdenijs.nl/15-minutes-of-biometric-fame.htm
+1572,Country,Netherlands
+1572,IsSciFi,Yes
+1573,WorkTitle,PHYSIOGNOMIC SCRUTINIZER
+1573,Year,2009
+1573,Genre,Art
+1573,Creator,Marnix de Nijs
+1573,URL,http://www.marnixdenijs.nl/physiognomic_scrutinizer.htm
+1573,Country,Netherlands
+1573,IsSciFi,Yes
+1576,WorkTitle,Level of Confidence
+1576,Year,2015
+1576,Genre,Art
+1576,Creator,RAFAEL LOZANO-HEMMER
+1576,URL,https://www.lozano-hemmer.com/level_of_confidence.php
+1576,Country,Mexico
+1576,IsSciFi,Yes
+1577,WorkTitle,Assassin's Creed IV: Black Flag
+1577,Year,2013
+1577,Genre,Game
+1577,Creator,Ubisoft
+1577,URL,https://en.wikipedia.org/wiki/Assassin%27s_Creed_IV:_Black_Flag
+1577,Work_WikidataID,Q6052688
+1577,IsSciFi,Yes
+1582,WorkTitle,Glow
+1582,Year,2014
+1582,Genre,Art
+1582,Creator,Diederik P. Kingma
+1582,Creator,Prafulla Dhariwal
+1582,Creator,Ars Electronica Futurelab (AT)
+1582,URL,https://ars.electronica.art/center/en/glow/
+1582,Country,United States
+1582,Country,Netherlands
+1582,Country,India
+1582,Country,Austria
+1582,IsSciFi,Yes
+1584,WorkTitle,Neural Network Training
+1584,Year,2019
+1584,Genre,Art
+1584,Creator,Ars Electronica Futurelab (AT)
+1584,URL,https://ars.electronica.art/center/en/neuralnetworktraining/
+1584,Country,Austria
+1584,IsSciFi,Yes
+1597,WorkTitle,Den Lengste Reisen
+1597,Year,1999
+1597,Genre,Game
+1597,Creator,Funcom
+1597,URL,https://en.wikipedia.org/wiki/The_Longest_Journey
+1597,Country,Norway
+1597,Work_WikidataID,Q918194
+1597,IsSciFi,No
+1600,WorkTitle,Finis Terra
+1600,Year,2018
+1600,Genre,Art
+1600,Creator,Francisco Gallardo
+1600,Creator,Audrey Samson
+1600,Creator,FRAUD
+1600,URL,http://fraud.la/finis-terra.html
+1600,Country,United Kingdom
+1600,IsSciFi,No
+1603,WorkTitle,Saving Face
+1603,Year,2020
+1603,Genre,Art
+1603,Creator,Karen Lancel
+1603,Creator,Hermen Maat
+1603,URL,https://lancelmaat.nl/work/saving-face/
+1603,Country,Netherlands
+1603,IsSciFi,Yes
+1608,WorkTitle,Tom Clancy's Rainbow Six Siege
+1608,Year,2015
+1608,Genre,Game
+1608,Creator,Ubisoft
+1608,URL,https://en.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_Siege
+1608,Work_WikidataID,Q17183996
+1608,IsSciFi,No
+1612,WorkTitle,A Song for a New Day
+1612,Year,2019
+1612,Genre,Narrative
+1612,Creator,Sarah Pinsker
+1612,Country,United States
+1612,Work_WikidataID,Q95996827
+1612,IsSciFi,Yes
+1613,WorkTitle,Behold these Glorious Times!
+1613,Year,2017
+1613,Genre,Art
+1613,Creator,Trevor Paglen
+1613,URL,https://paglen.studio/2020/04/09/behold-these-glorious-times/
+1613,Country,United States
+1613,IsSciFi,No
+1615,WorkTitle,ImageNet Roulette
+1615,Year,2019
+1615,Genre,Art
+1615,Creator,Trevor Paglen
+1615,Creator,Kate Crawford
+1615,URL,https://paglen.studio/2020/04/29/imagenet-roulette/
+1615,Country,United States
+1615,IsSciFi,No
+1621,WorkTitle,Sight Machine
+1621,Year,2017
+1621,Genre,Art
+1621,Creator,Trevor Paglen
+1621,URL,https://paglen.studio/2019/07/01/sight-machine/
+1621,URL,https://www.wired.com/2017/04/unsettling-performance-showed-world-ais-eyes/
+1621,Country,United States
+1621,IsSciFi,No
+1626,WorkTitle,SEER: Simulative Emotional Expression Robot
+1626,Year,2018
+1626,Genre,Art
+1626,Creator,Takayuki Todo
+1626,URL,http://www.takayukitodo.com/
+1626,Country,Japan
+1626,IsSciFi,No
+1638,WorkTitle,Terra Mars
+1638,Year,2019
+1638,Genre,Art
+1638,Creator,SHI Weili
+1638,URL,https://shi-weili.com/terra-mars
+1638,Country,China
+1638,IsSciFi,No
+1642,WorkTitle,A Closed and Common Orbit
+1642,Year,2016
+1642,Genre,Narrative
+1642,Creator,Becky Chambers
+1642,Country,United States
+1642,Work_WikidataID,Q43625060
+1642,IsSciFi,Yes
+1649,WorkTitle,The Coded Gaze: Unmasking Algorithmic Bias
+1649,Year,2016
+1649,Genre,Art
+1649,Creator,Joy Buolamwini
+1649,URL,https://youtu.be/162VzSzzoPs
+1649,Country,United States
+1649,Country,Ghana
+1649,IsSciFi,No
+1656,WorkTitle,Smile
+1656,Year,2018
+1656,Genre,Art
+1656,Creator,Tomás Laurenzo
+1656,URL,https://laurenzo.net/#/smile/
+1656,Country,Uruguay
+1656,IsSciFi,No
+1658,WorkTitle,Memoirs of the Blind
+1658,Year,2018
+1658,Genre,Art
+1658,Creator,Tomás Laurenzo
+1658,URL,https://laurenzo.net/#/memoirs/
+1658,Country,Japan
+1658,Country,South Korea
+1658,IsSciFi,No
+1662,WorkTitle,Expanded Eye
+1662,Year,2008
+1662,Genre,Art
+1662,Creator,Anaisa Franco
+1662,URL,http://www.anaisafranco.com/expandedeye
+1662,Country,Spain
+1662,Country,Brazil
+1662,Country,United States
+1662,IsSciFi,Yes
+1666,WorkTitle,MEMEMEME#selfie
+1666,Year,2016
+1666,Genre,Art
+1666,Creator,Thiago Hersan
+1666,Creator,Radamés Ajna
+1666,URL,https://thiagohersan.com/memememe/
+1666,Country,Brazil
+1666,Country,United States
+1666,IsSciFi,No
+1668,WorkTitle,The Ongoing Moment
+1668,Year,2020
+1668,Genre,Art
+1668,Creator,Weiyi Li
+1668,URL,https://tom.weiyi.li/
+1668,Country,China
+1668,IsSciFi,No
+1669,WorkTitle,Contra a Cegueira da Ordem Estabelecida
+1669,Year,2018
+1669,Genre,Art
+1669,Creator,GRUPO DE PESQUISA REALIDADES
+1669,URL,http://www2.eca.usp.br/realidades/pt/contraacegueiradaordemestabelecida/
+1669,Country,Brazil
+1669,IsSciFi,No
+1671,WorkTitle,Data Feelings (The Happy App)
+1671,Year,2018
+1671,Genre,Art
+1671,Creator,Mari Nagem
+1671,URL,https://marinagem.com/Data-Feelings-The-Happy-App
+1671,Country,Brazil
+1671,IsSciFi,No
+1674,WorkTitle,Esp√©cies de espa√ßos II
+1674,Year,2019
+1674,Genre,Art
+1674,Creator,Sara Lana
+1674,URL,https://touca.ninja/species-of-spaces-ii
+1674,Country,Brazil
+1674,IsSciFi,No
+1675,WorkTitle,Pontos cegos / Blind spots
+1675,Year,2016
+1675,Genre,Art
+1675,Creator,Sara Lana
+1675,URL,https://touca.ninja/pontos-cegos
+1675,Country,Brazil
+1675,IsSciFi,Yes
+1682,WorkTitle,Outra 33 Bienal de S√£o Paulo
+1682,Year,2018
+1682,Genre,Art
+1682,Creator,Bruno Moreschi
+1682,Creator,Gabriel Pereira
+1682,Creator,Bernardo Fontes
+1682,Creator,Guilherme Falcão
+1682,Creator,Nina Bamberg
+1682,URL,https://brunomoreschi.com/Outra-33-Bienal
+1682,URL,https://outra33.bienal.org.br/en/acao/construcao-do-espetaculo/
+1682,Country,Brazil
+1682,IsSciFi,No
+1700,WorkTitle,Recoding Art
+1700,Year,2019
+1700,Genre,Art
+1700,Creator,Bruno Moreschi
+1700,Creator,Gabriel Pereira
+1700,URL,https://brunomoreschi.com/Recoding-Art-Van-Abbemuseum-collection
+1700,Country,Brazil
+1700,Country,Netherlands
+1700,Country,Denmark
+1700,IsSciFi,Yes
+1702,WorkTitle,Spaces of Failure
+1702,Year,2014
+1702,Genre,Art
+1702,Creator,Cesar Baio
+1702,URL,https://cesarbaio.net/Spaces-of-Failure
+1702,Country,Brazil
+1702,Country,United Kingdom
+1702,IsSciFi,No
+1704,WorkTitle,Iceberg
+1704,Year,2018
+1704,Genre,Art
+1704,Creator,Fernando Velazquez
+1704,URL,https://blogart.com/ICEBERG-EXHIBITION
+1704,Country,Uruguay
+1704,IsSciFi,No
+1706,WorkTitle,Invis√≠veis
+1706,Year,2007
+1706,Genre,Art
+1706,Creator,Bruno Vianna
+1706,URL,http://geral.etc.br/invisibles/
+1706,Country,Brazil
+1706,Country,United States
+1706,Country,Spain
+1706,IsSciFi,No
+1709,WorkTitle,HoloDecon
+1709,Year,2010
+1709,Genre,Art
+1709,Creator,Arcangel Constantini
+1709,URL,https://www.arc-data.net/HoloDecon/index.html
+1709,Country,Mexico
+1709,IsSciFi,No
+1712,WorkTitle,Lagoon
+1712,Year,2014
+1712,Genre,Narrative
+1712,Creator,Nnedi Okorafor
+1712,Country,Nigeria
+1712,Country,United States
+1712,IsSciFi,Yes
+1717,WorkTitle,The Test
+1717,Year,2019
+1717,Genre,Narrative
+1717,Creator,Sylvain Neuvel
+1717,Country,Canada
+1717,IsSciFi,Yes
+1722,WorkTitle,Black Panther (2018 movie)
+1722,Year,2018
+1722,Genre,Narrative
+1722,Creator,Ryan Coogler
+1722,Country,United States
+1722,Work_WikidataID,Q23780734
+1722,IsSciFi,Yes
+1734,WorkTitle,Onisciente
+1734,Year,2020
+1734,Genre,Narrative
+1734,Creator,Pedro Aguilera
+1734,URL,https://www.imdb.com/title/tt11542920/
+1734,Country,Brazil
+1734,Work_WikidataID,Q84156278
+1734,IsSciFi,Yes
+1740,WorkTitle,Neo Cab
+1740,Year,2019
+1740,Genre,Game
+1740,Creator,Chance Agency
+1740,Country,United States
+1740,Work_WikidataID,Q97275045
+1740,IsSciFi,Yes
+1747,WorkTitle,Brooklyn Nine-Nine: The Fugitive Part 1
+1747,Year,2017
+1747,Genre,Narrative
+1747,Creator,Dan Goor
+1747,Creator,Michael Schur
+1747,URL,https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine
+1747,Country,United States
+1747,Work_WikidataID,Q13417244
+1747,IsSciFi,No
+1749,WorkTitle,The Rain
+1749,Year,2018
+1749,Genre,Narrative
+1749,Creator,Jannik Tai Mosholt
+1749,URL,https://en.wikipedia.org/wiki/The_Rain_(TV_series)
+1749,Country,Denmark
+1749,Work_WikidataID,Q48855569
+1749,IsSciFi,Yes
+1767,WorkTitle,System Azure Security Ornamentation
+1767,Year,2002
+1767,Genre,Art
+1767,Creator,Magid Jill
+1767,URL,http://www.jillmagid.com/projects/system-azure-security-ornamentation
+1767,Country,United States
+1767,IsSciFi,No
+1769,WorkTitle,Trust
+1769,Year,2004
+1769,Genre,Art
+1769,Creator,Magid Jill
+1769,URL,https://vimeo.com/62092355
+1769,Country,United States
+1769,Country,United Kingdom
+1769,IsSciFi,No
+1775,WorkTitle,LoveStar: A Novel
+1775,Year,2002
+1775,Genre,Narrative
+1775,Creator,Andri Snær Magnason
+1775,Country,Iceland
+1775,Work_WikidataID,Q16420972
+1775,IsSciFi,Yes
+1782,WorkTitle,Life: A User‚Äôs Manual
+1782,Year,2003
+1782,Genre,Art
+1782,Creator,Michelle Teran
+1782,URL,http://www.ubermatic.lftk.org/blog/?p=221
+1782,Country,Canada
+1782,Country,Netherlands
+1782,Country,Germany
+1782,IsSciFi,No
+1784,WorkTitle,17 Cities
+1784,Year,2008
+1784,Genre,Art
+1784,Creator,Michelle Teran
+1784,URL,http://www.ubermatic.lftk.org/blog/?p=203
+1784,Country,Canada
+1784,Country,Netherlands
+1784,Country,Germany
+1784,IsSciFi,No
+1786,WorkTitle,CCTV: A Trail of Images
+1786,Year,2008
+1786,Genre,Art
+1786,Creator,!Mediengruppe Bitnik
+1786,URL,https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/c/
+1786,Country,Austria
+1786,Country,United Kingdom
+1786,IsSciFi,No
+1788,WorkTitle,Surveillance Chess
+1788,Year,2012
+1788,Genre,Art
+1788,Creator,!Mediengruppe Bitnik
+1788,URL,https://wwwwwwwwwwwwwwwwwwwwww.bitnik.org/s/
+1788,URL,https://chess.bitnik.org/
+1788,Country,Austria
+1788,Country,United Kingdom
+1788,IsSciFi,No
+1791,WorkTitle,FACELESS
+1791,Year,2007
+1791,Genre,Art
+1791,Creator,Manu Luksch
+1791,URL,http://www.manuluksch.com/project/faceless/
+1791,Country,Austria
+1791,Country,United Kingdom
+1791,IsSciFi,No
+1801,WorkTitle,Redshirts
+1801,Year,2012
+1801,Genre,Narrative
+1801,Creator,John Scalzi
+1801,Country,United States
+1801,IsSciFi,Yes
+1804,WorkTitle,Deadpool 2
+1804,Year,2018
+1804,Genre,Narrative
+1804,Creator,David Leitch
+1804,Country,United States
+1804,Work_WikidataID,Q25431158
+1804,IsSciFi,Yes
+1814,WorkTitle,"Guardians of the Galaxy, vol. 1 & vol. 2"
+1814,Year,2014
+1814,Genre,Narrative
+1814,Creator,James Gunn
+1814,Country,United States
+1814,Work_WikidataID,Q20001199
+1814,IsSciFi,Yes
+1816,WorkTitle,Memories of the Alhambra
+1816,Year,2018
+1816,Genre,Narrative
+1816,Creator,Studio Dragon
+1816,URL,https://www.netflix.com/search?q=memory%20of%20&jbv=81004280
+1816,Country,South Korea
+1816,Work_WikidataID,Q52145597
+1816,IsSciFi,No
+1817,WorkTitle,Raised by Wolves
+1817,Year,2020
+1817,Genre,Narrative
+1817,Creator,Aaron Guzikowski
+1817,URL,https://www.imdb.com/title/tt9170108/?ref_=nv_sr_srsg_0
+1817,Country,United States
+1817,Work_WikidataID,Q60747802
+1817,IsSciFi,Yes
+1818,WorkTitle,Mono no Aware
+1818,Year,2012
+1818,Genre,Narrative
+1818,Creator,Ken Liu
+1818,URL,https://www.lightspeedmagazine.com/fiction/mono-no-aware/
+1818,Country,Japan
+1818,Work_WikidataID,Q27903119
+1818,IsSciFi,Yes
+1819,WorkTitle,Star Trek: Into Darkness
+1819,Year,2013
+1819,Genre,Narrative
+1819,Creator,Jeffrey Jacob Abrams
+1819,URL,https://netflix.com/watch/70262640
+1819,Country,United States
+1819,Work_WikidataID,Q18615119
+1819,IsSciFi,Yes
+1830,WorkTitle,Jupiter Ascending
+1830,Year,2015
+1830,Genre,Narrative
+1830,Creator,Wachowski Sisters
+1830,Country,United States
+1830,Work_WikidataID,Q12125299
+1830,IsSciFi,Yes
+1839,WorkTitle,D√∏d og oppstandelse
+1839,Year,2020
+1839,Genre,Narrative
+1839,Creator,Bjørn Vatne
+1839,Country,Norway
+1839,IsSciFi,Yes
+1840,WorkTitle,"Fall; or, Dodge in Hell: A Novel"
+1840,Year,2019
+1840,Genre,Narrative
+1840,Creator,Neal Stephenson
+1840,Country,United States
+1840,Work_WikidataID,Q65043785
+1840,IsSciFi,Yes
+1846,WorkTitle,Big Hero 6
+1846,Year,2014
+1846,Genre,Narrative
+1846,Creator,Don Hall
+1846,Creator,Chris Williams
+1846,URL,https://www.imdb.com/title/tt2245084/
+1846,Country,United States
+1846,Work_WikidataID,Q13091172
+1846,IsSciFi,Yes
+1850,WorkTitle,Edge of Tomorrow
+1850,Year,2014
+1850,Genre,Narrative
+1850,Creator,Doug Liman
+1850,Country,United States
+1850,Work_WikidataID,Q1187607
+1850,IsSciFi,Yes
+1852,WorkTitle,Rogue One: A Star Wars Story
+1852,Year,2016
+1852,Genre,Narrative
+1852,Creator,Gareth Edwards
+1852,Country,United Kingdom
+1852,Work_WikidataID,Q19590955
+1852,IsSciFi,Yes
+1854,WorkTitle,RGB Stratospheric Camarena
+1854,Year,2015
+1854,Genre,Art
+1854,Creator,Andrés Burbano
+1854,URL,https://vimeo.com/155243755
+1854,Country,Colombia
+1854,Country,Austria
+1854,IsSciFi,No
+1856,WorkTitle,Desiluciones √≥pticas
+1856,Year,2014
+1856,Genre,Art
+1856,Creator,Leo Nuñez
+1856,URL,http://www.leonunez.com.ar/desilusionesOpticas.html
+1856,Country,Argentina
+1856,IsSciFi,No
+1859,WorkTitle,Get Even
+1859,Year,2017
+1859,Genre,Game
+1859,Creator,The Farm 51
+1859,URL,https://en.wikipedia.org/wiki/Get_Even_(video_game)
+1859,Country,Poland
+1859,Work_WikidataID,Q29168557
+1859,IsSciFi,No
+1873,WorkTitle,Los anillos de la serpiente
+1873,Year,2019
+1873,Genre,Art
+1873,Creator,Estudio Biopus
+1873,URL,http://www.estudiobiopus.com.ar/estudio/serpiente.html
+1873,Country,Argentina
+1873,IsSciFi,No
+1877,WorkTitle,Holo / Olho / Eye (Holopoems series)
+1877,Year,1983
+1877,Genre,Art
+1877,Creator,Eduardo Kac
+1877,URL,http://www.ekac.org/allholopoems.html
+1877,Country,Brazil
+1877,Country,United States
+1877,IsSciFi,No
+1881,WorkTitle,Arrival
+1881,Year,2016
+1881,Genre,Narrative
+1881,Creator,Denis Villeneuve
+1881,Country,Canada
+1881,Country,United States
+1881,Work_WikidataID,Q20382729
+1881,IsSciFi,Yes
+1892,WorkTitle,Incredibles 2
+1892,Year,2018
+1892,Genre,Narrative
+1892,Creator,Disney
+1892,Creator,Brad Bird
+1892,URL,https://www.imdb.com/title/tt3606756/
+1892,Country,United States
+1892,Work_WikidataID,Q24832112
+1892,IsSciFi,Yes
+1898,WorkTitle,The Last One
+1898,Year,2016
+1898,Genre,Narrative
+1898,Creator,Alexandra Olivia
+1898,Country,United States
+1898,IsSciFi,Yes
+1902,WorkTitle,Common Daemoniator
+1902,Year,2020
+1902,Genre,Art
+1902,Creator,Mario Klingemann
+1902,URL,https://esc.mur.at/en/werk/common-daemoniator
+1902,URL,http://common-daemoniator.glitch.me/
+1902,Country,Germany
+1902,IsSciFi,No
+1904,WorkTitle,Blade Runner 2049
+1904,Year,2017
+1904,Genre,Narrative
+1904,Creator,Denis Villeneuve
+1904,URL,https://viaplay.no/store/blade-runner-2049-2017
+1904,Country,United States
+1904,Work_WikidataID,Q21500755
+1904,IsSciFi,Yes
+1918,WorkTitle,Logan
+1918,Year,2017
+1918,Genre,Narrative
+1918,Creator,James Mangold
+1918,Country,United States
+1918,Work_WikidataID,Q24053263
+1918,IsSciFi,Yes
+1931,WorkTitle,2033: La Ilusi√≥n de un Futuro Mejor
+1931,Year,2009
+1931,Genre,Narrative
+1931,Creator,Francisco Laresgoiti
+1931,URL,https://www.imdb.com/title/tt1228915/?ref_=nm_flmg_dr_3
+1931,Country,Mexico
+1931,IsSciFi,Yes
+1940,WorkTitle,Rugal
+1940,Year,2020
+1940,Genre,Narrative
+1940,Creator,Studio Dragon
+1940,Country,South Korea
+1940,Work_WikidataID,Q79997506
+1940,IsSciFi,Yes
+1946,WorkTitle,Captain America: The Winter soldier
+1946,Year,2016
+1946,Genre,Narrative
+1946,Creator,Marvel
+1946,Country,United States
+1946,Work_WikidataID,Q1765358
+1946,IsSciFi,Yes
+1950,WorkTitle,A Memory Called Empire
+1950,Year,2019
+1950,Genre,Narrative
+1950,Creator,Arkady Martine
+1950,Country,United States
+1950,Work_WikidataID,Q82566838
+1950,IsSciFi,Yes
+1953,WorkTitle,The Matrix
+1953,Year,1999
+1953,Genre,Narrative
+1953,Creator,Wachowski Sisters
+1953,Country,United States
+1953,Work_WikidataID,Q83495
+1953,IsSciFi,Yes
+1970,WorkTitle,Spider-Man: Into the Spider-Verse
+1970,Year,2018
+1970,Genre,Narrative
+1970,Creator,Bob Persichetti
+1970,Creator,Peter Ramsey
+1970,Creator,Rodney Rothman
+1970,Country,United States
+1970,Work_WikidataID,Q29588607
+1970,IsSciFi,Yes
+1975,WorkTitle,√ìrbita 9
+1975,Year,2017
+1975,Genre,Narrative
+1975,Creator,Hatem Khraiche
+1975,Country,Spain
+1975,Work_WikidataID,Q42577704
+1975,IsSciFi,Yes
+1982,WorkTitle,... som duften av en dr√∏m...
+1982,Year,2020
+1982,Genre,Narrative
+1982,Creator,Bjarne Benjaminsen
+1982,Country,Norway
+1982,IsSciFi,Yes
+2031,WorkTitle,Digital skin
+2031,Year,2016
+2031,Genre,Art
+2031,Creator,Vavarella Emilio
+2031,URL,http://emiliovavarella.com/digitalskin/
+2031,Country,Italy
+2031,Country,United States
+2031,IsSciFi,No
+2032,WorkTitle,DIGITAL PAREIDOLIA: A Personal Index Of Facebook‚Äôs Erroneous Portraits
+2032,Year,2013
+2032,Genre,Art
+2032,Creator,Vavarella Emilio
+2032,URL,http://emiliovavarella.com/digital-pareidolia/
+2032,Country,United States
+2032,Country,Italy
+2032,IsSciFi,No
+2035,WorkTitle,Animal Classifier
+2035,Year,2016
+2035,Genre,Art
+2035,Creator,Shinseungback Kimyonghun
+2035,URL,http://ssbkyh.com/works/animal_classifier/
+2035,Country,South Korea
+2035,IsSciFi,No
+2036,WorkTitle,Flower
+2036,Year,2017
+2036,Genre,Art
+2036,Creator,Shinseungback Kimyonghun
+2036,URL,http://ssbkyh.com/works/flower/
+2036,Country,South Korea
+2036,IsSciFi,No
+2037,WorkTitle,Cat or Human
+2037,Year,2013
+2037,Genre,Art
+2037,Creator,Shinseungback Kimyonghun
+2037,URL,http://ssbkyh.com/works/cat_human/
+2037,Country,South Korea
+2037,IsSciFi,No
+2042,WorkTitle,Panopticities
+2042,Year,2018
+2042,Genre,Art
+2042,Creator,KairUs
+2042,URL,http://kairus.org/portfolio/panopticities-2018/
+2042,Country,South Korea
+2042,IsSciFi,No
+2044,WorkTitle,Suspicious Behavior
+2044,Year,2020
+2044,Genre,Art
+2044,Creator,KairUs
+2044,URL,http://kairus.org/portfolio/suspicious-behavior-2020/
+2044,URL,https://kairus.org/suspicious/
+2044,Country,Norway
+2044,Country,Austria
+2044,IsSciFi,No
+2045,WorkTitle,Sharing locations: YONGSAN & HUMPHREY GARRISON
+2045,Year,2018
+2045,Genre,Art
+2045,Creator,KairUs
+2045,URL,http://kairus.org/portfolio/sharing-location-yongsan-humphrey-garrison/
+2045,Country,South Korea
+2045,IsSciFi,No
+2046,WorkTitle,Capture
+2046,Year,2020
+2046,Genre,Art
+2046,Creator,Paolo Cirio
+2046,URL,https://paolocirio.net/work/capture/
+2046,Country,Italy
+2046,IsSciFi,No
+2047,WorkTitle,YHB Pocket Shield
+2047,Year,2020
+2047,Genre,Art
+2047,Creator,Leonardo Selvaggio
+2047,URL,https://sites.google.com/view/yhbpocketprotestshield/
+2047,Country,United States
+2047,IsSciFi,No
+2052,WorkTitle,The Martian
+2052,Year,2015
+2052,Genre,Narrative
+2052,Creator,Ridley Scott
+2052,Country,United Kingdom
+2052,Country,United States
+2052,Work_WikidataID,Q18547944
+2052,IsSciFi,Yes
+2062,WorkTitle,X-Men: Days of Future Past
+2062,Year,2014
+2062,Genre,Narrative
+2062,Creator,Bryan Singer
+2062,Country,United States
+2062,Work_WikidataID,Q4985891
+2062,IsSciFi,Yes
+2068,WorkTitle,Six Wakes
+2068,Year,2017
+2068,Genre,Narrative
+2068,Creator,Mur Lafferty
+2068,Country,United States
+2068,Work_WikidataID,Q54488341
+2068,IsSciFi,Yes
+2071,WorkTitle,Sleep Dealer
+2071,Year,2008
+2071,Genre,Narrative
+2071,Creator,Alex Rivera
+2071,URL,https://www.imdb.com/title/tt0804529/
+2071,Country,United States
+2071,Work_WikidataID,Q204190
+2071,IsSciFi,Yes
+2077,WorkTitle,Avengers: Infinity War
+2077,Year,2018
+2077,Genre,Narrative
+2077,Creator,Anthony & Joseph Russo
+2077,Country,United States
+2077,Work_WikidataID,Q23780914
+2077,IsSciFi,Yes
+2083,WorkTitle,Welcome to Your Authentic Indian ExperienceTM
+2083,Year,2017
+2083,Genre,Narrative
+2083,Creator,Rebecca Roanhorse
+2083,URL,https://apex-magazine.com/welcome-to-your-authentic-indian-experience/
+2083,Country,United States
+2083,Work_WikidataID,Q56215021
+2083,IsSciFi,Yes
+2095,WorkTitle,For Want of a Nail
+2095,Year,2010
+2095,Genre,Narrative
+2095,Creator,Mary Robinette Kowal
+2095,Country,United States
+2095,Work_WikidataID,Q27903816
+2095,IsSciFi,Yes
+2101,WorkTitle,Avengers: Endgame
+2101,Year,2019
+2101,Genre,Narrative
+2101,Creator,Anthony & Joseph Russo
+2101,Country,United States
+2101,Work_WikidataID,Q23781155
+2101,IsSciFi,Yes
+2116,WorkTitle,America is Bleeding
+2116,Year,2005
+2116,Genre,Art
+2116,Creator,STANZA
+2116,URL,https://stanza.co.uk/new_york_stories/index.html
+2116,Country,United Kingdom
+2116,Country,United States
+2116,IsSciFi,No
+2120,WorkTitle,(In)Security Camera
+2120,Year,2003
+2120,Genre,Art
+2120,Creator,Silvia Ruzanka
+2120,Creator,Ben Chang
+2120,Creator,Dmitry Strakovsky
+2120,URL,http://silviaruzanka.com/art/insecurity-camera/
+2120,Country,Peru
+2120,Country,United States
+2120,Country,Russia
+2120,IsSciFi,No
+2122,WorkTitle,Antibodies
+2122,Year,2020
+2122,Genre,Art
+2122,Creator,Daniel Iregui
+2122,URL,https://antibodies.webcam
+2122,Country,Canada
+2122,IsSciFi,No
+2124,WorkTitle,Lacework
+2124,Year,2020
+2124,Genre,Art
+2124,Creator,Everest Pipkin
+2124,URL,https://thephotographersgallery.org.uk/whats-on/digital-project/everest-pipkin-lacework
+2124,Country,United States
+2124,IsSciFi,No
+2126,WorkTitle,DOOR and BOX
+2126,Year,2019
+2126,Genre,Art
+2126,Creator,Tomás Laurenzo
+2126,Creator,Katia Vega
+2126,URL,https://laurenzo.net/door-box/
+2126,Country,United States
+2126,IsSciFi,No
+2144,WorkTitle,Yat Madit
+2144,Year,2020
+2144,Genre,Narrative
+2144,Creator,Dilman Dila
+2144,URL,https://brittlepaper.com/2020/10/yat-madit-by-dilman-dila-afrofuturism-anthology/
+2144,Country,Uganda
+2144,IsSciFi,Yes
+2148,WorkTitle,"Star Wars (Episode: 7, 8 & 9)"
+2148,Year,2015
+2148,Genre,Narrative
+2148,Creator,Jeffrey Jacob Abrams
+2148,Creator,Rian Johnson
+2148,URL,https://www.imdb.com/title/tt2488496/?ref_=ttls_li_tt
+2148,URL,https://www.imdb.com/title/tt2527336/?ref_=ttls_li_tt
+2148,URL,https://www.imdb.com/title/tt2527338/?ref_=ttls_li_tt
+2148,Country,United States
+2148,Work_WikidataID,Q6074
+2148,IsSciFi,Yes
+2198,WorkTitle,Watch Dogs: Legion
+2198,Year,2020
+2198,Genre,Game
+2198,Creator,Ubisoft
+2198,Work_WikidataID,Q64534648
+2198,IsSciFi,Yes
+2208,WorkTitle,3%
+2208,Year,2016
+2208,Genre,Narrative
+2208,Creator,Pedro Aguilera
+2208,Country,Brazil
+2208,IsSciFi,Yes
+2215,WorkTitle,Oblivion
+2215,Year,2013
+2215,Genre,Narrative
+2215,Creator,Joseph Kosinski
+2215,URL,https://www.imdb.com/title/tt1483013/
+2215,Country,United States
+2215,Work_WikidataID,Q638544
+2215,IsSciFi,Yes
+2222,WorkTitle,Passengers
+2222,Year,2016
+2222,Genre,Narrative
+2222,Creator,Morten Tyldum
+2222,URL,https://www.imdb.com/title/tt1355644/
+2222,Country,Norway
+2222,Country,United States
+2222,Work_WikidataID,Q20962283
+2222,IsSciFi,Yes
+2232,WorkTitle,Osmosis
+2232,Year,2019
+2232,Genre,Narrative
+2232,Creator,Audrey Fouché
+2232,Country,France
+2232,IsSciFi,Yes
+2238,WorkTitle,Behind our Irises
+2238,Year,2020
+2238,Genre,Narrative
+2238,Creator,Tlotlo Tsamaase
+2238,URL,https://brittlepaper.com/2020/10/behind-our-irises-by-tlotlo-tsamaase-africanfuturism-anthology/
+2238,Country,Botswana
+2238,IsSciFi,Yes
+2241,WorkTitle,How to Sell Drugs Online (Fast)
+2241,Year,2019
+2241,Genre,Narrative
+2241,Creator,Philipp Käßbohrer
+2241,Creator,Matthias Murmann
+2241,Country,Germany
+2241,Work_WikidataID,Q58476599
+2241,IsSciFi,No
+2250,WorkTitle,X Degrees of Separation
+2250,Year,2018
+2250,Genre,Art
+2250,Creator,Mario Klingemann
+2250,Creator,Simon Doury
+2250,URL,https://artsexperiments.withgoogle.com/xdegrees/_QGmK6x4SLZRwQ/ogGvLdZg_9FlIQ
+2250,URL,https://experiments.withgoogle.com/x-degrees-of-separation
+2250,Country,Germany
+2250,IsSciFi,No
+2277,WorkTitle,2001: A Space Odyssey (novel and film)
+2277,Year,1968
+2277,Genre,Narrative
+2277,Creator,Arthur Charles Clarke
+2277,Creator,Stanley Kubrick
+2277,Country,United Kingdom
+2277,Country,United States
+2277,Work_WikidataID,Q103474
+2277,IsSciFi,Yes
+2297,WorkTitle,Technotise: Edit & I
+2297,Year,2009
+2297,Genre,Narrative
+2297,Creator,Aleksa Gajic
+2297,Creator,Nebojsa Andric
+2297,Creator,Stevan Djordjevic
+2297,URL,https://www.youtube.com/watch?v=OYwas6tZLP8
+2297,Country,Serbia
+2297,Work_WikidataID,Q225964
+2297,IsSciFi,Yes
+2299,WorkTitle,Alita: Battle Angel
+2299,Year,2019
+2299,Genre,Narrative
+2299,Creator,Robert Rodriguez
+2299,URL,https://www.imdb.com/title/tt0437086/
+2299,Country,United States
+2299,Work_WikidataID,Q810987
+2299,IsSciFi,Yes
+2300,WorkTitle,Ghost in the Shell
+2300,Year,2017
+2300,Genre,Narrative
+2300,Creator,Rupert Sanders
+2300,URL,https://www.imdb.com/title/tt1219827/
+2300,Country,United States
+2300,Work_WikidataID,Q22575835
+2300,IsSciFi,Yes
+2307,WorkTitle,Gravity
+2307,Year,2013
+2307,Genre,Narrative
+2307,Creator,Alfonso Cuarón
+2307,Country,United Kingdom
+2307,Country,United States
+2307,Work_WikidataID,Q2579784
+2307,IsSciFi,Yes
+2327,WorkTitle,Prometheus
+2327,Year,2012
+2327,Genre,Narrative
+2327,Creator,Ridley Scott
+2327,Country,United Kingdom
+2327,Country,United States
+2327,Work_WikidataID,Q192686
+2327,IsSciFi,Yes
+2339,WorkTitle,The Avengers
+2339,Year,2012
+2339,Genre,Narrative
+2339,Creator,Joss Whedon
+2339,Creator,Marvel
+2339,Country,United States
+2339,Work_WikidataID,Q182218
+2339,IsSciFi,Yes
+2344,WorkTitle,Best Friend
+2344,Year,2018
+2344,Genre,Narrative
+2344,Creator,Nicholas Olivieri
+2344,Creator,Shen Yi
+2344,Creator,Varun Nair
+2344,Creator,Juliana De Lucca
+2344,Creator,David Feliu
+2344,URL,https://www.shortoftheweek.com/2018/11/08/best-friend/
+2344,Country,France
+2344,Work_WikidataID,Q60440861
+2344,IsSciFi,Yes
+2356,WorkTitle,Thor: Ragnarok
+2356,Year,2017
+2356,Genre,Narrative
+2356,Creator,Taika Waititi
+2356,Creator,Marvel
+2356,Country,United States
+2356,Work_WikidataID,Q22665878
+2356,IsSciFi,Yes
+2362,WorkTitle,2.0 (2018)
+2362,Year,2018
+2362,Genre,Narrative
+2362,Creator,Shankar Shanmugam
+2362,Country,India
+2362,Work_WikidataID,Q21095433
+2362,IsSciFi,Yes
+2372,WorkTitle,Cosmodrama
+2372,Year,2016
+2372,Genre,Narrative
+2372,Creator,Philippe Fernandez
+2372,URL,https://www.imdb.com/title/tt3292146/
+2372,Country,France
+2372,Work_WikidataID,Q24939591
+2372,IsSciFi,Yes
+2382,WorkTitle,Srivalli
+2382,Year,2017
+2382,Genre,Narrative
+2382,Creator,Koduri Viswa Vijayendra Prasad
+2382,Country,India
+2382,Work_WikidataID,Q30592092
+2382,IsSciFi,Yes
+2397,WorkTitle,Android Kunjappan Version 5.25
+2397,Year,2019
+2397,Genre,Narrative
+2397,Creator,Ratheesh Balakrishnan Poduval
+2397,Country,India
+2397,Work_WikidataID,Q77895617
+2397,IsSciFi,Yes
+2412,WorkTitle,The Expanse
+2412,Year,2015
+2412,Genre,Narrative
+2412,Creator,James S.A. Corey
+2412,Creator,Naren Shankar
+2412,URL,https://www.imdb.com/title/tt3230854/
+2412,Country,United States
+2412,Work_WikidataID,Q7732812
+2412,IsSciFi,Yes
+2427,WorkTitle,His Dark Materials
+2427,Year,2019
+2427,Genre,Narrative
+2427,Creator,Jack Thorne
+2427,URL,https://www.imdb.com/title/tt5607976/?ref_=nv_sr_srsg_0
+2427,Country,United Kingdom
+2427,Country,United States
+2427,Work_WikidataID,Q56195117
+2427,IsSciFi,Yes
+2433,WorkTitle,My Holo Love
+2433,Year,2020
+2433,Genre,Narrative
+2433,Creator,Lee Sang-Yeob
+2433,URL,https://www.imdb.com/title/tt11058644/?ref_=nv_sr_srsg_0
+2433,Country,South Korea
+2433,Work_WikidataID,Q65239333
+2433,IsSciFi,Yes
+2449,WorkTitle,Too Much
+2449,Year,2020
+2449,Genre,Narrative
+2449,Creator,Marshmello
+2449,Creator,Imanbek Zeikenov
+2449,Creator,Usher Raymond IV
+2449,URL,https://www.youtube.com/watch?v=CDrn_k3bty4
+2449,Country,United States
+2449,Country,Kazakhstan
+2449,IsSciFi,Yes
+2463,WorkTitle,The Last Human
+2463,Year,2020
+2463,Genre,Narrative
+2463,Creator,Lee Bacon
+2463,URL,https://www.goodreads.com/book/show/42774177-the-last-human
+2463,Country,United States
+2463,IsSciFi,Yes
+2469,WorkTitle,Cyberpunk 2077
+2469,Year,2020
+2469,Genre,Game
+2469,Creator,CD Projekt RED
+2469,URL,https://en.wikipedia.org/wiki/Cyberpunk_2077
+2469,Country,Poland
+2469,Work_WikidataID,Q3182559
+2469,IsSciFi,Yes
+2476,WorkTitle,The Mandalorian
+2476,Year,2019
+2476,Genre,Narrative
+2476,Creator,Jon Favreau
+2476,URL,https://en.wikipedia.org/wiki/The_Mandalorian
+2476,Country,United States
+2476,Work_WikidataID,Q56876444
+2476,IsSciFi,Yes
+2477,WorkTitle,Bouvet√∏ya 2052
+2477,Year,2015
+2477,Genre,Narrative
+2477,Creator,Lars Mæhle
+2477,Country,Norway
+2477,IsSciFi,Yes
+2519,WorkTitle,The Social Dilemma
+2519,Year,2020
+2519,Genre,Narrative
+2519,Creator,Jeff Orlowski
+2519,URL,https://www.netflix.com/title/81254224
+2519,Country,United States
+2519,Work_WikidataID,Q99191029
+2519,IsSciFi,Yes
+2525,WorkTitle,STET
+2525,Year,2018
+2525,Genre,Narrative
+2525,Creator,Sarah Gailey
+2525,URL,https://firesidefiction.com/stet#fifteen
+2525,Country,United States
+2525,Work_WikidataID,Q65016942
+2525,IsSciFi,Yes
+2532,WorkTitle,Isle of Dogs
+2532,Year,2018
+2532,Genre,Narrative
+2532,Creator,Wes Anderson
+2532,Country,United States
+2532,Work_WikidataID,Q28065409
+2532,IsSciFi,Yes
+2544,WorkTitle,The Invisible Man
+2544,Year,2020
+2544,Genre,Narrative
+2544,Creator,Leigh Whannell
+2544,Country,United States
+2544,Country,Australia
+2544,Work_WikidataID,Q64004122
+2544,IsSciFi,Yes
+2546,WorkTitle,Fl√•klypa Grand Prix
+2546,Year,1975
+2546,Genre,Narrative
+2546,Creator,Ivo Caprino
+2546,URL,https://www.imdb.com/title/tt0073000/?ref_=nv_sr_srsg_0
+2546,Country,Norway
+2546,Work_WikidataID,Q570651
+2546,IsSciFi,No
+2576,WorkTitle,The Midnight Sky
+2576,Year,2020
+2576,Genre,Narrative
+2576,Creator,George Clooney
+2576,Country,United States
+2576,Work_WikidataID,Q71767482
+2576,IsSciFi,Yes
+2587,WorkTitle,Superintelligence
+2587,Year,2020
+2587,Genre,Narrative
+2587,Creator,Ben Falcone
+2587,URL,https://www.imdb.com/title/tt7178640/?ref_=nv_sr_srsg_0
+2587,Country,United States
+2587,Work_WikidataID,Q55696425
+2587,IsSciFi,Yes
+2599,WorkTitle,A Scanner Darkly
+2599,Year,2006
+2599,Genre,Narrative
+2599,Creator,Richard Linklater
+2599,URL,https://www.imdb.com/title/tt0405296/?ref_=fn_al_tt_1
+2599,Country,United States
+2599,Work_WikidataID,Q300547
+2599,IsSciFi,No
+2607,WorkTitle,She-Ra and the Princess of Power
+2607,Year,2018
+2607,Genre,Narrative
+2607,Creator,Noelle Stevenson
+2607,URL,https://www.imdb.com/title/tt7745956/?ref_=nv_sr_srsg_0
+2607,Country,United States
+2607,IsSciFi,Yes
+2613,WorkTitle,Satellite Reign
+2613,Year,2015
+2613,Genre,Game
+2613,Creator,5 Lives Studios
+2613,URL,https://store.steampowered.com/app/268870/Satellite_Reign/
+2613,Country,Australia
+2613,Work_WikidataID,Q16267696
+2613,IsSciFi,Yes
+2628,WorkTitle,Dystopia
+2628,Year,2016
+2628,Genre,Narrative
+2628,Creator,Megadeath
+2628,URL,https://www.youtube.com/watch?v=bK95lWHl7js
+2628,Country,United States
+2628,Work_WikidataID,Q21040991
+2628,IsSciFi,No
+2635,WorkTitle,Stellar
+2635,Year,2009
+2635,Genre,Narrative
+2635,Creator,Incubus
+2635,URL,https://www.youtube.com/watch?v=-nqRkAsZumc
+2635,Country,United States
+2635,IsSciFi,No
+2642,WorkTitle,Utbryterne
+2642,Year,2020
+2642,Genre,Narrative
+2642,Creator,Nina Borge
+2642,Country,Norway
+2642,IsSciFi,Yes
+2655,WorkTitle,Change Return
+2655,Year,2020
+2655,Genre,Narrative
+2655,Creator,Robert Findlay
+2655,URL,https://www.shortoftheweek.com/2020/07/15/change-return/
+2655,Country,United Kingdom
+2655,IsSciFi,No
+2663,WorkTitle,This Time Away
+2663,Year,2019
+2663,Genre,Narrative
+2663,Creator,Magali Barbe
+2663,URL,https://www.shortoftheweek.com/2020/05/14/this-time-away/
+2663,Country,United Kingdom
+2663,IsSciFi,Yes
+2665,WorkTitle,And Shall Machines Surrender
+2665,Year,2019
+2665,Genre,Narrative
+2665,Creator,Benjanun Sriduangkaew
+2665,Country,Thailand
+2665,IsSciFi,Yes
+2672,WorkTitle,A Date in 2025
+2672,Year,2017
+2672,Genre,Narrative
+2672,Creator,Ryan Turner
+2672,URL,https://www.imdb.com/title/tt6090846/
+2672,Country,United States
+2672,IsSciFi,No
+2677,WorkTitle,Hyper Reality
+2677,Year,2016
+2677,Genre,Narrative
+2677,Creator,Keiichi Matsuda
+2677,URL,http://hyper-reality.co/
+2677,Country,Colombia
+2677,Country,United Kingdom
+2677,IsSciFi,No
+2684,Year,2013
+2689,WorkTitle,BlinkyTM
+2689,Year,2011
+2689,Genre,Narrative
+2689,Creator,Ruairi Robinson
+2689,URL,https://www.imdb.com/title/tt1520494/
+2689,Country,Ireland
+2689,Work_WikidataID,Q15088216
+2689,IsSciFi,No
+2693,WorkTitle,The Nostalgist
+2693,Year,2014
+2693,Genre,Narrative
+2693,Creator,Giacomo Cimini
+2693,URL,https://www.imdb.com/title/tt3215822/?ref_=nm_knf_i1
+2693,Country,Italy
+2693,Country,United Kingdom
+2693,Work_WikidataID,Q20925597
+2693,IsSciFi,Yes
+2696,WorkTitle,Ana
+2696,Year,2015
+2696,Genre,Narrative
+2696,Creator,Factory Fifteen
+2696,URL,https://www.shortoftheweek.com/2016/03/18/ana/
+2696,Country,United Kingdom
+2696,Work_WikidataID,Q20521107
+2696,IsSciFi,Yes
+2701,WorkTitle,Temple
+2701,Year,2015
+2701,Genre,Narrative
+2701,Creator,Nguyen-Anh Nguyen
+2701,URL,https://www.imdb.com/title/tt4383284/?ref_=nm_knf_i4
+2701,Country,Canada
+2701,Work_WikidataID,Q25136813
+2701,IsSciFi,Yes
+2707,WorkTitle,The Old Lie
+2707,Year,2019
+2707,Genre,Narrative
+2707,Creator,Claire G. Coleman
+2707,Country,Australia
+2707,Work_WikidataID,Q108101049
+2707,IsSciFi,Yes
+2714,WorkTitle,Freaks
+2714,Year,2018
+2714,Genre,Narrative
+2714,Creator,Zach Lipovsky
+2714,Creator,Adam B. Stein
+2714,URL,https://www.imdb.com/title/tt8781414/?ref_=nv_sr_srsg_3
+2714,Country,United States
+2714,Work_WikidataID,Q58227961
+2714,IsSciFi,Yes
+2719,WorkTitle,Madoc: A Mystery
+2719,Year,1990
+2719,Genre,Narrative
+2719,Creator,Paul Muldoon
+2719,Country,Ireland
+2719,IsSciFi,No
+2722,WorkTitle,Outside the Wire
+2722,Year,2021
+2722,Genre,Narrative
+2722,Creator,Mikael Håfström
+2722,URL,https://www.imdb.com/title/tt10451914/
+2722,Country,United States
+2722,Work_WikidataID,Q104241071
+2722,IsSciFi,Yes
+2740,WorkTitle,The Battle of Ilovaisk
+2740,Year,2019
+2740,Genre,Art
+2740,Creator,Forensic Architecture
+2740,URL,https://forensic-architecture.org/investigation/the-battle-of-ilovaisk
+2740,Country,United Kingdom
+2740,IsSciFi,No
+2778,WorkTitle,Compis
+2778,Year,2018
+2778,Genre,Narrative
+2778,Creator,Hasse Hope
+2778,Country,Norway
+2778,IsSciFi,Yes
+2790,WorkTitle,Wool
+2790,Year,2011
+2790,Genre,Narrative
+2790,Creator,Hugh Howey
+2790,Country,United States
+2790,IsSciFi,Yes
+2798,WorkTitle,Agency
+2798,Year,2020
+2798,Genre,Narrative
+2798,Creator,William Gibson
+2798,Country,United States
+2798,IsSciFi,Yes
+2803,WorkTitle,The Peripheral
+2803,Year,2014
+2803,Genre,Narrative
+2803,Creator,William Gibson
+2803,Country,United States
+2803,IsSciFi,Yes
+2810,WorkTitle,Arc of a Scythe (series)
+2810,Year,2016
+2810,Genre,Narrative
+2810,Creator,Neal Shusterman
+2810,Country,United States
+2810,Work_WikidataID,Q110716508
+2810,IsSciFi,Yes
+2812,WorkTitle,Invincible
+2812,Year,2021
+2812,Genre,Narrative
+2812,Creator,Robert Kirkman
+2812,URL,https://en.wikipedia.org/wiki/Invincible_(TV_series)
+2812,Country,United States
+2812,IsSciFi,Yes
+2820,WorkTitle,3x3x6
+2820,Year,2019
+2820,Genre,Art
+2820,Creator,Shu Lea Cheang
+2820,URL,http://3x3x6.com/
+2820,Country,Taiwan
+2820,IsSciFi,No
+2828,WorkTitle,Utopian Extraction
+2828,Year,2020
+2828,Genre,Art
+2828,Creator,unmake lab
+2828,URL,https://www.notion.so/unmake-lab-_utopian-extraction-feceb83d80aa4a2c878c7468b6057e3c
+2828,Country,South Korea
+2828,IsSciFi,No
+2835,WorkTitle,The Talos Principle
+2835,Year,2014
+2835,Genre,Game
+2835,Creator,Croteam
+2835,URL,https://en.wikipedia.org/wiki/The_Talos_Principle
+2835,Country,Croatia
+2835,Work_WikidataID,Q18620506
+2835,IsSciFi,Yes
+2841,WorkTitle,Starcraft II: Wings of Liberty
+2841,Year,2010
+2841,Genre,Game
+2841,Creator,Blizzard Entertainment
+2841,URL,https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty
+2841,Country,United States
+2841,Work_WikidataID,Q239288
+2841,IsSciFi,Yes
+2849,WorkTitle,Heroes of the Storm
+2849,Year,2015
+2849,Genre,Game
+2849,Creator,Blizzard Entertainment
+2849,URL,https://en.wikipedia.org/wiki/Heroes_of_the_Storm
+2849,Country,United States
+2849,Work_WikidataID,Q15139655
+2849,IsSciFi,No
+2880,WorkTitle,In Other Waters
+2880,Year,2020
+2880,Genre,Game
+2880,Creator,Jump Over the Age
+2880,URL,https://store.steampowered.com/app/890720/In_Other_Waters/
+2880,Country,United Kingdom
+2880,Work_WikidataID,Q106592729
+2880,IsSciFi,Yes
+2894,WorkTitle,To the Moon
+2894,Year,2011
+2894,Genre,Game
+2894,Creator,Freebird Games
+2894,URL,https://en.wikipedia.org/wiki/To_the_Moon
+2894,Country,Canada
+2894,Work_WikidataID,Q1711379
+2894,IsSciFi,Yes
+2928,WorkTitle,Borderlands 3
+2928,Year,2019
+2928,Genre,Game
+2928,Creator,Gearbox Software
+2928,URL,https://en.wikipedia.org/wiki/Borderlands_3
+2928,Country,United States
+2928,Work_WikidataID,Q62565771
+2928,IsSciFi,Yes
+2935,WorkTitle,Classification.01
+2935,Year,2017
+2935,Genre,Art
+2935,Creator,Mimi Ọnụọha
+2935,URL,https://mimionuoha.com/classification01
+2935,Country,United States
+2935,IsSciFi,No
+2937,WorkTitle,"Us, Aggregated 3.0"
+2937,Year,2019
+2937,Genre,Art
+2937,Creator,Mimi Ọnụọha
+2937,URL,https://mimionuoha.com/us-aggregated-3
+2937,Country,United States
+2937,Country,Nigeria
+2937,IsSciFi,No
+2940,WorkTitle,Assembly Line
+2940,Year,2017
+2940,Genre,Art
+2940,Creator,Agnieszka Kurant
+2940,URL,https://openspace.sfmoma.org/2018/03/assembly-line-animal-internet/
+2940,Country,United States
+2940,Country,Poland
+2940,IsSciFi,No
+2944,WorkTitle,Shutter (game)
+2944,Year,2015
+2944,Genre,Game
+2944,Creator,Cosmic Logic
+2944,URL,https://store.steampowered.com/app/359560/Shutter/
+2944,Country,Canada
+2944,IsSciFi,No
+2948,WorkTitle,The High-Rise Diver
+2948,Year,2018
+2948,Genre,Narrative
+2948,Creator,Julia von Lucadou
+2948,Country,Germany
+2948,IsSciFi,Yes
+2972,WorkTitle,Solar Opposites
+2972,Year,2020
+2972,Genre,Narrative
+2972,Creator,Justin Roiland
+2972,Creator,Mike McMahan
+2972,URL,https://en.wikipedia.org/wiki/Solar_Opposites
+2972,URL,https://subslikescript.com/series/Solar_Opposites-8910922/season-1/episode-6-The_PATRICIA_Device
+2972,Country,United States
+2972,Work_WikidataID,Q56290639
+2972,IsSciFi,Yes
+2975,WorkTitle,The Salvage Crew
+2975,Year,2020
+2975,Genre,Narrative
+2975,Creator,Yudhanjaya Wijeratne
+2975,Country,Sri Lanka
+2975,IsSciFi,Yes
+2978,WorkTitle,Moth & Whisper
+2978,Year,2018
+2978,Genre,Narrative
+2978,Creator,Ted Anderson
+2978,Creator,Jen Hickman
+2978,Country,United States
+2978,IsSciFi,Yes
+2981,WorkTitle,Don't Look
+2981,Year,2019
+2981,Genre,Game
+2981,Creator,Don't Look Team
+2981,URL,https://dontlook.itch.io/dont-look
+2981,Country,France
+2981,Work_WikidataID,Q85631448
+2981,IsSciFi,No
+2985,WorkTitle,Before Your Eyes
+2985,Year,2021
+2985,Genre,Game
+2985,Creator,GoodbyeWorld Games
+2985,URL,https://en.wikipedia.org/wiki/Before_Your_Eyes
+2985,Country,United States
+2985,Work_WikidataID,Q106452472
+2985,IsSciFi,No
+2988,WorkTitle,Mask.ID
+2988,Year,2018
+2988,Genre,Art
+2988,Creator,Peng!
+2988,URL,https://pen.gg/campaign/mask-id-2/
+2988,URL,https://www.vice.com/en/article/pa9vyb/peng-collective-artists-hack-german-passport
+2988,Country,Germany
+2988,IsSciFi,No
+3012,WorkTitle,Portrait Machine
+3012,Year,2009
+3012,Genre,Art
+3012,Creator,Theodore Watson
+3012,Creator,Kyle Mcdonald
+3012,URL,https://theowatson.com/work/portrait-machine
+3012,Country,Netherlands
+3012,IsSciFi,No
+3014,WorkTitle,Vibe Check
+3014,Year,2020
+3014,Genre,Art
+3014,Creator,Lauren McCarthy
+3014,Creator,Kyle Mcdonald
+3014,URL,https://lauren-mccarthy.com/Vibe-Check
+3014,Country,United States
+3014,IsSciFi,No
+3017,WorkTitle,Molecular Informatics-morphogenic substance via eye tracking
+3017,Year,1996
+3017,Genre,Art
+3017,Creator,Seiko Mikami
+3017,URL,http://www.digitalartarchive.at/index.php?id=54&tx_vafe_pi1%5Bwork%5D=620&cHash=6f77a67279a0f1117b69ff6eb66f00e4
+3017,URL,http://www.idd.tamabi.ac.jp/~mikami/artworks/
+3017,Country,Japan
+3017,IsSciFi,No
+3020,WorkTitle,Values Of Values
+3020,Year,2019
+3020,Genre,Art
+3020,Creator,Maurice Benayoun
+3020,URL,http://www.digitalartarchive.at/index.php?id=54&tx_vafe_pi1%5Bwork%5D=4181&cHash=8254cf89e0e88ad19c4b5d0c7dada17c
+3020,URL,https://benayoun.com/moben/2020/06/06/value-of-values-transactional-art-on-the-blockchain/
+3020,URL,https://www.v-o-v.io/
+3020,Country,Taiwan
+3020,Country,Hong Kong SAR China
+3020,Country,France
+3020,Country,Algeria
+3020,IsSciFi,No
+3033,WorkTitle,The Mitchells vs. The Machines
+3033,Year,2021
+3033,Genre,Narrative
+3033,Creator,Mike Rianda
+3033,Creator,Jeff Rowe
+3033,Country,United States
+3033,Work_WikidataID,Q54021143
+3033,IsSciFi,Yes
+3037,WorkTitle,Tillie and CyberRoberta
+3037,Year,1995
+3037,Genre,Art
+3037,Creator,Lynn Hershman Leeson
+3037,URL,https://www.digitalartarchive.at/database/general/work/tilliecyberoberta.html
+3037,URL,https://www.lynnhershman.com/tillie-and-cyberroberta/
+3037,Country,United States
+3037,IsSciFi,No
+3039,WorkTitle,"So.So.So. (Somebody, Somewhere, Sometime)"
+3039,Year,2002
+3039,Genre,Art
+3039,Creator,Maurice Benayoun
+3039,URL,http://www.digitalartarchive.at/index.php?id=54&tx_vafe_pi1%5Bwork%5D=513&cHash=78881ec990ac88c0ff1424cc8cbbfa16
+3039,URL,https://benayoun.com/moben/2002/11/11/so-so-so-somebody-somewhere-some-time/
+3039,Country,Algeria
+3039,Country,France
+3039,Country,Hong Kong SAR China
+3039,Country,Germany
+3039,IsSciFi,No
+3043,WorkTitle,Demonstrate
+3043,Year,2004
+3043,Genre,Art
+3043,Creator,Ken Goldberg
+3043,URL,http://www.digitalartarchive.at/index.php?id=54&tx_vafe_pi1%5Bwork%5D=914&cHash=d857715257e4954d7fecc711a479b9fa
+3043,URL,http://demonstrate.berkeley.edu/project.php
+3043,IsSciFi,No
+3051,WorkTitle,SelfieCity
+3051,Year,2014
+3051,Genre,Art
+3051,Creator,Lev Manovich
+3051,Creator,Jay Chow
+3051,Creator,Moritz Stefaner
+3051,URL,http://www.digitalartarchive.at/index.php?id=54&tx_vafe_pi1%5Bwork%5D=3846&cHash=d5cec3d8b5e957693605989fe3976dc4
+3051,URL,http://selfiecity.net
+3051,Country,Brazil
+3051,Country,United States
+3051,IsSciFi,No
+3067,WorkTitle,Neuro Mirror
+3067,Year,2017
+3067,Genre,Art
+3067,Creator,Christa Sommerer
+3067,Creator,Laurent Mignonneau
+3067,URL,https://www.digitalartarchive.at/database/general/work/neuro-mirror.html
+3067,URL,http://www.interface.ufg.ac.at/christa-laurent/WORKS/artworks/NeuroMirror/NeuroMirror.html
+3067,Country,Austria
+3067,IsSciFi,No
+3082,WorkTitle,Revolt
+3082,Year,2015
+3082,Genre,Narrative
+3082,Creator,Muse
+3082,URL,https://www.youtube.com/watch?v=91fQTXrSRZE
+3082,Country,United Kingdom
+3082,Work_WikidataID,Q21480358
+3082,IsSciFi,Yes
+3087,WorkTitle,Have a Nice Day
+3087,Year,2017
+3087,Genre,Narrative
+3087,Creator,Jian Liu
+3087,URL,https://www.imdb.com/title/tt6451304/?ref_=ttfc_fc_tt
+3087,Country,China
+3087,Work_WikidataID,Q28743025
+3087,IsSciFi,No
+3091,WorkTitle,Gruppebilde Bergen 2020
+3091,Year,2021
+3091,Genre,Art
+3091,Creator,Toril Johannessen
+3091,URL,https://www.toriljohannessen.no/works/gruppebilde-bergen/
+3091,Country,Norway
+3091,IsSciFi,No
+3109,WorkTitle,Heavy Rain
+3109,Year,2010
+3109,Genre,Game
+3109,Creator,Quantic Dream
+3109,Country,France
+3109,Work_WikidataID,Q647855
+3109,IsSciFi,Yes
+3112,WorkTitle,Half-Life 2
+3112,Year,2004
+3112,Genre,Game
+3112,Creator,Valve
+3112,URL,https://en.wikipedia.org/wiki/Half-Life_2
+3112,Country,United States
+3112,Work_WikidataID,Q193581
+3112,IsSciFi,Yes
+3119,WorkTitle,Machinehood
+3119,Year,2021
+3119,Genre,Narrative
+3119,Creator,S.B. Divya
+3119,Country,United States
+3119,Country,India
+3119,IsSciFi,Yes
+3125,WorkTitle,Attack Surface
+3125,Year,2020
+3125,Genre,Narrative
+3125,Creator,Cory Doctorow
+3125,Country,United States
+3125,IsSciFi,Yes
+3129,WorkTitle,Remote Control
+3129,Year,2020
+3129,Genre,Narrative
+3129,Creator,Nnedi Okorafor
+3129,Country,Nigeria
+3129,Country,United States
+3129,IsSciFi,Yes
+3137,WorkTitle,Black Widow
+3137,Year,2021
+3137,Genre,Narrative
+3137,Creator,Marvel
+3137,Country,United States
+3137,Work_WikidataID,Q23894626
+3137,IsSciFi,Yes
+3147,WorkTitle,The Human Detector
+3147,Year,2018
+3147,Genre,Art
+3147,Creator,Iyo Bisseck
+3147,URL,https://iyo.io/
+3147,URL,https://vimeo.com/347283293
+3147,Country,Cameroon
+3147,Country,France
+3147,IsSciFi,No
+3151,WorkTitle,Future Tense: AI from the margins
+3151,Year,2020
+3151,Genre,Art
+3151,Creator,Nakeema Stefflbauer
+3151,Creator,Nushin Isabelle Yazdani
+3151,URL,https://nushinyazdani.com/Future-Tense-AI-from-the-margins
+3151,Country,Germany
+3151,IsSciFi,No
+3157,WorkTitle,The Most Beautiful Women
+3157,Year,2019
+3157,Genre,Art
+3157,Creator,Melissa Huang
+3157,URL,http://www.melissahuang.com/
+3157,URL,https://vimeo.com/397674114
+3157,IsSciFi,No
+3161,WorkTitle,Zanan Disruption
+3161,Year,2016
+3161,Genre,Art
+3161,Creator,Nassem Navab
+3161,URL,https://www.nassemnavab.com/6
+3161,Country,United States
+3161,Country,Iran
+3161,IsSciFi,No
+3171,WorkTitle,The Argus Project
+3171,Year,2016
+3171,Genre,Art
+3171,Creator,Romi Ron Morrison
+3171,Creator,Gan Golan
+3171,Creator,Raquel De Anda
+3171,Creator,Ligaiya Romero
+3171,Creator,Ayodamola Tanimowo Okunseinde
+3171,Creator,Yvette King
+3171,Creator,Julien Terrell
+3171,Creator,Pierre Mendy
+3171,URL,https://elegantcollisions.com/argus
+3171,URL,https://gan-golan.squarespace.com/the-argus-project
+3171,Country,United States
+3171,IsSciFi,No
+3175,WorkTitle,HOW TO EDIT YOUR SELFIES
+3175,Year,2019
+3175,Genre,Art
+3175,Creator,b wijshijer
+3175,URL,https://www.shrimpychip.net/
+3175,Country,Indonesia
+3175,Country,Canada
+3175,IsSciFi,No
+3178,WorkTitle,Masked Reality
+3178,Year,2018
+3178,Genre,Art
+3178,Creator,Harshit Agrawal
+3178,URL,http://harshitagrawal.com/works/masked-reality
+3178,Country,India
+3178,IsSciFi,No
+3182,WorkTitle,Artificial Remnants 2.0
+3182,Year,2020
+3182,Genre,Art
+3182,Creator,Sofia Crespo
+3182,Creator,Feileacan McCormick
+3182,URL,https://artificialremnants.com/Artificial-Remnants-2-0
+3182,Country,Argentina
+3182,Country,Germany
+3182,IsSciFi,No
+3185,WorkTitle,Salaf
+3185,Year,2020
+3185,Genre,Art
+3185,Creator,Nouf Aljowaysir
+3185,URL,http://www.noufaljowaysir.com/#/thoughtworksai/
+3185,Country,Saudi Arabia
+3185,Country,United States
+3185,IsSciFi,No
+3189,WorkTitle,The Zizi Show
+3189,Year,2020
+3189,Genre,Art
+3189,Creator,Jake Elwes
+3189,URL,https://zizi.ai/
+3189,Country,United Kingdom
+3189,IsSciFi,No
+3194,WorkTitle,comeback
+3194,Year,2020
+3194,Genre,Art
+3194,Creator,Meltem Şahin
+3194,URL,https://www.meltemsahin.info/comeback
+3194,Country,Turkey
+3194,Work_WikidataID,Q5151383
+3194,IsSciFi,No
+3198,WorkTitle,INTERHUMAN
+3198,Year,2021
+3198,Genre,Art
+3198,Creator,Isabella Salas
+3198,Creator,Nora Isabel Golic
+3198,URL,https://www.electricartefacts.art/artwork/isabella-salas-x-nora-golic-interhuman
+3198,URL,https://isabellasalas.com/#/interhumanlab/
+3198,Country,Canada
+3198,Country,Argentina
+3198,Country,Mexico
+3198,IsSciFi,No
+3202,WorkTitle,The Other Nefertiti
+3202,Year,2015
+3202,Genre,Art
+3202,Creator,Nora Al-Badri
+3202,Creator,Jan Nikolai Nelles
+3202,URL,https://www.nora-al-badri.de/works-index
+3202,URL,https://alloversky.com/puzzlepieces/the-other-nefertiti
+3202,Country,Germany
+3202,Country,Iraq
+3202,IsSciFi,No
+3205,WorkTitle,Deep Down Tidal
+3205,Year,2017
+3205,Genre,Art
+3205,Creator,Tabita Rezaire
+3205,URL,https://www.tabitarezaire.com/offering.html
+3205,Country,French Guiana
+3205,IsSciFi,No
+3210,WorkTitle,"AI Facial Profiling, Levels of Paranoia"
+3210,Year,2018
+3210,Genre,Art
+3210,Creator,Marta Revuelta
+3210,Creator,Laurent Weingart
+3210,URL,https://revuelta.ch/ai-facial-profiling
+3210,Country,Switzerland
+3210,IsSciFi,No
+3216,WorkTitle,Klara and the Sun
+3216,Year,2021
+3216,Genre,Narrative
+3216,Creator,Kazuo Ishiguro
+3216,Country,United Kingdom
+3216,Work_WikidataID,Q105704813
+3216,IsSciFi,Yes
+3220,WorkTitle,Squid Game
+3220,Year,2021
+3220,Genre,Narrative
+3220,Creator,Dong-hyuk Hwang
+3220,URL,https://www.netflix.com/no-en/title/81040344
+3220,Country,South Korea
+3220,Work_WikidataID,Q106582931
+3220,IsSciFi,No
+3227,WorkTitle,A Disappeared Movement
+3227,Year,2020
+3227,Genre,Art
+3227,Creator,Yufeng Deng
+3227,Country,China
+3227,IsSciFi,No
+3252,WorkTitle,Emily Eternal
+3252,Year,2019
+3252,Genre,Narrative
+3252,Creator,M.G. Wheaton
+3252,Country,United States
+3252,IsSciFi,Yes
+3264,WorkTitle,Sight
+3264,Year,2012
+3264,Genre,Narrative
+3264,Creator,Eran May-Raz
+3264,Creator,Daniel Lazo
+3264,URL,https://www.youtube.com/watch?v=lK_cdkpazjI
+3264,Country,United States
+3264,IsSciFi,Yes
+3273,WorkTitle,StoryFace
+3273,Year,2018
+3273,Genre,Narrative
+3273,Creator,Alexandra Saemner
+3273,Creator,Serge Bouchardon
+3273,URL,http://bouchard.pers.utc.fr/storyface/
+3273,URL,https://www.youtube.com/watch?v=7IrXapKuBuM
+3273,Country,France
+3273,Work_WikidataID,Q111320217
+3273,IsSciFi,Yes
