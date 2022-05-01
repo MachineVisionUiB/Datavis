@@ -49,7 +49,7 @@ authors:
 identifiers:
   - type: doi
     value: 10.18710/2G0XKN
-repository-code: 'https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/2G0XKN'
+repository-code: 'https://doi.org/10.18710/2G0XKN'
 repository: >-
   https://doi.org/10.18710/2G0XKN
 abstract: >-
