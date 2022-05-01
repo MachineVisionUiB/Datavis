@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rettberg"
+  given-names: "Jill Walker"
+  orcid: "https://orcid.org/0000-0003-2472-3812"
+- family-names: "Kronman"
+  given-names: "Linda"
+  orcid: "https://orcid.org/0000-0001-7699-4505 "
+- family-names: "Solberg"
+  given-names: "Ragnhild"
+  orcid: "https://orcid.org/0000-0002-5486-2453"
+- family-names: "Gunderson"
+  given-names: "Marianne"
+  orcid: "https://orcid.org/0000-0003-2794-4848"
+  - family-names: "Bjørklund"
+  given-names: "Stein Magne"
+- family-names: "Stokkedal"
+  given-names: "Linn Heidi"
+- family-names: "de Seta"
+  given-names: "Gabriele"
+  orcid: "https://orcid.org/0000-0003-0497-2811 "
+- family-names: "Jacob"
+  given-names: "Kurdin"
+- family-names: "Markham"
+  given-names: "Annette"
+  orcid: "https://orcid.org/0000-0001-8152-2473 "
+title: "A Dataset Documenting Representations of Machine Vision Technologies in Artworks, Games and Narratives"
+version: 2.0.4
+doi: 10.18710/2G0XKN
+date-released: 2022-03-22
+url: "https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/2G0XKN"
+preferred-citation:
+  type: dataset
+  repository: "DataverseNO"
